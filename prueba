@@ -1,24 +1,31 @@
 #EXTM3U
 
-EXTINF:-1,[COLOR blue]<<<<<<<<< [/COLOR][COLOR red]LISTA RAFA [/COLOR][COLOR blue]>>>>>>>>>>[/COLOR]
-
-EXTINF:-1,[COLOR green] <<<<<<<<< UPDATE 03-09-2016 >>>>>>>>[/COLOR]
 
 
-EXTINF:-1,[B][COLOR blue]<<<<<<<<<<<<<<< [/COLOR][COLOR green]ATTENTION[/COLOR][COLOR blue] >>>>>>>>>>>>>>>>>[/COLOR][/B][/I]
+
+
+#EXTINF:-1,[COLOR blue]<<<<<<<<< [/COLOR][COLOR red]LISTA RAFA [/COLOR][COLOR blue]>>>>>>>>>>[/COLOR]
+
+#EXTINF:-1,[COLOR green] <<<<<<<<< UPDATE 03-09-2016 >>>>>>>>[/COLOR]
+
+
+#EXTINF:-1,[B][COLOR blue]<<<<<<<<<<<<<<< [/COLOR][COLOR green]ATTENTION[/COLOR][COLOR blue] >>>>>>>>>>>>>>>>>[/COLOR][/B][/I]
 http://?
 
-EXTINF:-1,[B][COLOR yellow]Esto es el resultado de muchas horas de trabajo[/COLOR][/B][/I]
+#EXTINF:-1,[B][COLOR yellow]Esto es el resultado de muchas horas de trabajo[/COLOR][/B][/I]
 http://?
 
-EXTINF:-1,[B][COLOR yellow]investigación a través de Internet.[/COLOR][/B][/I]
+#EXTINF:-1,[B][COLOR yellow]investigación a través de Internet.[/COLOR][/B][/I]
 http://?
 
-EXTINF:-1,[B][COLOR yellou]Con una pequeña donación.Son los pequeños gestos que marcan la diferencia.[/COLOR][/B][/I]
+#EXTINF:-1,[B][COLOR yellou]Con una pequeña donación.Son los pequeños gestos que marcan la diferencia.[/COLOR][/B][/I]
 http://live.mvdigital.net:1935/live6/livestream1.sdp/playlist.m3u8
 
-EXTINF:-1,[I][B][COLOR lime]DONACION: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=LY9QXRMMK4K6C [/COLOR][/B][/I]
+#EXTINF:-1,[I][B][COLOR lime]DONACION: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=LY9QXRMMK4K6C [/COLOR][/B][/I]
 http://live.mvdigital.net:1935/live6/livestream1.sdp/playlist.m3u8
+
+
+
 
 #EXTINF:-1,[COLOR lime]---Mexico---[/COLOR]
 http://?
