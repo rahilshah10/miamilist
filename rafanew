@@ -1,19 +1,19 @@
 EXTM3U
 EXTINF:-1,[COLOR blue]<<<<<<<<< [/COLOR][COLOR red]LISTA RAFA [/COLOR][COLOR blue]>>>>>>>>>>[/COLOR]
-http://0.0.0.0:1234
+http://?
 
 EXTINF:-1, [COLOR green] <<<<<<<<< UPDATE 03-09-2016 >>>>>>>>[/COLOR]
-http://0.0.0.0:1234
+http://?
 EXTINF:-1,[I][B][COLOR blue]<<<<<<<<<<<<<<< [COLOR green]ATTENTION[/COLOR] >>>>>>>>>>>>>>>>>[/COLOR][/B][/I]
-http://0.0.0.0:1234
+http://?
 EXTINF:-1,[I][B][COLOR yellow]Esto es el resultado de muchas horas de trabajo[/COLOR][/B][/I]
-http://0.0.0.0:1234
+http://?
 EXTINF:-1,[I][B][COLOR yellow]investigación a través de Internet.[/COLOR][/B][/I]
-http://0.0.0.0:1234
+http://?
 EXTINF:-1,[I][B][COLOR yellou]Con una pequeña donación.Son los pequeños gestos que marcan la diferencia.[/COLOR][/B][/I]
-http://0.0.0.0:1234
+http://?
 EXTINF:-1,[I][B][COLOR lime]DONACION: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=LY9QXRMMK4K6C [/COLOR][/B][/I]
-http://0.0.0.0:1234
+http://?
 
 
 EXTINF:-1,[COLOR blue]Fox[/COLOR]
@@ -53,14 +53,14 @@ EXTINF:-1,[COLOR blue]Neox[/COLOR]
 http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
 
 EXTINF:-1,[COLOR red]LISTA RAFA[/COLOR]
-http://0.0.0.0:1234
+http://?
 
 EXTINF:-1,[COLOR blue]<<<<<<<<<<<<[/COLOR][COLOR red]LATINOAMERICA[/COLOR][COLOR blue]<<<<<<<<<<<<[/COLOR]
-http://0.0.0.0:1234
+http://?
 
 EXTM3U
 EXTINF:-1,[COLOR lime]---Venezuela---[/COLOR]
-http://0.0.0.0:1234
+http://?
 
 EXTINF:-1,Anzoategui TV Venezuela
 rtsp://edge.wms28.lorini.net/anzoateguitv/anzoateguitv
