@@ -4,7 +4,7 @@
 
 
 
-#EXTINF:-1,[I][B][COLOR blue]<<<<<<<<<<<<<<<<<<<<<< [/COLOR][COLOR red]LISTA RAFA [/COLOR][COLOR blue]>>>>>>>>>>>>>>>>>>>[/COLOR][/B][/I]
+#EXTINF:-1,[I][B][COLOR blue]<<<<<<<<<<<<<<<<<<<<[/COLOR][COLOR red]LISTA RAFA [/COLOR][COLOR blue]>>>>>>>>>>>>>>>>>[/COLOR][/B][/I]
 http://?
 
 #EXTINF:-1,[I][B][COLOR green] <<<<<<<<<<<<<<< UPDATE 03-09-2016 >>>>>>>>>>>>>>>[/COLOR][/B][/I]
@@ -22,9 +22,60 @@ http://?
 #EXTINF:-1,[I][B][COLOR yellow]Una pequeña donación.Son los pequeños gestos que marcan la diferencia.[/COLOR][/B][/I]
 http://live.mvdigital.net:1935/live6/livestream1.sdp/playlist.m3u8
 
-#EXTINF:-1,[I][B][COLOR lime]DONACION: linecall1@hotmail.com[/COLOR][/B][/I]
+#EXTINF:-1,[I][B][COLOR lime]DONACION: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=LY9QXRMMK4K6C[/COLOR][/B][/I]
 http://live.mvdigital.net:1935/live6/livestream1.sdp/playlist.m3u8
 
+#EXTINF:-1,[COLOR lime]---USA---[/COLOR]
+http://?
+
+#EXTINF:0,TELEMUNDO
+http://iphone-streaming.ustream.tv/ustreamVideo/21733416/streams/live/playlist.m3u8
+#EXTINF:0,TELEMUNDO 1
+https://video-cdn.streamup.com/app/telemundox2chivas_69s-stream_aac/playlist.m3u8
+#EXTINF:0,Telemundo Pacifico
+https://video-cdn.streamup.com/app/telemundo-pacifics-stream_aac/playlist.m3u8
+#EXTINF:0,UNIVISION 
+https://video-cdn.streamup.com/app/univision2chivas_69s-stream_aac/chunklist.m3u8
+#EXTINF:0,UNIVISION 1
+http://iphone-streaming.ustream.tv/ustreamVideo/21680354/streams/live/playlist.m3u8
+EXTINF:-1,[COLOR blue]Fox[/COLOR]
+http://iptvbox.noip.us:9998/live/atik/atik/264.m3u8
+
+EXTINF:-1,[COLOR blue]Discovery Channel[/COLOR]
+http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
+
+EXTINF:-1,[COLOR blue]Travel Channel[/COLOR]
+http://cdns840stu1010.multistream.net:80/mtchlive/amlst:live/livestream.m3u8
+
+EXTINF:-1,[COLOR blue]National Geographic[/COLOR]
+http://iptvbox.noip.us:9998/live/atik/atik/267.m3u8
+
+EXTINF:-1,[COLOR blue]Canal Estrenos[/COLOR]
+http://iptvbox.noip.us:9998/live/atik/atik/587.m3u8
+
+EXTINF:-1,[COLOR blue]Canal Series[/COLOR]
+http://iptvbox.noip.us:9998/live/atik/atik/268.m3u8
+
+EXTINF:-1,[COLOR blue]Canal DCine[/COLOR]
+http://iptvbox.noip.us:9998/live/atik/atik/261.m3u8
+
+EXTINF:-1,[COLOR blue]Canal Comedia[/COLOR]
+http://iptvbox.noip.us:9998/live/atik/atik/275.m3u8
+
+EXTINF:-1,[COLOR blue]Canal Accion[/COLOR]
+http://iptvbox.noip.us:9998/live/atik/atik/262.m3u8
+
+EXTINF:-1,[COLOR blue]ES.Canal Xtra[/COLOR]
+http://iptvbox.noip.us:9998/live/atik/atik/586.m3u8
+
+EXTINF:-1,[COLOR blue]Hollywood[/COLOR]
+http://iptvbox.noip.us:9998/live/atik/atik/263.m3u8
+
+EXTINF:-1,[COLOR blue]Neox[/COLOR]
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+
+EXTINF:-1,[COLOR red]LISTA RAFA[/COLOR]
+http://?
 
 
 
