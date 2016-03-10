@@ -28,6 +28,8 @@ http://live.mvdigital.net:1935/live6/livestream1.sdp/playlist.m3u8
 #EXTINF:-1,[COLOR lime]---USA---[/COLOR]
 http://?
 
+#EXTINF:-1,Telemundo
+http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
 #EXTINF:0,TELEMUNDO
 http://iphone-streaming.ustream.tv/ustreamVideo/21733416/streams/live/playlist.m3u8
 #EXTINF:0,TELEMUNDO 1
@@ -40,15 +42,65 @@ https://video-cdn.streamup.com/app/univision2chivas_69s-stream_aac/chunklist.m3u
 http://iphone-streaming.ustream.tv/ustreamVideo/21680354/streams/live/playlist.m3u8
 EXTINF:-1,[COLOR blue]Fox[/COLOR]
 http://iptvbox.noip.us:9998/live/atik/atik/264.m3u8
-
+#EXTINF:-1,Miami TV
+http://k4.usastreams.com:1935/miamitv/smil:miamitv/playlist.m3u8
+#EXTINF:-1,Miami TV Music
+http://74.208.152.93/music/stream3/stream.m3u8
+#EXTINF:-1,Discovery Channel
+http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,National Geographic
+http://iptvbox.noip.us:9998/live/atik/atik/267.m3u8
 EXTINF:-1,[COLOR blue]Discovery Channel[/COLOR]
 http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
-
 EXTINF:-1,[COLOR blue]Travel Channel[/COLOR]
 http://cdns840stu1010.multistream.net:80/mtchlive/amlst:live/livestream.m3u8
 
 EXTINF:-1,[COLOR blue]National Geographic[/COLOR]
 http://iptvbox.noip.us:9998/live/atik/atik/267.m3u8
+#EXTINF:-1,Syfy Channel
+http://iptvbox.noip.us:9998/live/atik/atik/676.m3u8
+#EXTINF:-1,Universal 
+http://iptvbox.noip.us:9998/live/atik/atik/1037.m3u8
+#EXTINF:-1,Fox
+http://iptvbox.noip.us:9998/live/atik/atik/632.m3u8
+#EXTINF:-1,Discovery Turbo
+http://iptvbox.noip.us:9998/live/atik/atik/1040.m3u8
+#EXTINF:-1,Discovery Channel
+http://iptvbox.noip.us:9998/live/atik/atik/1041.m3u8
+#EXTINF:-1,Animal Planet
+http://iptvbox.noip.us:9998/live/atik/atik/630.m3u8
+#EXTINF:-1,National Geographic
+http://iptvbox.noip.us:9998/live/atik/atik/222.m3u8
+#EXTINF:-1,Nat geo wild
+http://iptvbox.noip.us:9998/live/atik/atik/474.m3u8
+#EXTINF:-1,Nat Geo Wild
+http://iptvbox.noip.us:9998/live/atik/atik/223.m3u8
+#EXTINF:-1,Discovery Science 
+http://iptvbox.noip.us:9998/live/atik/atik/624.m3u8
+#EXTINF:-1,DISCOVERY HISTORY
+http://iptvbox.noip.us:9998/live/atik/atik/629.m3u8
+#EXTINF:-1,NICKLEODON
+http://iptvbox.noip.us:9998/live/atik/atik/221.m3u8
+#EXTINF:-1,Disney XD
+http://iptvbox.noip.us:9998/live/atik/atik/684.m3u8
+#EXTINF:-1,Disney Junior
+http://iptvbox.noip.us:9998/live/atik/atik/628.m3u8
+#EXTINF:-1,Disney Channel 
+http://iptvbox.noip.us:9998/live/atik/atik/682.m3u8
+#EXTINF:-1,Cartoon Network US
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
+#EXTINF:-1,Cartoon Network
+http://iptvbox.noip.us:9998/live/atik/atik/685.m3u8
+#EXTINF:-1,Nicktoons
+http://iptvbox.noip.us:9998/live/atik/atik/625.m3u8
+
+#EXTINF:-1,MTV 
+http://iptvbox.noip.us:9998/live/atik/atik/1361.m3u8
+#EXTINF:-1,Mtv Music
+http://iptvbox.noip.us:9998/live/atik/atik/962.m3u8
+#EXTINF:-1,Mtv Rocks
+http://iptvbox.noip.us:9998/live/atik/atik/1372.m3u8
+
 
 EXTINF:-1,[COLOR blue]Canal Estrenos[/COLOR]
 http://iptvbox.noip.us:9998/live/atik/atik/587.m3u8
@@ -342,7 +394,7 @@ http://xvivatvcanal4arequipax.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1,RBC Peru
 http://184.154.28.210:1935/rbcsatelital/rbcsatelital/playlist.m3u8
 
-#EXTINF:-1,[COLOR red]---ESPAIN---[/COLOR]
+#EXTINF:-1,[COLOR lime]---ESPAIN---[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1,Antena 3 Internacional  Espana
@@ -367,9 +419,70 @@ http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
 http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/master.m3u8
 
 
-#EXTINF:-1,[COLOR red]---DEPORTES---[/COLOR]
+#EXTINF:-1,[COLOR lime]---DEPORTES---[/COLOR]
 http://0.0.0.0:1234
 
+#EXTINF:-1, DXTV
+http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE1IDEyOjM5OjEwIFBNJmhhc2hfdmFsdWU9enNzd2E
+
+#EXTINF:-1 tvg-logo="http://www.espai.jazztel.es/photocall/tv/images/rmtv.png",Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://cdn.20m.es/img2/recortes/2013/12/04/149729-588-291.jpg",Real Madrid TV 2
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+
+#EXTINF:-1,BeIN SporTS
+http://iptvbox.noip.us:9998/live/atik/atik/847.m3u8
+
+#EXTINF:-1 tvg-id="Lista PLAY-KODI FR beIN Sports" tvg-name="FR beIN Sports 3" tvg-logo="Bein Sports 3 Francia" group-title="DEPORTES",Bein Sports 3 Francia
+
+http://evolive-tv.com:8000/live/genio/genio/67.m3u8
+
+#EXTINF:-1,Bein HD
+http://iptvbox.noip.us:9998/live/atik/atik/726.m3u8
+
+#EXTINF:-1,Canal Futbol 
+http://iptvbox.noip.us:9998/live/atik/atik/265.m3u8
+#EXTINF:-1,Canal Futbol 2
+http://iptvbox.noip.us:9998/live/atik/atik/857.m3u8
+
+#EXTINF:-1,Canal  Liga
+http://iptvbox.noip.us:9998/live/atik/atik/274.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1258504332/COS_LOGO_400x400.png",COS
+http://d3tzxnygw45q3p.cloudfront.net/cos/media.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1258504332/COS_LOGO_400x400.png",COS2
+http://live.cableondasports.com/cos2/media.smil/playlist.m3u8
+
+#EXTINF:-1,FOX Sports 2
+http://iptvbox.noip.us:9998/live/atik/atik/1385.m3u8
+
+#EXTINF:-1 tvg-logo="NBA TV .png",NBA TV 
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
+#EXTINF:-1,NBA TV
+
+#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="nfl_now_logo.jpg" group-title="DEPORTES",NFL Now
+
+http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8
+
+#EXTINF:-1, Redbull TV
+http://sacapunta.eltelon.com/channels/redbulltv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="Combate" group-title="DEPORTES",Combate
+
+http://server1.livestreaming.ninja:1935/live/combate755/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1258504332/COS_LOGO_400x400.png",COS
+http://d3tzxnygw45q3p.cloudfront.net/cos/media.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1258504332/COS_LOGO_400x400.png",COS2
+http://live.cableondasports.com/cos2/media.smil/playlist.m3u8
+
+#EXTINF:-1,CDN SPORTS MAX
+http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
+#EXTINF:-1,360 DEPORTES
+http://lsd360tvhls-lh.akamaihd.net/i/360TVHLS_1@197877/master.m3u8
 #EXTINF:-1,PAC-12 Net. (Arizona)
 http://xrxs.net/video/live-p12ariz-4728.m3u8?
 #EXTINF:-1,PAC-12 Net. (Bay Area)
