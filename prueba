@@ -128,6 +128,430 @@ http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD177_W_150.sdp/
 #EXTINF:0 tvg-name="RT Noticias" tvg-language="Spanish" tvg-country="RU" tvg-id="RT Noticias" tvg-logo="https://yt3.ggpht.com/-Kctadlnnczo/AAAAAAAAAAI/AAAAAAAAAAA/5NdDPcu1rz8/s900-c-k-no/photo.jpg" group-title="News",RT Noticias (News) (RU) (Spanish)
 http://rt-a.akamaihd.net/ch_02@325606/master.m3u8
 
+#EXTINF:0 tvg-name="24h RTVE" tvg-language="Spanish" tvg-country="ES" tvg-id="24h RTVE" tvg-logo="https://www.brandsoftheworld.com/sites/default/files/styles/logo-original-577x577/public/0020/3295/brand.gif?itok=VyyXyw0I" group-title="News",24h RTVE (News) (ES) (Spanish)
+http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
+#EXTINF:0 tvg-name="Andalucia TV" tvg-language="Spanish" tvg-country="ES" tvg-id="Andalucia TV" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQUmGkOUj_g3HAX8Iy3gZVaXUxAwPfU_L86Ir3CmIBR9Z43l0Tqr0uhuQ" group-title="News",Andalucia TV (News) (ES) (Spanish)
+http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
+#EXTINF:0 tvg-name="Euronews" tvg-language="Spanish" tvg-country="ES" tvg-id="Euronews" tvg-logo="http://2.bp.blogspot.com/-bgSjOJk7OpA/VEWJ3YvijBI/AAAAAAAAAQY/VbfaD3aYpBs/s1600/euronews-logo.jpg" group-title="News",Euronews (News) (ES) (Spanish)
+http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8
+#EXTINF:0 tvg-name="TELE SISTEMA" tvg-language="Spanish" tvg-country="ES" tvg-id="TELE SISTEMA" tvg-logo="http://logopond.com/logos/c3966093ee94ae75a6f65778327bf70c.png" group-title="News",TELE SISTEMA (News) (ES) (Spanish)
+http://mek4.mekstream.com/telesistema/smil:telesistema.smil/chunklist_w965232534_b464000.m3u8
+#EXTINF:0 tvg-name="Aprende TV" tvg-language="Spanish" tvg-country="MX" tvg-id="Aprende TV" tvg-logo="http://i.imgur.com/27onNLM.png" group-title="Documentary",Aprende TV (Documentary) (MX) (Spanish)
+http://dl-dgtve.xsn.com.mx/dgtve/canal24dgtve.mp4/playlist.m3u8
+#EXTINF:0 tvg-name="La 2 RTVE" tvg-language="Spanish" tvg-country="ES" tvg-id="La 2 RTVE" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/4/47/Tve_2.png" group-title="Documentary",La 2 RTVE (Documentary) (ES) (Spanish)
+http://iphonelive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8
+#EXTINF:0 tvg-name="Mexiquense TV" tvg-language="Spanish" tvg-country="MX" tvg-id="Mexiquense TV" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS8KdcEjXECJbFgghdINF_Eqp51cCLyBMe68brwIr2k9Nl2-ROpb5621t8" group-title="Documentary",Mexiquense TV (Documentary) (MX) (Spanish)
+rtmp://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_/broadcast1 
+#EXTINF:0 tvg-name="RTVida" tvg-language="Spanish" tvg-country="ES" tvg-id="RTVida" tvg-logo="http://www.eniyitv.com/wp-content/uploads/2013/03/rtvida-tv-logo.png" group-title="Documentary",RTVida (Documentary) (ES) (Spanish)
+http://178.32.53.254/radiovida/livestream/playlist.m3u8
+#EXTINF:0 tvg-name="USCG Television Ecuador" tvg-language="Spanish" tvg-country="EX" tvg-id="USCG Television Ecuador" tvg-logo="http://puu.sh/nyTsI/8380211bcd.jpg" group-title="Documentary",USCG Television Ecuador (Documentary) (EX) (Spanish)
+rtmp://ecuastream.net:1935/UCSGHQ/UCSGHQ
+#EXTINF:0 tvg-name="Vale TV" tvg-language="Spanish" tvg-country="VE" tvg-id="Vale TV" tvg-logo="http://3.bp.blogspot.com/-jJbdM5b-Q94/VP_28EFzkqI/AAAAAAAADi0/_KswWyivWAU/s1600/VALE%2BTV.JPG" group-title="Documentary",Vale TV (Documentary) (VE) (Spanish)
+http://edge.wms28.lorini.net/valetv/valetv/playlist.m3u8
+#EXTINF:0 tvg-name="324" tvg-language="Spanish" tvg-country="ES" tvg-id="324" tvg-logo="http://www.eleconomista.es/CanalPDA/files/imagecache/220x/logo_324.png" group-title="Entertainment",324 (Entertainment) (ES) (Spanish)
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/playlist.m3u8
+#EXTINF:0 tvg-name="360 TV" tvg-language="Spanish" tvg-country="ES" tvg-id="360 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Logo_360.png" group-title="Entertainment",360 TV (Entertainment) (ES) (Spanish)
+http://lsd360tvhls-lh.akamaihd.net/i/360TVHLS_1@197877/master.m3u8
+#EXTINF:0 tvg-name="America TV" tvg-language="Spanish" tvg-country="PE" tvg-id="America TV" tvg-logo="http://seeklogo.com/images/A/America_TV-logo-1774BA52B1-seeklogo.com.gif" group-title="Entertainment",America TV (Entertainment) (PE) (Spanish)
+http://iphone-streaming.ustream.tv/ustreamVideo/3704670/streams/live/playlist.m3u8
+#EXTINF:0 tvg-name="Anime" tvg-language="Spanish" tvg-country="MX" tvg-id="Anime" tvg-logo="http://www.teenblab.com/assets/images/Anime-Logo.jpg" group-title="Entertainment",Anime (Entertainment) (MX) (Spanish)
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
+#EXTINF:0 tvg-name="Antena 3 HD" tvg-language="Spanish" tvg-country="ES" tvg-id="Antena 3 HD" tvg-logo="http://img4.wikia.nocookie.net/__cb20141014151714/logopedia/images/0/05/Logo_Antena_3_HD_Premium.png" group-title="Entertainment",Antena 3 HD (Entertainment) (ES) (Spanish)
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
+#EXTINF:0 tvg-name="Antena 3 Internacional" tvg-language="Spanish" tvg-country="ES" tvg-id="Antena 3 Internacional" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSSIIyRzequHPUuJAj8hi6o-Ll4N21Ohhfyqq2jVzbRa82K6qXdhwlHOZE" group-title="Entertainment",Antena 3 Internacional (Entertainment) (ES) (Spanish)
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
+#EXTINF:0 tvg-name="Antena Latina" tvg-language="Spanish" tvg-country="DO" tvg-id="Antena Latina" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRZf1Zir-2tCSvvYLrfC8dftZESrpWk3BpHR7UkH6lLBpHsqhbP2gOmDw" group-title="Entertainment",Antena Latina (Entertainment) (DO) (Spanish)
+http://ss6.domint.net:1962/al_edge/antena/chunklist_w2059964033.m3u8
+#EXTINF:0 tvg-name="Azteca 7 Monterrey" tvg-language="Spanish" tvg-country="MX" tvg-id="Azteca 7 Monterrey" tvg-logo="http://www.azteca7.com/portal/siete-beta/images/logo_empty.png" group-title="Entertainment",Azteca 7 Monterrey (Entertainment) (MX) (Spanish)
+http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
+#EXTINF:0 tvg-name="Azteca Honduras" tvg-language="Spanish" tvg-country="HN" tvg-id="Azteca Honduras" tvg-logo="http://i.imgur.com/LdA1y9J.png" group-title="Entertainment",Azteca Honduras (Entertainment) (HN) (Spanish)
+http://aztecalive-lh.akamaihd.net/i/142kvpq0l_1@67741/master.m3u8
+#EXTINF:0 tvg-name="Azteca trece" tvg-language="Spanish" tvg-country="MX" tvg-id="Azteca trece" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK4Ascg6mhU-zkevUR_HuiMBpjPKVr7Jfa8FTKglaISwSw6KXRurkpIw" group-title="Entertainment",Azteca trece (Entertainment) (MX) (Spanish)
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
+#EXTINF:0 tvg-name="Canal 10 Honduras" tvg-language="Spanish" tvg-country="HN" tvg-id="Canal 10 Honduras" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT3a1XXFphKaPjIVlmroz1P3HE87kEgzDsbwyTZPeKvdByB_sKTqJv_oQ" group-title="Entertainment",Canal 10 Honduras (Entertainment) (HN) (Spanish)
+http://cdn1.worldkast.com/canal10/ngrp:canal10_all/playlist.m3u8
+#EXTINF:0 tvg-name="Canal 10 Mar De Plata TV" tvg-language="Spanish" tvg-country="AR" tvg-id="Canal 10 Mar De Plata TV" tvg-logo="http://static.tvlive32.com/logo/Canal-10-Mar-del-Plata_7164.jpg" group-title="Entertainment",Canal 10 Mar De Plata TV (Entertainment) (AR) (Spanish)
+http://ionlive1-lh.akamaihd.net/i/canal10_1@125367/master.m3u8
+#EXTINF:0 tvg-name="Canal 13 Nicaragua" tvg-language="Spanish" tvg-country="NI" tvg-id="Canal 13 Nicaragua" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Logo_Viva_Nicaragua_Canal_13.png" group-title="Entertainment",Canal 13 Nicaragua (Entertainment) (NI) (Spanish)
+http://iphone-streaming.ustream.tv/uhls/13870671/streams/live/iphone/playlist.m3u8
+#EXTINF:0 tvg-name="Canal 2 Nicaragua" tvg-language="Spanish" tvg-country="NI" tvg-id="Canal 2 NIcaragua" tvg-logo="http://i.imgur.com/cA00bnP.jpg" group-title="Entertainment",Canal 2 Nicaragua (Entertainment) (NI) (Spanish)
+http://162.244.81.181:1935/live//Stream1/playlist.m3u8
+#EXTINF:0 tvg-name="Canal 40" tvg-language="Spanish" tvg-country="MX" tvg-id="Canal 40" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Proyecto_40_logo.PNG/150px-Proyecto_40_logo.PNG" group-title="Entertainment",Canal 40 (Entertainment) (MX) (Spanish)
+http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/master.m3u8
+#EXTINF:0 tvg-name="Canal 6" tvg-language="Spanish" tvg-country="CR" tvg-id="Canal 6" tvg-logo="http://wwitv.com/tvlogos/b2634.jpg" group-title="Entertainment",Canal 6 (Entertainment) (CR) (Spanish)
+http://k3.usastreams.com:1935/cana6/cana6/playlist.m3u8
+#EXTINF:0 tvg-name="Canal 7" tvg-language="Spanish" tvg-country="MX" tvg-id="Canal 7" tvg-logo="http://jumptv.typepad.com/latinamerica/images/logo_canal_7_1.jpg" group-title="Entertainment",Canal 7 (Entertainment) (MX) (Spanish)
+http://74.63.97.188:1935/gpacifico4/videogpacifico4/playlist.m3u8
+#EXTINF:0 tvg-name="Canal 9 Litoral TV" tvg-language="Spanish" tvg-country="AR" tvg-id="Canal 9 Litoral TV" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/9/9b/Parana-c9.gif" group-title="Entertainment",Canal 9 Litoral TV (Entertainment) (AR) (Spanish)
+http://ionlive1-lh.akamaihd.net/i/canal9_1@125365/master.m3u8
+#EXTINF:0 tvg-name="Canal 9" tvg-language="Spanish" tvg-country="AR" tvg-id="Canal 9" tvg-logo="http://i.imgur.com/7d1x7.jpg" group-title="Entertainment",Canal 9 (Entertainment) (AR) (Spanish)
+http://dd65nd24m61wg.cloudfront.net/livec9/smil:C9.smil/playlist.m3u8
+#EXTINF:0 tvg-name="Canal Antiestres" tvg-language="Spanish" tvg-country="CO" tvg-id="Canal Antiestres" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQXchphHPxoaMVT1rFUiUENqlx0GVVnCK8j0pgJJ6H39y3ny5CzYRYrUg" group-title="Entertainment",Canal Antiestres (Entertainment) (CO) (Spanish)
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_3.m3u8
+#EXTINF:0 tvg-name="Canal Once HD" tvg-language="Spanish" tvg-country="MX" tvg-id="Canal Once HD" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT4cFy2rEq2lsWeve6Tp8dLc5f7JQ69XXEmyoOQ8e5rOT7C5bui13ROPaQ" group-title="Entertainment",Canal Once HD (Entertainment) (MX) (Spanish)
+http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8
+#EXTINF:0 tvg-name="Canal Once SD" tvg-language="Spanish" tvg-country="MX" tvg-id="Canal Once SD" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT4cFy2rEq2lsWeve6Tp8dLc5f7JQ69XXEmyoOQ8e5rOT7C5bui13ROPaQ" group-title="Entertainment",Canal Once SD (Entertainment) (MX) (Spanish)
+http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8
+#EXTINF:0 tvg-name="Canal Once" tvg-language="Spanish" tvg-country="UY" tvg-id="Canal Once" tvg-logo="http://i.imgur.com/14V0pcp.jpg" group-title="Entertainment",Canal Once (Entertainment) (UY) (Spanish)
+http://xcanaloncepuntadelestex.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:0 tvg-name="Canal U" tvg-language="Spanish" tvg-country="AR" tvg-id="Canal U" tvg-logo="http://www.irts-pacacorse.com/var/irts/storage/images/media/images/bloc_notes_img/canal_u/8848-2-fre-FR/canal_u_medium.gif" group-title="Entertainment",Canal U (Entertainment) (AR) (Spanish)
+http://xcanalutvx.api.channel.livestream.com/3.0/playlist.m3u8#megaIPTVArgentina
+#EXTINF:0 tvg-name="Canal de las Estrellas" tvg-language="Spanish" tvg-country="MX" tvg-id="Canal de las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/XEW-TV_(logo).png/150px-XEW-TV_(logo).png" group-title="Entertainment",Canal de las Estrellas (Entertainment) (MX) (Spanish)
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
+#EXTINF:0 tvg-name="Capital 21" tvg-language="Spanish" tvg-country="MX" tvg-id="Capital 21" tvg-logo="http://homozapping.com.mx/wp-content/uploads/2013/03/Canal-21.jpg" group-title="Entertainment",Capital 21 (Entertainment) (MX) (Spanish)
+http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent.m3u8
+#EXTINF:0 tvg-name="Captain TV" tvg-language="Tamil" tvg-country="IN" tvg-id="Captain TV" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR5chTXjymNuK1qaYO_83UgOG5uWwrOosJEuVbahEOnmTAIOvQqs5Ghow" group-title="Entertainment",Captain TV (Entertainment) (IN) (Tamil)
+http://play-fs.amgiptv.com/vxtvcaptain/captainvodsg.stream/playlist.m3u8
+#EXTINF:0 tvg-name="CerTv" tvg-language="Spanish" tvg-country="ES" tvg-id="CerTv" tvg-logo="http://canalesdominicano.net/wp-content/uploads/2015/05/canal4.jpg" group-title="Entertainment",CerTv (Entertainment) (ES) (Spanish)
+http://216.24.196.40:1935/live/canal4/playlist.m3u8
+#EXTINF:0 tvg-name="Color Vision" tvg-language="Spanish" tvg-country="ES" tvg-id="Color Vision" tvg-logo="http://canalesdominicanosenvivo.com/wp-content/uploads/2013/09/Color-Vision-Canal-9.jpg" group-title="Entertainment",Color Vision (Entertainment) (ES) (Spanish)
+http://ss8.domint.net:2048/cvis_str/video/playlist.m3u8
+#EXTINF:0 tvg-name="E! Entertainment Latino" tvg-language="Spanish" tvg-country="US" tvg-id="E! Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E!_Logo.svg/100px-E!_Logo.svg.png" group-title="Entertainment",E! Entertainment Latino (Entertainment) (US) (Spanish)
+http://31.220.40.118/LiveEdge/EentertaimentSD/playlist.m3u8?token=f1ea518b512761e8a8f6b7b9bce34111
+#EXTINF:0 tvg-name="FX" tvg-language="Spanish" tvg-country="MX" tvg-id="FX" tvg-logo="http://www.logoeps.net/wp-content/uploads/2012/04/fx-tv-channel-logo.jpg" group-title="Entertainment",FX (Entertainment) (MX) (Spanish)
+http://live.tutvgratis.tv/ch/101.m3u8
+#EXTINF:0 tvg-name="Galicia" tvg-language="Spanish" tvg-country="ES" tvg-id="Galicia" tvg-logo="http://i.imgur.com/R0CSkHm.jpg" group-title="Entertainment",Galicia (Entertainment) (ES) (Spanish)
+http://media3.crtvg.es/live/tvga/.m3u8
+#EXTINF:0 tvg-name="HTP" tvg-language="Spanish" tvg-country="ES" tvg-id="HTP" tvg-logo="http://1.bp.blogspot.com/-yNDWbH8srCc/Tx6ZAwctjrI/AAAAAAAAAjY/cKFnPu2_3oQ/s1600/Logo%2BHuesca2.jpg" group-title="Entertainment",HTP (Entertainment) (ES) (Spanish)
+rtmp://streaming2.radiohuesca.com/live/huescatv
+#EXTINF:0 tvg-name="Investigative Discovery" tvg-language="Spanish" tvg-country="MX" tvg-id="ID tv" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTQAU0fK9MXfx3P1dagDCfXQWQ3nPKgeKkC6oO-RG5n4tO3URpCsYABbg" group-title="Entertainment",Investigative Discovery (Entertainment) (MX) (Spanish)
+http://live.bltvios.com.edgesuite.net/tv/us/master.m3u8
+#EXTINF:0 tvg-name="LUX Mallorca TV" tvg-language="Spanish" tvg-country="ES" tvg-id="LUX Mallorca TV" tvg-logo="http://i.imgur.com/3TTmo4V.jpg" group-title="Entertainment",LUX Mallorca TV (Entertainment) (ES) (Spanish)
+rtmp://fl1.viastreaming.net/canal37/livestream
+#EXTINF:0 tvg-name="La Sexta" tvg-language="Spanish" tvg-country="ES" tvg-id="La Sexta" tvg-logo="http://progratele.wikispaces.com/file/view/7tocf98kclyo2bm7hr4c62e72db4fa3_la-sexta.gif/335085396/208x208/7tocf98kclyo2bm7hr4c62e72db4fa3_la-sexta.gif" group-title="Entertainment",La Sexta (Entertainment) (ES) (Spanish)
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+#EXTINF:0 tvg-name="Levante TV" tvg-language="Spanish" tvg-country="ES" tvg-id="Levante TV" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQicXskuymDUbfaftJuBc1kOejzsUPjCdDiA_3x1_urJTIdoTyiqCQsKPM" group-title="Entertainment",Levante TV (Entertainment) (ES) (Spanish)
+rtmp://teledifusion.tv:1935/levantetvlive/levantetvlive
+#EXTINF:0 tvg-name="MicroVision" tvg-language="Spanish" tvg-country="ES" tvg-id="MicroVision" tvg-logo="http://grupomedrano.com.do/wp-content/uploads/2014/09/Microvision-Canal-101.jpg" group-title="Entertainment",MicroVision (Entertainment) (ES) (Spanish)
+http://tcc-streaming2.cloudapp.net:1935/micro10/microvision10/chunklist_w911586869.m3u8
+#EXTINF:0 tvg-name="Nuestra Vision Michoacan" tvg-language="Spanish" tvg-country="MX" tvg-id="Nuestra Vision Michoacan" tvg-logo="http://i.imgur.com/QybO5SU.jpg" group-title="Entertainment",Nuestra Vision Michoacan (Entertainment) (MX) (Spanish)
+http://video7.stream.mx:1935/8032/8032/chunklist_w1286789486.m3u8
+#EXTINF:0 tvg-name="Peravia Vision" tvg-language="Spanish" tvg-country="ES" tvg-id="Peravia Vision" tvg-logo="http://dominicaninternet.com/servicios/images/peravia_vision_logo_domint2013.png" group-title="Entertainment",Peravia Vision (Entertainment) (ES) (Spanish)
+http://ss6.domint.net:2002/pvv_str/peravia/playlist.m3u8
+#EXTINF:0 tvg-name="CBS HD" tvg-language="Spanish" tvg-country="PA" tvg-id="RPC TV" tvg-logo="http://www.rpctv.com/header_logo.png" group-title="Entertainment",CBS HD (Entertainment) (PA) (Spanish)
+http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8
+#EXTINF:0 tvg-name="RTPA 7" tvg-language="Spanish" tvg-country="ES" tvg-id="RTPA 7" tvg-logo="http://corporativo.rtpa.es/img/logotipo_rtpa_top.png" group-title="Entertainment",RTPA 7 (Entertainment) (ES) (Spanish)
+http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
+#EXTINF:0 tvg-name="TV Galicia America" tvg-language="Spanish" tvg-country="ES" tvg-id="TV Galicia America" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFuTyldQw-ct2JZCYLGjOu8WbBtaEH3INd-NBCg-XyV7vdy9oSgxMMXkU" group-title="Entertainment",TV Galicia America (Entertainment) (ES) (Spanish)
+http://media3.crtvg.es/live/tvga/playlist.m3u8
+#EXTINF:0 tvg-name="TV UNO 1" tvg-language="Spanish" tvg-country="ES" tvg-id="TV UNO 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI510-KczLZJBxa0gb_XPaYY6HCZZHlxmdIqvqFoGsVwUMsbmeNvw2B4k" group-title="Entertainment",TV UNO 1 (Entertainment) (ES) (Spanish)
+rtmp://k3.usastreams.com:1935/tvuno1/tvuno1
+#EXTINF:0 tvg-name="TV3 Cat" tvg-language="Catalan" tvg-country="ES" tvg-id="TV3 Cat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Tv3_logo2005.jpg" group-title="Entertainment",TV3 Cat (Entertainment) (ES) (Catalan)
+http://www.tv3.cat/directetv3cat/tv3catpc.m3u8
+#EXTINF:0 tvg-name="TVC Honduras" tvg-language="Spanish" tvg-country="HN" tvg-id="TVC Honduras" tvg-logo="http://i.imgur.com/VZtxiJo.jpg" group-title="Entertainment",TVC Honduras (Entertainment) (HN) (Spanish)
+http://187.247.255.139/Apple/TVCDeportes.m3u8
+#EXTINF:0 tvg-name="TVMas" tvg-language="Spanish" tvg-country="MX" tvg-id="TVMas" tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2014/05/TVMas-Logo-300x300.jpg" group-title="Entertainment",TVMas (Entertainment) (MX) (Spanish)
+http://50.7.98.234:1935/rtv/videortv/playlist.m3u8
+#EXTINF:0 tvg-name="Tele Antillas" tvg-language="Spanish" tvg-country="ES" tvg-id="Tele Antillas" tvg-logo="http://img2.wikia.nocookie.net/__cb20121112123522/boboiboy/images/7/7b/Logo_teleantillas.jpg" group-title="Entertainment",Tele Antillas (Entertainment) (ES) (Spanish)
+http://mek4.mekstream.com/teleantillas/live3/playlist.m3u
+#EXTINF:0 tvg-name="TeleCeiba" tvg-language="Spanish" tvg-country="HN" tvg-id="TeleCeiba" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRrOI9gCLSMPJSJYXlhFCRJi-FhE2CmBRLCMhrp0JlIY25purpex0_vddc" group-title="Entertainment",TeleCeiba (Entertainment) (HN) (Spanish)
+http://162.212.176.83:8080/teleceiba.m3u8
+#EXTINF:0 tvg-name="Teleantillas" tvg-language="Spanish" tvg-country="ES" tvg-id="Teleantillas" tvg-logo="http://img2.wikia.nocookie.net/__cb20121112123522/boboiboy/images/7/7b/Logo_teleantillas.jpg" group-title="Entertainment",Teleantillas (Entertainment) (ES) (Spanish)
+http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
+#EXTINF:0 tvg-name="Telemadrid" tvg-language="Spanish" tvg-country="ES" tvg-id="Telemadrid" tvg-logo="http://images.all-free-download.com/images/graphiclarge/telemadrid_86683.jpg" group-title="Entertainment",Telemadrid (Entertainment) (ES) (Spanish)
+http://iphone.telemadrid.es.edgesuite.net/telemadridsat_iphone.m3u8
+#EXTINF:0 tvg-name="Telemetro" tvg-language="Spanish" tvg-country="PA" tvg-id="Telemetro" tvg-logo="http://4.bp.blogspot.com/-ge5-7_8ioNI/UT9HH5xkE0I/AAAAAAAABkA/08ZdVlIBp-g/s1600/telemetro.png" group-title="Entertainment",Telemetro (Entertainment) (PA) (Spanish)
+http://live.telemetro.com/telemetro/tm.smil/playlist.m3u8
+#EXTINF:0 tvg-name="Telemicro Canal 5" tvg-language="Spanish" tvg-country="DO" tvg-id="Telemicro Canal 5" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTe6Li_ltQnA792c9IIizNg9h4dPTREoHyJfe1bQZCIP9loHwFlHkTvzNQ" group-title="Entertainment",Telemicro Canal 5 (Entertainment) (DO) (Spanish)
+http://107.182.239.141:9095/live5/telemicro0505_2_96/playlist.m3u8
+#EXTINF:0 tvg-name="Telemundo" tvg-language="Spanish" tvg-country="US" tvg-id="Telemundo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Telemundo_logo_2012.svg/100px-Telemundo_logo_2012.svg.png" group-title="Entertainment",Telemundo (Entertainment) (US) (Spanish)
+https://video10-lax.streamup.com/app/telemundox2chivas_69s-stream_aac/playlist.m3u8
+#EXTINF:0 tvg-name="Telesistema" tvg-language="Spanish" tvg-country="ES" tvg-id="Telesistema" tvg-logo="http://logopond.com/logos/c3966093ee94ae75a6f65778327bf70c.png" group-title="Entertainment",Telesistema (Entertainment) (ES) (Spanish)
+http://mek4.mekstream.com/telesistema/smil:telesistema.smil/playlist.m3u8
+#EXTINF:0 tvg-name="Televicentro" tvg-language="Spanish" tvg-country="HN" tvg-id="Televicentro" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRsMzKBG0EUUAxsUHWpuTSssgyNb6jcOu507cgUOL3SByY7Ww_PTHECT7o" group-title="Entertainment",Televicentro (Entertainment) (HN) (Spanish)
+http://tvchonduras-lh.akamaihd.net/i/ch_1@325635/master.m3u8
+#EXTINF:0 tvg-name="Telpin TV" tvg-language="Spanish" tvg-country="AR" tvg-id="Telpin TV" tvg-logo="http://i.imgur.com/RR4J34T.png" group-title="Entertainment",Telpin TV (Entertainment) (AR) (Spanish)
+http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
+#EXTINF:0 tvg-name="Univision" tvg-language="Spanish" tvg-country="US" tvg-id="Univision" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6aSxHrgUx86SeziOwsPXywbNp5f-MftiVyVbfiCN4ukn4sEps4fhWAw" group-title="Entertainment",Univision (Entertainment) (US) (Spanish)
+https://video02-atl.streamup.com/app/univision2chivas_69s-stream_aac/playlist.m3u8
+#EXTINF:0 tvg-name="Valle vision Canal 10 la vega" tvg-language="Spanish" tvg-country="ES" tvg-id="Valle vision Canal 10 la vega" tvg-logo="http://dominicanchannel.info/wp-content/uploads/2013/07/vallevision3.jpg" group-title="Entertainment",Valle vision Canal 10 la vega (Entertainment) (ES) (Spanish)
+http://asx.domiplay.net:1935/rtplive/vallevision.sdp/playlist.m3u8
+#EXTINF:0 tvg-name="Vmas TV" tvg-language="Spanish" tvg-country="MX" tvg-id="Vmas TV" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ0EF1XJ-nqql9YZv6Gs2rbnzeCA3qkjh0KMtcGrOBvAyEfKg8FjRiDcg" group-title="Entertainment",Vmas TV (Entertainment) (MX) (Spanish)
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8
+#EXTINF:0 tvg-name="WAPA TV" tvg-language="Spanish" tvg-country="PR" tvg-id="WAPA TV" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRS_R00PJuT3KjlnPZ9JaHGIjXo60TgZGcxFd56cN8agGpKfWX-p28HgUxS" group-title="Entertainment",WAPA TV (Entertainment) (PR) (Spanish)
+http://31.220.40.119:80/LiveEdge/WPA2PR/playlist.m3u8?token=1e05d5fdd8854709aef4cf58108a6987
+#EXTINF:0 tvg-name="Canal Orbe 21 TV" tvg-language="Spanish" tvg-country="AR" tvg-id="Canal Orbe 21 TV" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Canal-Orbe-21_o.jpg" group-title="Family",Canal Orbe 21 TV (Family) (AR) (Spanish)
+http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8
+#EXTINF:0 tvg-name="Disney Junior" tvg-language="Spanish" tvg-country="MX" tvg-id="Disney Junior" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRF8n7xkeIxkJpt7iTsGD6UX6O5OW-YMvlSOo5TDqjZErsFTpVsBqjvAqU" group-title="Family",Disney Junior (Family) (MX) (Spanish)
+http://live.tutvgratis.tv/ch/202.m3u8
+#EXTINF:0 tvg-name="Microvision" tvg-language="Spanish" tvg-country="DO" tvg-id="Microvision" tvg-logo="http://www.microvision.com.do/logo-micro-10-.png" group-title="Family",Microvision (Family) (DO) (Spanish)
+rtmp://tcc-streaming2.cloudapp.net:1935/micro10/microvision10 playpath=microvision10 swfUrl=http://microvision.com.do/tv/player/microtvradio/player_by_micro.swf live=1 pageUrl=http://microvision.com.do/tv/microvision.php
+#EXTINF:0 tvg-name="Solidaria TV" tvg-language="Spanish" tvg-country="AR" tvg-id="Solidaria TV" tvg-logo="http://www.cctvradio.com/uploads/4/9/9/8/4998504/3637504.jpg" group-title="Family",Solidaria TV (Family) (AR) (Spanish)
+http://188.165.135.22/remararg/livestream/playlist.m3u8
+#EXTINF:0 tvg-name="Tateti TV" tvg-language="Spanish" tvg-country="AR" tvg-id="Tateti TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/TaTeTi12.png" group-title="Family",Tateti TV (Family) (AR) (Spanish)
+http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/master.m3u8
+#EXTINF:0 tvg-name="Tele Bendici?n" tvg-language="Spanish" tvg-country="DO" tvg-id="Tele Bendici?n" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQgPAC06ER1aDJvXKGo0iijdsUzoTGcphdiyLxaUXjdqqpxVG2OK0wrXg" group-title="Family",Tele Bendici?n (Family) (DO) (Spanish)
+http://qs1.distream.net:2180/tbt_str/telebendicion/playlist.m3u8
+#EXTINF:0 tvg-name="Cosmovision" tvg-language="Spanish" tvg-country="CO" tvg-id="Cosmovision" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTchg9xmiQ3h51WypY1CVFCexnp1f_84s3nTMyEnnTAOsknViwUUDJVEA" group-title="Lifestyle",Cosmovision (Lifestyle) (CO) (Spanish)
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8?
+#EXTINF:0 tvg-name="Mexico Travel Channel" tvg-language="Spanish" tvg-country="MX" tvg-id="Mexico Travel Channel" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRUqmxM-GyZKy3ZzQOYk-18KWPHVt4M1Xkd615Ay6QnVRgNn1JnGwdoJQ" group-title="Lifestyle",Mexico Travel Channel (Lifestyle) (MX) (Spanish)
+http://cdns840stu1010.multistream.net/mtchlive/amlst:live/livestream.m3u8
+#EXTINF:0 tvg-name="Miami TV" tvg-language="English" tvg-country="US" tvg-id="Miami TV" tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/miami_tv_us.png" group-title="Lifestyle",Miami TV (Lifestyle) (US) (English)
+http://k4.usastreams.com:1935/miamitv/miamitv/chunklist_w128908539.m3u8
+#EXTINF:0 tvg-name="Telpin TV" tvg-language="Spanish" tvg-country="AR" tvg-id="Telpin TV" tvg-logo="http://i.imgur.com/bC2v1sB.png" group-title="Lifestyle",Telpin TV (Lifestyle) (AR) (Spanish)
+http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
+#EXTINF:0 tvg-name="Xper TV" tvg-language="Spanish" tvg-country="MX" tvg-id="Xper TV" tvg-logo="http://3.bp.blogspot.com/_xoLnhfa187U/TGWb-p8tLeI/AAAAAAAAADg/sbRJnZLMCMs/s320/banners_01.jpg" group-title="Lifestyle",Xper TV (Lifestyle) (MX) (Spanish)
+http://k3.usastreams.com:1935/tv33/tv33/playlist.m3u8
+#EXTINF:0 tvg-name="De Pelicula" tvg-language="Spanish" tvg-country="US" tvg-id="De Pelicula" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="Movie Channels",De Pelicula (Movie Channels) (US) (Spanish)
+http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8
+#EXTINF:0 tvg-name="Fx" tvg-language="English" tvg-country="US" tvg-id="Fx" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c7/FX_Italia_logo.svg" group-title="Movie Channels",Fx (Movie Channels) (US) (English)
+http://167.114.102.27/live/wm_OgDSW2LMpXemLzGw52w/1458318771/b8b5089c70ae62534970e2d8aa67e96d.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
+#EXTINF:0 tvg-name="HBO SD Asia" tvg-language="English" tvg-country="US" tvg-id="HBO SD Asia" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTnXrNI3eAhdwzLDlOtuPt-MLZZYhGKp99nKRyTNYeQXJCaNQHbaQxmdfM" group-title="Movie Channels",HBO SD Asia (Movie Channels) (US) (English)
+http://xmiolive.e14538a7.viettel-cdn.vn/hbo.smil/chunklist_b1000000.m3u8
+#EXTINF:0 tvg-name="HBO" tvg-language="English" tvg-country="US" tvg-id="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/422px-HBO_logo.svg.png" group-title="Movie Channels",HBO (Movie Channels) (US) (English)
+http://yottzin.esy.es/st.php?IDE=385&user=conrado&pass=5353&f=.m3u8
+#EXTINF:0 tvg-name="Cantinazo TV" tvg-language="Spanish" tvg-country="MX" tvg-id="Cantinazo TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/CTV_LOGO.png" group-title="Music",Cantinazo TV (Music) (MX) (Spanish)
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
+#EXTINF:0 tvg-name="El Pinguino" tvg-language="Spanish" tvg-country="CL" tvg-id="El Pinguino" tvg-logo="http://2.bp.blogspot.com/-vW5-qquXL3g/VQGx0I4JRiI/AAAAAAAADlc/G-4BowOZs-s/s1600/ep.png" group-title="Music",El Pinguino (Music) (CL) (Spanish)
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8
+#EXTINF:0 tvg-name="MiMusica" tvg-language="Spanish" tvg-country="CO" tvg-id="MiMusica" tvg-logo="http://www.canalmimusica.com/wp-content/uploads/2012/11/logo-mimusica.png" group-title="Music",MiMusica (Music) (CO) (Spanish)
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
+#EXTINF:0 tvg-name="SMO Positive Channel" tvg-language="Spanish" tvg-country="MX" tvg-id="SMO" tvg-logo="http://4.bp.blogspot.com/-PFAmZi2vh_U/U4JrZw2IjfI/AAAAAAAACnE/Gv0XX7B6NEk/s1600/SMOTV+Positive+Channel+Icon.JPG" group-title="Music",SMO Positive Channel (Music) (MX) (Spanish)
+http://199.217.118.90:1935/smotv/stream/playlist.m3u8
+#EXTINF:0 tvg-name="Super Q FM TV" tvg-language="Spanish" tvg-country="PN" tvg-id="Super Q FM TV" tvg-logo="http://static-cdn2.ustream.tv/i/channel/picture/2/6/6/5/266585/266585_banner_superq3_tv%2C66x66%2Cr:1.jpg" group-title="Music",Super Q FM TV (Music) (PN) (Spanish)
+http://cdn6.iviplanet.com:1935/SuperQTV/myStream.sdp/playlist.m3u8
+#EXTINF:0 tvg-name="TV Blast" tvg-language="Spanish" tvg-country="PA" tvg-id="TV Blast" tvg-logo="http://tvblast.tv/tvblast/wp-content/uploads/2013/10/logo-web.png" group-title="Music",TV Blast (Music) (PA) (Spanish)
+http://www.streaming507.com:1935/TVBlast/TVBlast/playlist.m3u8
+#EXTINF:0 tvg-name="Telemusica" tvg-language="Spanish" tvg-country="EC" tvg-id="Telemusica" tvg-logo="https://dogmaandgeopolitics.files.wordpress.com/2012/09/cropped-315_earth_globe_logo.jpg" group-title="Music",Telemusica (Music) (EC) (Spanish)
+http://186.155.200.118:1935/live/telemusica/chunklist_w1353784156_69909.m3u8
+#EXTINF:0 tvg-name="Teve Musica HD" tvg-language="Spanish" tvg-country="DO" tvg-id="Teve Musica HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvpTMkpmAZF3tEGBD1Fw3LZyK4VRT8CQPXsRR1_rwvrTbSIbU-059nyjw" group-title="Music",Teve Musica HD (Music) (DO) (Spanish)
+http://ss6.domint.net:2086/tmtv_str/musica/playlist.m3u8
+#EXTINF:0 tvg-name="VEVO 1 HD" tvg-language="English" tvg-country="US" tvg-id="VEVO 1 HD" tvg-logo="http://techcircle.vccircle.com/wp-content/uploads/2013/03/vevo-logo.jpg" group-title="Music",VEVO 1 HD (Music) (US) (English)
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+#EXTINF:0 tvg-name="VEVO 10" tvg-language="English" tvg-country="US" tvg-id="VEVO 10" tvg-logo="http://techcircle.vccircle.com/wp-content/uploads/2013/03/vevo-logo.jpg" group-title="Music",VEVO 10 (Music) (US) (English)
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/04/prog_index.m3u8
+#EXTINF:0 tvg-name="VEVO 11" tvg-language="English" tvg-country="US" tvg-id="VEVO 11" tvg-logo="http://techcircle.vccircle.com/wp-content/uploads/2013/03/vevo-logo.jpg" group-title="Music",VEVO 11 (Music) (US) (English)
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/04/prog_index.m3u8
+#EXTINF:0 tvg-name="VEVO 12" tvg-language="English" tvg-country="US" tvg-id="VEVO 12" tvg-logo="http://techcircle.vccircle.com/wp-content/uploads/2013/03/vevo-logo.jpg" group-title="Music",VEVO 12 (Music) (US) (English)
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/04/prog_index.m3u8
+#EXTINF:0 tvg-name="VEVO 13" tvg-language="English" tvg-country="US" tvg-id="VEVO 13" tvg-logo="http://techcircle.vccircle.com/wp-content/uploads/2013/03/vevo-logo.jpg" group-title="Music",VEVO 13 (Music) (US) (English)
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+#EXTINF:0 tvg-name="VEVO 14" tvg-language="English" tvg-country="US" tvg-id="VEVO 14" tvg-logo="http://techcircle.vccircle.com/wp-content/uploads/2013/03/vevo-logo.jpg" group-title="Music",VEVO 14 (Music) (US) (English)
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
+#EXTINF:0 tvg-name="VEVO 15" tvg-language="English" tvg-country="US" tvg-id="VEVO 15" tvg-logo="http://techcircle.vccircle.com/wp-content/uploads/2013/03/vevo-logo.jpg" group-title="Music",VEVO 15 (Music) (US) (English)
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
+#EXTINF:0 tvg-name="VEVO 16" tvg-language="English" tvg-country="US" tvg-id="VEVO 16" tvg-logo="http://techcircle.vccircle.com/wp-content/uploads/2013/03/vevo-logo.jpg" group-title="Music",VEVO 16 (Music) (US) (English)
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+#EXTINF:0 tvg-name="VEVO 17" tvg-language="English" tvg-country="US" tvg-id="VEVO 17" tvg-logo="http://techcircle.vccircle.com/wp-content/uploads/2013/03/vevo-logo.jpg" group-title="Music",VEVO 17 (Music) (US) (English)
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+#EXTINF:0 tvg-name="VEVO 18" tvg-language="English" tvg-country="US" tvg-id="VEVO 18" tvg-logo="http://techcircle.vccircle.com/wp-content/uploads/2013/03/vevo-logo.jpg" group-title="Music",VEVO 18 (Music) (US) (English)
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+#EXTINF:0 tvg-name="VEVO 2 HD" tvg-language="English" tvg-country="US" tvg-id="VEVO 2 HD" tvg-logo="http://techcircle.vccircle.com/wp-content/uploads/2013/03/vevo-logo.jpg" group-title="Music",VEVO 2 HD (Music) (US) (English)
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+#EXTINF:0 tvg-name="VEVO 3 HD" tvg-language="English" tvg-country="US" tvg-id="VEVO 3 HD" tvg-logo="http://techcircle.vccircle.com/wp-content/uploads/2013/03/vevo-logo.jpg" group-title="Music",VEVO 3 HD (Music) (US) (English)
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+#EXTINF:0 tvg-name="VEVO 4" tvg-language="English" tvg-country="US" tvg-id="VEVO 4" tvg-logo="http://techcircle.vccircle.com/wp-content/uploads/2013/03/vevo-logo.jpg" group-title="Music",VEVO 4 (Music) (US) (English)
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/02/prog_index.m3u8
+#EXTINF:0 tvg-name="VEVO 5" tvg-language="English" tvg-country="US" tvg-id="VEVO 5" tvg-logo="http://techcircle.vccircle.com/wp-content/uploads/2013/03/vevo-logo.jpg" group-title="Music",VEVO 5 (Music) (US) (English)
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/02/prog_index.m3u8
+#EXTINF:0 tvg-name="VEVO 6" tvg-language="English" tvg-country="US" tvg-id="VEVO 6" tvg-logo="http://techcircle.vccircle.com/wp-content/uploads/2013/03/vevo-logo.jpg" group-title="Music",VEVO 6 (Music) (US) (English)
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/02/prog_index.m3u8
+#EXTINF:0 tvg-name="VEVO 7" tvg-language="English" tvg-country="US" tvg-id="VEVO 7" tvg-logo="http://techcircle.vccircle.com/wp-content/uploads/2013/03/vevo-logo.jpg" group-title="Music",VEVO 7 (Music) (US) (English)
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/03/prog_index.m3u8
+#EXTINF:0 tvg-name="VEVO 8" tvg-language="English" tvg-country="US" tvg-id="VEVO 8" tvg-logo="http://techcircle.vccircle.com/wp-content/uploads/2013/03/vevo-logo.jpg" group-title="Music",VEVO 8 (Music) (US) (English)
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/03/prog_index.m3u8
+#EXTINF:0 tvg-name="VEVO 9" tvg-language="English" tvg-country="US" tvg-id="VEVO 9" tvg-logo="http://techcircle.vccircle.com/wp-content/uploads/2013/03/vevo-logo.jpg" group-title="Music",VEVO 9 (Music) (US) (English)
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/03/prog_index.m3u8
+#EXTINF:0 tvg-name="ZOL 106.5 FM" tvg-language="Spanish" tvg-country="DO" tvg-id="ZOL 106.5 FM" tvg-logo="http://emisorasdominicanas.com.do/images/sobipro/entries/69/thumb_zol-106-5-online-sol-106-en-vivo.jpg" group-title="Radio",ZOL 106.5 FM (Radio) (DO) (Spanish)
+http://ss6.domint.net:1948/zol_edge/vzol/playlist.m3u8
+#EXTINF:0 tvg-name="CSI: Las Vegas" tvg-language="Spanish" tvg-country="ES" tvg-id="CSI: Las Vegas" tvg-logo="http://i.imgur.com/MxVkmMq.jpg" group-title="RandomAirTime 24/7",CSI: Las Vegas (RandomAirTime 24/7) (ES) (Spanish)
+http://iptvnation.com/90.mp4
+#EXTINF:0 tvg-name="Grimm" tvg-language="Spanish" tvg-country="ES" tvg-id="Grimm" tvg-logo="http://cdn1.sciencefiction.com/wp-content/uploads/2014/05/Grimm.jpg" group-title="RandomAirTime 24/7",Grimm (RandomAirTime 24/7) (ES) (Spanish)
+http://iptvnation.com/grimmlat.mp4
+#EXTINF:0 tvg-name="South Park" tvg-language="Spanish" tvg-country="ES" tvg-id="South Park" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/South_Park_sign_logo.png" group-title="RandomAirTime 24/7",South Park (RandomAirTime 24/7) (ES) (Spanish)
+http://iptvnation.com/southparklat.mp4
+#EXTINF:0 tvg-name="ARGENTINA 9" tvg-language="Spanish" tvg-country="AR" tvg-id="ARGENTINA 9" tvg-logo="http://i.imgur.com/c4w9efK.png" group-title="Sports",ARGENTINA 9 (Sports) (AR) (Spanish)
+http://dd65nd24m61wg.cloudfront.net/livec9/smil:C9.smil/chunklist_b796000.m3u8
+#EXTINF:0 tvg-name="CDN Sports Max" tvg-language="Spanish" tvg-country="DO" tvg-id="CDN Sports Max" tvg-logo="http://2.bp.blogspot.com/-EsjmKdYjDyY/VQASgOY4ZPI/AAAAAAAADkY/tpBOrjaFqT4/s1600/cdn-sportsmax-655.png" group-title="Sports",CDN Sports Max (Sports) (DO) (Spanish)
+http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
+#EXTINF:0 tvg-name="CDN Sportsmax" tvg-language="Spanish" tvg-country="ES" tvg-id="CDN Sportsmax" tvg-logo="http://i.imgur.com/JGzxhyy.jpg" group-title="Sports",CDN Sportsmax (Sports) (ES) (Spanish)
+http://108.168.206.90:1935/cdn/cdn/playlist.m3u8
+#EXTINF:0 tvg-name="COS 2" tvg-language="Spanish" tvg-country="PA" tvg-id="COS 2" tvg-logo="http://seeklogo.com/images/C/cable-onda-sports-logo-52B465AEBE-seeklogo.com.gif" group-title="Sports",COS 2 (Sports) (PA) (Spanish)
+http://live.cableondasports.com/cos2/media.smil/playlist.m3u8
+#EXTINF:0 tvg-name="COS" tvg-language="Spanish" tvg-country="PA" tvg-id="COS" tvg-logo="http://seeklogo.com/images/C/cable-onda-sports-logo-52B465AEBE-seeklogo.com.gif" group-title="Sports",COS (Sports) (PA) (Spanish)
+http://d3tzxnygw45q3p.cloudfront.net/cos/media.smil/playlist.m3u8
+#EXTINF:0 tvg-name="Canal+ Deportes 2" tvg-language="Spanish" tvg-country="ES" tvg-id="Canal+ Deportes 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJy5N50r6Cgj_i150d5rvhNLsFgUHqjiICN7S3pyiocY-L8Po7NDDee0Q" group-title="Sports",Canal+ Deportes 2 (Sports) (ES) (Spanish)
+http://iptvbox.noip.us:9998/live/atik/atik/856.m3u8
+#EXTINF:0 tvg-name="Canal+ Futbol" tvg-language="Spanish" tvg-country="ES" tvg-id="Canal+ Futbol" tvg-logo="http://i.imgur.com/gVg0QEZ.png" group-title="Sports",Canal+ Futbol (Sports) (ES) (Spanish)
+http://iptvbox.noip.us:9998/live/atik/atik/857.m3u8
+#EXTINF:0 tvg-name="DeporTV" tvg-language="Spanish" tvg-country="AR" tvg-id="DXTV" tvg-logo="http://i.imgur.com/kpJJHfa.png" group-title="Sports",DeporTV (Sports) (AR) (Spanish)
+http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE1IDEyOjM5OjEwIFBNJmhhc2hfdmFsdWU9enNzd2E
+#EXTINF:0 tvg-name="Fox Sports" tvg-language="Spanish" tvg-country="MX" tvg-id="Fox Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Fox_Sports_logo.svg/250px-Fox_Sports_logo.svg.png" group-title="Sports",Fox Sports (Sports) (MX) (Spanish)
+http://canalesvip.ml/test/522.m3u8
+#EXTINF:0 tvg-name="Real Madrid TV" tvg-language="Spanish" tvg-country="ES" tvg-id="Real Madrid TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/Realmadrid-TV.jpg" group-title="Sports",Real Madrid TV (Sports) (ES) (Spanish)
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:0 tvg-name="beIN Sports" tvg-language="Spanish" tvg-country="ES" tvg-id="beIN Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS37P4Hh8Fc8P1o7-6-ygxKxp4Xa4ThZk4IZ_AgmpuAaGchgOd7oYAgqRg" group-title="Sports",beIN Sports (Sports) (ES) (Spanish)
+http://iptvbox.noip.us:9998/live/atik/atik/847.m3u8
+#EXTINF:0 tvg-name="Cadena Megavision" tvg-language="Spanish" tvg-country="ES" tvg-id="Cadena Megavision" tvg-logo="http://canal15.megavision.com.sv/images/lunes/cadenamegavision.jpg" group-title="RandomAirTime 24/7",Cadena Megavision (RandomAirTime 24/7) (ES) (Spanish)
+http://xgrupomegavisionx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="tve.png",[COLOR FFDC54D3]TVEi[/COLOR]
+http://62.65.140.214:80/session/fc912346-ecd4-11e5-a43c-005056bc1a52/nvnv5a/2/5003/index.m3u8?token=9beeaba9f9db334e1d6a6b90dfe2cedd_1458369921_1458369921&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="LA1.es" group-title="Spanish" tvg-logo="tve_la1.png",[COLOR orange]RTVE La 1[/COLOR]
+http://hlslive.rtve.es/LA1_LV3_IPH/bitrate_2.m3u8
+#EXTINF:-1 tvg-id="LA2.es" group-title="Spanish" tvg-logo="tve_la2.png",[COLOR orange]RTVE La 2[/COLOR]
+http://hlslive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8
+#EXTINF:-1 tvg-id="24Horas.sp" group-title="Spanish" tvg-logo="canal_24_horas.png",[COLOR orange]Canal 24 horas[/COLOR]
+http://hlslive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
+#EXTINF:-1 tvg-id="Lared" group-title="Spanish" tvg-logo="la_redHD.png",[COLOR orangered]LA RED HD[/COLOR]
+http://wow1.lax.digitalproserver.com/redtv/redtvvivo/livestream1/chunklist.m3u8|X-Forwarded-For=31.220.176.0
+#EXTINF:-1 tvg-id="Lared" group-title="Spanish" tvg-logo="la_redHD.png",[COLOR orangered]LA RED HD (2)[/COLOR]
+rtmp://wow1.dallas.digitalproserver.com/redtv/redtvvivo playpath=mp4:livestream1 swfUrl=http://media.digitalproserver.com/v2/jw/6.7/jwplayer.flash.swf?v=67 live=1 pageUrl=http://media.digitalproserver.com/v2/live/redtv
+#EXTINF:-1 tvg-id="GaliciaTV.sp" group-title="Spanish" tvg-logo="galicia.png",[COLOR orange]TV Galicia[/COLOR]
+http://media3.crtvg.es/live/tvge/chunklist.m3u8
+#EXTINF:-1 tvg-id="LaSexta.sp" group-title="Spanish" tvg-logo="la_sexta_hd.png",[COLOR orangered]LA SEXTA HD[/COLOR]
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8
+#EXTINF:-1 tvg-id="LaSexta.sp" group-title="Spanish" tvg-logo="la_sexta.png",[COLOR orange]LA SEXTA[/COLOR]
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_2_av-p.m3u8
+#EXTINF:-1 tvg-id="Antena3.sp" group-title="Spanish" tvg-logo="antenna3.png",[COLOR orangered]Antenna 3 HD[/COLOR]
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-p.m3u8
+#EXTINF:-1 tvg-id="Antena3.sp" group-title="Spanish" tvg-logo="antenna3.png",[COLOR orange]Antenna 3[/COLOR]
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_2_av-p.m3u8
+#EXTINF:-1 tvg-id="RussiaToday.es" group-title="Spanish" tvg-logo="russia_today.png",[COLOR orangered]Russia Today ES HD[/COLOR]
+http://rt.ashttp14.visionip.tv/live/RT_en_Espanol-HD/chunklist.m3u8
+#EXTINF:-1 tvg-id="TVChile" group-title="Spanish" tvg-logo="tv_chile.png",[COLOR orange]TV Chile[/COLOR]
+http://edge-61-cl.edge.mdstrm.com:1935/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/playlist.m3u8
+#EXTINF:-1 tvg-id="TVN" group-title="Spanish" tvg-logo="tvn.png",[COLOR orange]TVN[/COLOR]
+http://tvn-vod.mdstrm.com/liveedge/tvnelemental.smil/chunklist_b981000.m3u8
+#EXTINF:-1 tvg-id="TVN" group-title="Spanish" tvg-logo="tvn.png",[COLOR orange]TVN (2)[/COLOR]
+http://edge-11-cl.edge.mdstrm.com:1935/tvn-live/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
+#EXTINF:-1 tvg-id="TVChile" group-title="Spanish" tvg-logo="tv_mas.png",[COLOR orange]TV MÁS[/COLOR]
+http://50.7.98.234:1935/rtv/videortv/live.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="mexico_travel_channel.png",[COLOR orange]México Travel Channel[/COLOR]
+http://cdns840stu1010.multistream.net:80/mtchlive/amlst:live/livestream.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="mexico_televisio.png",[COLOR orange]México Television Michoacán[/COLOR]
+http://hd.worldkast.com/8512/smil:8512.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="navarra.png",[COLOR orange]Navarra TV[/COLOR]
+http://cdn.s3.eu.nice264.com:1935/niceLiveServer/NTV_livenatvmb_MB_478/live.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="ondaluz.png",[COLOR orange]Ondaluz Sierra[/COLOR]
+http://cls.elitehd-audiovisuales.com:80/olsierra/livestream1/live.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="condavision.png",[COLOR orange]Condavision[/COLOR]
+http://cls.todostreaming.eu:80/azahara/condavision/live.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="ewtn.png",[COLOR orange]EWTN[/COLOR]
+http://ewtn.mpl.miisolutions.net:1935/ewtn-live-5/900.mp4/livestream.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="esperanza.png",[COLOR orange]Esperanza TV[/COLOR]
+http://k3.usastreams.com:1935/etvSD/etvSD/live.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="alcance_tv.png",[COLOR orange]Alcance TV[/COLOR]
+http://hd.worldkast.com:1935/8232/8232.smil/chunklist_b1000000.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="almavision.png",[COLOR orange]Almavision[/COLOR]
+http://cdn3.iviplanet.com:1935/Almavision/almavision1/live.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="lancelot.png",[COLOR orange]Lancelot TV[/COLOR]
+http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="rts.png",[COLOR orange]RTS[/COLOR]
+http://d2rcb4pdmqg3cg.cloudfront.net:80/liverts/liverts.smil/chunklist_b899152.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="telecafe.png",[COLOR orange]Telecafé[/COLOR]
+http://xtelecafex.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="canal_13.png",[COLOR orange]Canal 13[/COLOR]
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="c5n.png",[COLOR orange]C5N[/COLOR]
+rtmp://c5n.stweb.tv:1935/c5n/live
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="zoom.png",[COLOR orange]Zoom TV[/COLOR]
+http://xcanalzoomtvx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="tele_sistema.png",[COLOR orange]TeleSistema[/COLOR]
+http://mek4.mekstream.com/telesistema/smil:telesistema.smil/chunklist_w965232534_b464000.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="tele_antillas.png",[COLOR orange]TeleAntillas[/COLOR]
+http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="teleprogreso.png",[COLOR orange]TeleProgreso[/COLOR]
+http://162.212.176.83:8080/teleprogreso.m3u8?
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="telemetro.png",[COLOR orange]TeleMetro[/COLOR]
+http://live.telemetro.com/telemetro/tm.smil/playlist.m3u8?
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="rpc.png",[COLOR orange]RPC[/COLOR]
+http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8?
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="rbc.png",[COLOR orange]RBC[/COLOR]
+rtmp://184.154.28.210:1935/rbcsatelital-hd/rbcsatelital-hd
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="eitb.png",[COLOR orange]EITB España[/COLOR]
+http://etbvhlsnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@123113/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="adinet_tv.png",[COLOR orange]Adinet TV[/COLOR]
+http://painel.tvdigitalhd.org:1935/adinet/adinet/live.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="canal_antiestres.png",[COLOR orange]Canal Antiestres[/COLOR]
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="cantinazo.png",[COLOR orange]Cantinazo[/COLOR]
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
+#EXTINF:-1 tvg-id="Deutschewelle.de" group-title="Spanish" tvg-logo="deutsche_welle.png",[COLOR orange]Deutsche Welle (Latinoamérica)[/COLOR]
+http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="teleantioquia.png",[COLOR orange]Teleantoquia[/COLOR]
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="cosmovision.png",[COLOR orange]Cosmovision[/COLOR]
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="canal_u.png",[COLOR orange]Canal U[/COLOR]
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="cable_noticias.png",[COLOR orange]Cablenoticias[/COLOR]
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="el_tiempo.png",[COLOR orange]El Tiempo[/COLOR]
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="trendy_channel.png",[COLOR orange]Trendy[/COLOR]
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="tele_medellin.png",[COLOR orange]Tele medéllin[/COLOR]
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="tv_agro.png",[COLOR orange]TV Agro[/COLOR]
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_3.m3u8
+#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="best_music_tv_eska.png",[COLOR orangered]BEST MUSIC TV HD[/COLOR]
+rtmp://stream.smcloud.net/live2/best/best_720p?Vd?u#bt!25
+#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="eska_tv.png",[COLOR orange]ESKA TV[/COLOR]
+rtmp://stream.smcloud.net/live/eskatv
+#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="best_music_tv_eska.png",[COLOR orangered]ESKA BEST MUSIC HD[/COLOR]
+rtmp://stream.smcloud.net/live2/best/best_720p
+#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="best_music_tv_eska.png",[COLOR orange]ESKA BEST MUSIC[/COLOR]
+rtmp://stream.smcloud.net/live2/best/best_360p
+#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="eska_rock_bis.png",[COLOR orangered]ESKA ROCK HD[/COLOR]
+rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p
+#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="eska_rock.png",[COLOR orange]ESKA ROCK[/COLOR]
+rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_360p
+#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="eska_party.png",[COLOR orangered]ESKA PARTY HD[/COLOR]
+rtmp://stream.smcloud.net/live2/eska_party/eska_party_720p
+#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="eska_party.png",[COLOR orange]ESKA PARTY[/COLOR]
+rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_360p
+#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="polo_party_tv.png",[COLOR orangered]POLO PARTY HD[/COLOR]
+rtmp://stream.smcloud.net/live2/polo_party/polo_party_720p
+#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="polo_party_tv.png",[COLOR orange]POLO PARTY[/COLOR]
+rtmp://stream.smcloud.net/live2/polo_party/polo_party_360p
+#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="polo_tv.png",[COLOR orange]POLO TV[/COLOR]
+rtmp://stream.smcloud.net/live/polotv
+#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="wawa_tv.png",[COLOR orangered]WAWA HD[/COLOR]
+rtmp://stream.smcloud.net/live2/wawa/wawa_720p
+#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="wawa_tv.png",[COLOR orange]WAWA[/COLOR]
+rtmp://stream.smcloud.net/live2/wawa/wawa_360p
+#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="vox_music_tv.png",[COLOR orangered]VOX MUSIC HD[/COLOR]
+rtmp://stream.smcloud.net/live2/vox/vox_720p
+#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="vox_music_tv.png",[COLOR orange]VOX MUSIC[/COLOR]
+rtmp://stream.smcloud.net/live/vox2/stream1
+#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="1hd.png",[COLOR orangered]FIRST MUSIC CHANNEL HD[/COLOR]
+rtmp://rtmp.one.by/HD/1muz
+#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="djing.png",[COLOR orangered]Djing 1[/COLOR]
+http://www.djing.com/tv/i-05.m3u8
+#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="djing.png",[COLOR orangered]Djing 2[/COLOR]
+http://www.djing.com/tv/a-05.m3u8
+#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="djing.png",[COLOR orangered]Djing 3[/COLOR]
+http://www.djing.com/tv/u-05.m3u8
+#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="djing.png",[COLOR orangered]Djing 4[/COLOR]
+http://www.djing.com/tv/d-05.m3u8
+#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="djing.png",[COLOR orangered]Djing 5[/COLOR]
+http://www.djing.com/tv/s-05.m3u8
+#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="superspnic_tv.png",[COLOR orange]Super Sonic TV[/COLOR]
+http://str103.setplex.net:1935/228/stv_online/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="ocko_gold.png",[COLOR orange]Ocko Gold[/COLOR]
+http://194.79.52.77/goldi/goldHQ1/byb0tter.m3u8
+#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="nebiset.png",[COLOR orange]Nebiset[/COLOR]
+http://hls.nebiset.tv/nebiset.m3u8
+#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="mfmtv.png",[COLOR orange]MFM TV[/COLOR]
+http://ec.playmedia.fr/mfmtv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="telemusica.png",[COLOR orange]Telemusica[/COLOR]
+rtmp://186.155.200.118:1935/live/telemusica
+#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="slam.png",[COLOR orange]Slam TV[/COLOR]
+http://538hls.lswcdn.triple-it.nl/content/slamtv/slamtv_0.m3u8
+#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="kiss_tv.png",[COLOR orange]KISS TV[/COLOR]
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
+#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="electrosound.png",[COLOR orange]Electrosound TV[/COLOR]
+rtmp://www.electrosound.tv/public/stream
+#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="electrika_tv.png",[COLOR orange]Elektrika TV[/COLOR]
+rtmp://rtmp.elektrika.cz/live/myStream.sdp
+#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="hit_tv.png",[COLOR orange]HITS[/COLOR]
+http://204.107.26.252:1935/live/691.high.stream/playlist.m3u8
+#EXTINF:0 tvg-name="Ecuamerica TV" tvg-language="Spanish" tvg-country="EC" tvg-id="Ecuamerica TV" tvg-logo="http://puu.sh/nKvBg/346d1a116d.png" group-title="Public-Entertainment",Ecuamerica TV (Public-Entertainment) (EC) (Spanish)
+http://enhd.co:1935/ecuamerica/ecuamerica/playlist.m3u8
+
+
+
+
 
 
 
@@ -603,435 +1027,6 @@ http://evolive-tv.com:8000/live/genio/genio/67.m3u8
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_800
 #EXTINF:-1,SPORTS:SPORT  SPORT TIME TV 2HQ GERMANY
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_800
-
-
-
-
-
-#EXTINF:0 tvg-name="24h RTVE" tvg-language="Spanish" tvg-country="ES" tvg-id="24h RTVE" tvg-logo="https://www.brandsoftheworld.com/sites/default/files/styles/logo-original-577x577/public/0020/3295/brand.gif?itok=VyyXyw0I" group-title="News",24h RTVE (News) (ES) (Spanish)
-http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
-#EXTINF:0 tvg-name="Andalucia TV" tvg-language="Spanish" tvg-country="ES" tvg-id="Andalucia TV" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQUmGkOUj_g3HAX8Iy3gZVaXUxAwPfU_L86Ir3CmIBR9Z43l0Tqr0uhuQ" group-title="News",Andalucia TV (News) (ES) (Spanish)
-http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
-#EXTINF:0 tvg-name="Euronews" tvg-language="Spanish" tvg-country="ES" tvg-id="Euronews" tvg-logo="http://2.bp.blogspot.com/-bgSjOJk7OpA/VEWJ3YvijBI/AAAAAAAAAQY/VbfaD3aYpBs/s1600/euronews-logo.jpg" group-title="News",Euronews (News) (ES) (Spanish)
-http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8
-#EXTINF:0 tvg-name="TELE SISTEMA" tvg-language="Spanish" tvg-country="ES" tvg-id="TELE SISTEMA" tvg-logo="http://logopond.com/logos/c3966093ee94ae75a6f65778327bf70c.png" group-title="News",TELE SISTEMA (News) (ES) (Spanish)
-http://mek4.mekstream.com/telesistema/smil:telesistema.smil/chunklist_w965232534_b464000.m3u8
-#EXTINF:0 tvg-name="Aprende TV" tvg-language="Spanish" tvg-country="MX" tvg-id="Aprende TV" tvg-logo="http://i.imgur.com/27onNLM.png" group-title="Documentary",Aprende TV (Documentary) (MX) (Spanish)
-http://dl-dgtve.xsn.com.mx/dgtve/canal24dgtve.mp4/playlist.m3u8
-#EXTINF:0 tvg-name="La 2 RTVE" tvg-language="Spanish" tvg-country="ES" tvg-id="La 2 RTVE" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/4/47/Tve_2.png" group-title="Documentary",La 2 RTVE (Documentary) (ES) (Spanish)
-http://iphonelive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8
-#EXTINF:0 tvg-name="Mexiquense TV" tvg-language="Spanish" tvg-country="MX" tvg-id="Mexiquense TV" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS8KdcEjXECJbFgghdINF_Eqp51cCLyBMe68brwIr2k9Nl2-ROpb5621t8" group-title="Documentary",Mexiquense TV (Documentary) (MX) (Spanish)
-rtmp://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_/broadcast1 
-#EXTINF:0 tvg-name="RTVida" tvg-language="Spanish" tvg-country="ES" tvg-id="RTVida" tvg-logo="http://www.eniyitv.com/wp-content/uploads/2013/03/rtvida-tv-logo.png" group-title="Documentary",RTVida (Documentary) (ES) (Spanish)
-http://178.32.53.254/radiovida/livestream/playlist.m3u8
-#EXTINF:0 tvg-name="USCG Television Ecuador" tvg-language="Spanish" tvg-country="EX" tvg-id="USCG Television Ecuador" tvg-logo="http://puu.sh/nyTsI/8380211bcd.jpg" group-title="Documentary",USCG Television Ecuador (Documentary) (EX) (Spanish)
-rtmp://ecuastream.net:1935/UCSGHQ/UCSGHQ
-#EXTINF:0 tvg-name="Vale TV" tvg-language="Spanish" tvg-country="VE" tvg-id="Vale TV" tvg-logo="http://3.bp.blogspot.com/-jJbdM5b-Q94/VP_28EFzkqI/AAAAAAAADi0/_KswWyivWAU/s1600/VALE%2BTV.JPG" group-title="Documentary",Vale TV (Documentary) (VE) (Spanish)
-http://edge.wms28.lorini.net/valetv/valetv/playlist.m3u8
-#EXTINF:0 tvg-name="324" tvg-language="Spanish" tvg-country="ES" tvg-id="324" tvg-logo="http://www.eleconomista.es/CanalPDA/files/imagecache/220x/logo_324.png" group-title="Entertainment",324 (Entertainment) (ES) (Spanish)
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/playlist.m3u8
-#EXTINF:0 tvg-name="360 TV" tvg-language="Spanish" tvg-country="ES" tvg-id="360 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Logo_360.png" group-title="Entertainment",360 TV (Entertainment) (ES) (Spanish)
-http://lsd360tvhls-lh.akamaihd.net/i/360TVHLS_1@197877/master.m3u8
-#EXTINF:0 tvg-name="America TV" tvg-language="Spanish" tvg-country="PE" tvg-id="America TV" tvg-logo="http://seeklogo.com/images/A/America_TV-logo-1774BA52B1-seeklogo.com.gif" group-title="Entertainment",America TV (Entertainment) (PE) (Spanish)
-http://iphone-streaming.ustream.tv/ustreamVideo/3704670/streams/live/playlist.m3u8
-#EXTINF:0 tvg-name="Anime" tvg-language="Spanish" tvg-country="MX" tvg-id="Anime" tvg-logo="http://www.teenblab.com/assets/images/Anime-Logo.jpg" group-title="Entertainment",Anime (Entertainment) (MX) (Spanish)
-http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
-#EXTINF:0 tvg-name="Antena 3 HD" tvg-language="Spanish" tvg-country="ES" tvg-id="Antena 3 HD" tvg-logo="http://img4.wikia.nocookie.net/__cb20141014151714/logopedia/images/0/05/Logo_Antena_3_HD_Premium.png" group-title="Entertainment",Antena 3 HD (Entertainment) (ES) (Spanish)
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
-#EXTINF:0 tvg-name="Antena 3 Internacional" tvg-language="Spanish" tvg-country="ES" tvg-id="Antena 3 Internacional" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSSIIyRzequHPUuJAj8hi6o-Ll4N21Ohhfyqq2jVzbRa82K6qXdhwlHOZE" group-title="Entertainment",Antena 3 Internacional (Entertainment) (ES) (Spanish)
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
-#EXTINF:0 tvg-name="Antena Latina" tvg-language="Spanish" tvg-country="DO" tvg-id="Antena Latina" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRZf1Zir-2tCSvvYLrfC8dftZESrpWk3BpHR7UkH6lLBpHsqhbP2gOmDw" group-title="Entertainment",Antena Latina (Entertainment) (DO) (Spanish)
-http://ss6.domint.net:1962/al_edge/antena/chunklist_w2059964033.m3u8
-#EXTINF:0 tvg-name="Azteca 7 Monterrey" tvg-language="Spanish" tvg-country="MX" tvg-id="Azteca 7 Monterrey" tvg-logo="http://www.azteca7.com/portal/siete-beta/images/logo_empty.png" group-title="Entertainment",Azteca 7 Monterrey (Entertainment) (MX) (Spanish)
-http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
-#EXTINF:0 tvg-name="Azteca Honduras" tvg-language="Spanish" tvg-country="HN" tvg-id="Azteca Honduras" tvg-logo="http://i.imgur.com/LdA1y9J.png" group-title="Entertainment",Azteca Honduras (Entertainment) (HN) (Spanish)
-http://aztecalive-lh.akamaihd.net/i/142kvpq0l_1@67741/master.m3u8
-#EXTINF:0 tvg-name="Azteca trece" tvg-language="Spanish" tvg-country="MX" tvg-id="Azteca trece" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK4Ascg6mhU-zkevUR_HuiMBpjPKVr7Jfa8FTKglaISwSw6KXRurkpIw" group-title="Entertainment",Azteca trece (Entertainment) (MX) (Spanish)
-http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
-#EXTINF:0 tvg-name="Canal 10 Honduras" tvg-language="Spanish" tvg-country="HN" tvg-id="Canal 10 Honduras" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT3a1XXFphKaPjIVlmroz1P3HE87kEgzDsbwyTZPeKvdByB_sKTqJv_oQ" group-title="Entertainment",Canal 10 Honduras (Entertainment) (HN) (Spanish)
-http://cdn1.worldkast.com/canal10/ngrp:canal10_all/playlist.m3u8
-#EXTINF:0 tvg-name="Canal 10 Mar De Plata TV" tvg-language="Spanish" tvg-country="AR" tvg-id="Canal 10 Mar De Plata TV" tvg-logo="http://static.tvlive32.com/logo/Canal-10-Mar-del-Plata_7164.jpg" group-title="Entertainment",Canal 10 Mar De Plata TV (Entertainment) (AR) (Spanish)
-http://ionlive1-lh.akamaihd.net/i/canal10_1@125367/master.m3u8
-#EXTINF:0 tvg-name="Canal 13 Nicaragua" tvg-language="Spanish" tvg-country="NI" tvg-id="Canal 13 Nicaragua" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Logo_Viva_Nicaragua_Canal_13.png" group-title="Entertainment",Canal 13 Nicaragua (Entertainment) (NI) (Spanish)
-http://iphone-streaming.ustream.tv/uhls/13870671/streams/live/iphone/playlist.m3u8
-#EXTINF:0 tvg-name="Canal 2 Nicaragua" tvg-language="Spanish" tvg-country="NI" tvg-id="Canal 2 NIcaragua" tvg-logo="http://i.imgur.com/cA00bnP.jpg" group-title="Entertainment",Canal 2 Nicaragua (Entertainment) (NI) (Spanish)
-http://162.244.81.181:1935/live//Stream1/playlist.m3u8
-#EXTINF:0 tvg-name="Canal 40" tvg-language="Spanish" tvg-country="MX" tvg-id="Canal 40" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Proyecto_40_logo.PNG/150px-Proyecto_40_logo.PNG" group-title="Entertainment",Canal 40 (Entertainment) (MX) (Spanish)
-http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/master.m3u8
-#EXTINF:0 tvg-name="Canal 6" tvg-language="Spanish" tvg-country="CR" tvg-id="Canal 6" tvg-logo="http://wwitv.com/tvlogos/b2634.jpg" group-title="Entertainment",Canal 6 (Entertainment) (CR) (Spanish)
-http://k3.usastreams.com:1935/cana6/cana6/playlist.m3u8
-#EXTINF:0 tvg-name="Canal 7" tvg-language="Spanish" tvg-country="MX" tvg-id="Canal 7" tvg-logo="http://jumptv.typepad.com/latinamerica/images/logo_canal_7_1.jpg" group-title="Entertainment",Canal 7 (Entertainment) (MX) (Spanish)
-http://74.63.97.188:1935/gpacifico4/videogpacifico4/playlist.m3u8
-#EXTINF:0 tvg-name="Canal 9 Litoral TV" tvg-language="Spanish" tvg-country="AR" tvg-id="Canal 9 Litoral TV" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/9/9b/Parana-c9.gif" group-title="Entertainment",Canal 9 Litoral TV (Entertainment) (AR) (Spanish)
-http://ionlive1-lh.akamaihd.net/i/canal9_1@125365/master.m3u8
-#EXTINF:0 tvg-name="Canal 9" tvg-language="Spanish" tvg-country="AR" tvg-id="Canal 9" tvg-logo="http://i.imgur.com/7d1x7.jpg" group-title="Entertainment",Canal 9 (Entertainment) (AR) (Spanish)
-http://dd65nd24m61wg.cloudfront.net/livec9/smil:C9.smil/playlist.m3u8
-#EXTINF:0 tvg-name="Canal Antiestres" tvg-language="Spanish" tvg-country="CO" tvg-id="Canal Antiestres" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQXchphHPxoaMVT1rFUiUENqlx0GVVnCK8j0pgJJ6H39y3ny5CzYRYrUg" group-title="Entertainment",Canal Antiestres (Entertainment) (CO) (Spanish)
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_3.m3u8
-#EXTINF:0 tvg-name="Canal Once HD" tvg-language="Spanish" tvg-country="MX" tvg-id="Canal Once HD" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT4cFy2rEq2lsWeve6Tp8dLc5f7JQ69XXEmyoOQ8e5rOT7C5bui13ROPaQ" group-title="Entertainment",Canal Once HD (Entertainment) (MX) (Spanish)
-http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8
-#EXTINF:0 tvg-name="Canal Once SD" tvg-language="Spanish" tvg-country="MX" tvg-id="Canal Once SD" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT4cFy2rEq2lsWeve6Tp8dLc5f7JQ69XXEmyoOQ8e5rOT7C5bui13ROPaQ" group-title="Entertainment",Canal Once SD (Entertainment) (MX) (Spanish)
-http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8
-#EXTINF:0 tvg-name="Canal Once" tvg-language="Spanish" tvg-country="UY" tvg-id="Canal Once" tvg-logo="http://i.imgur.com/14V0pcp.jpg" group-title="Entertainment",Canal Once (Entertainment) (UY) (Spanish)
-http://xcanaloncepuntadelestex.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:0 tvg-name="Canal U" tvg-language="Spanish" tvg-country="AR" tvg-id="Canal U" tvg-logo="http://www.irts-pacacorse.com/var/irts/storage/images/media/images/bloc_notes_img/canal_u/8848-2-fre-FR/canal_u_medium.gif" group-title="Entertainment",Canal U (Entertainment) (AR) (Spanish)
-http://xcanalutvx.api.channel.livestream.com/3.0/playlist.m3u8#megaIPTVArgentina
-#EXTINF:0 tvg-name="Canal de las Estrellas" tvg-language="Spanish" tvg-country="MX" tvg-id="Canal de las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/XEW-TV_(logo).png/150px-XEW-TV_(logo).png" group-title="Entertainment",Canal de las Estrellas (Entertainment) (MX) (Spanish)
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
-#EXTINF:0 tvg-name="Capital 21" tvg-language="Spanish" tvg-country="MX" tvg-id="Capital 21" tvg-logo="http://homozapping.com.mx/wp-content/uploads/2013/03/Canal-21.jpg" group-title="Entertainment",Capital 21 (Entertainment) (MX) (Spanish)
-http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent.m3u8
-#EXTINF:0 tvg-name="Captain TV" tvg-language="Tamil" tvg-country="IN" tvg-id="Captain TV" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR5chTXjymNuK1qaYO_83UgOG5uWwrOosJEuVbahEOnmTAIOvQqs5Ghow" group-title="Entertainment",Captain TV (Entertainment) (IN) (Tamil)
-http://play-fs.amgiptv.com/vxtvcaptain/captainvodsg.stream/playlist.m3u8
-#EXTINF:0 tvg-name="CerTv" tvg-language="Spanish" tvg-country="ES" tvg-id="CerTv" tvg-logo="http://canalesdominicano.net/wp-content/uploads/2015/05/canal4.jpg" group-title="Entertainment",CerTv (Entertainment) (ES) (Spanish)
-http://216.24.196.40:1935/live/canal4/playlist.m3u8
-#EXTINF:0 tvg-name="Color Vision" tvg-language="Spanish" tvg-country="ES" tvg-id="Color Vision" tvg-logo="http://canalesdominicanosenvivo.com/wp-content/uploads/2013/09/Color-Vision-Canal-9.jpg" group-title="Entertainment",Color Vision (Entertainment) (ES) (Spanish)
-http://ss8.domint.net:2048/cvis_str/video/playlist.m3u8
-#EXTINF:0 tvg-name="E! Entertainment Latino" tvg-language="Spanish" tvg-country="US" tvg-id="E! Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E!_Logo.svg/100px-E!_Logo.svg.png" group-title="Entertainment",E! Entertainment Latino (Entertainment) (US) (Spanish)
-http://31.220.40.118/LiveEdge/EentertaimentSD/playlist.m3u8?token=f1ea518b512761e8a8f6b7b9bce34111
-#EXTINF:0 tvg-name="FX" tvg-language="Spanish" tvg-country="MX" tvg-id="FX" tvg-logo="http://www.logoeps.net/wp-content/uploads/2012/04/fx-tv-channel-logo.jpg" group-title="Entertainment",FX (Entertainment) (MX) (Spanish)
-http://live.tutvgratis.tv/ch/101.m3u8
-#EXTINF:0 tvg-name="Galicia" tvg-language="Spanish" tvg-country="ES" tvg-id="Galicia" tvg-logo="http://i.imgur.com/R0CSkHm.jpg" group-title="Entertainment",Galicia (Entertainment) (ES) (Spanish)
-http://media3.crtvg.es/live/tvga/.m3u8
-#EXTINF:0 tvg-name="HTP" tvg-language="Spanish" tvg-country="ES" tvg-id="HTP" tvg-logo="http://1.bp.blogspot.com/-yNDWbH8srCc/Tx6ZAwctjrI/AAAAAAAAAjY/cKFnPu2_3oQ/s1600/Logo%2BHuesca2.jpg" group-title="Entertainment",HTP (Entertainment) (ES) (Spanish)
-rtmp://streaming2.radiohuesca.com/live/huescatv
-#EXTINF:0 tvg-name="Investigative Discovery" tvg-language="Spanish" tvg-country="MX" tvg-id="ID tv" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTQAU0fK9MXfx3P1dagDCfXQWQ3nPKgeKkC6oO-RG5n4tO3URpCsYABbg" group-title="Entertainment",Investigative Discovery (Entertainment) (MX) (Spanish)
-http://live.bltvios.com.edgesuite.net/tv/us/master.m3u8
-#EXTINF:0 tvg-name="LUX Mallorca TV" tvg-language="Spanish" tvg-country="ES" tvg-id="LUX Mallorca TV" tvg-logo="http://i.imgur.com/3TTmo4V.jpg" group-title="Entertainment",LUX Mallorca TV (Entertainment) (ES) (Spanish)
-rtmp://fl1.viastreaming.net/canal37/livestream
-#EXTINF:0 tvg-name="La Sexta" tvg-language="Spanish" tvg-country="ES" tvg-id="La Sexta" tvg-logo="http://progratele.wikispaces.com/file/view/7tocf98kclyo2bm7hr4c62e72db4fa3_la-sexta.gif/335085396/208x208/7tocf98kclyo2bm7hr4c62e72db4fa3_la-sexta.gif" group-title="Entertainment",La Sexta (Entertainment) (ES) (Spanish)
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
-#EXTINF:0 tvg-name="Levante TV" tvg-language="Spanish" tvg-country="ES" tvg-id="Levante TV" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQicXskuymDUbfaftJuBc1kOejzsUPjCdDiA_3x1_urJTIdoTyiqCQsKPM" group-title="Entertainment",Levante TV (Entertainment) (ES) (Spanish)
-rtmp://teledifusion.tv:1935/levantetvlive/levantetvlive
-#EXTINF:0 tvg-name="MicroVision" tvg-language="Spanish" tvg-country="ES" tvg-id="MicroVision" tvg-logo="http://grupomedrano.com.do/wp-content/uploads/2014/09/Microvision-Canal-101.jpg" group-title="Entertainment",MicroVision (Entertainment) (ES) (Spanish)
-http://tcc-streaming2.cloudapp.net:1935/micro10/microvision10/chunklist_w911586869.m3u8
-#EXTINF:0 tvg-name="Nuestra Vision Michoacan" tvg-language="Spanish" tvg-country="MX" tvg-id="Nuestra Vision Michoacan" tvg-logo="http://i.imgur.com/QybO5SU.jpg" group-title="Entertainment",Nuestra Vision Michoacan (Entertainment) (MX) (Spanish)
-http://video7.stream.mx:1935/8032/8032/chunklist_w1286789486.m3u8
-#EXTINF:0 tvg-name="Peravia Vision" tvg-language="Spanish" tvg-country="ES" tvg-id="Peravia Vision" tvg-logo="http://dominicaninternet.com/servicios/images/peravia_vision_logo_domint2013.png" group-title="Entertainment",Peravia Vision (Entertainment) (ES) (Spanish)
-http://ss6.domint.net:2002/pvv_str/peravia/playlist.m3u8
-#EXTINF:0 tvg-name="CBS HD" tvg-language="Spanish" tvg-country="PA" tvg-id="RPC TV" tvg-logo="http://www.rpctv.com/header_logo.png" group-title="Entertainment",CBS HD (Entertainment) (PA) (Spanish)
-http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8
-#EXTINF:0 tvg-name="RTPA 7" tvg-language="Spanish" tvg-country="ES" tvg-id="RTPA 7" tvg-logo="http://corporativo.rtpa.es/img/logotipo_rtpa_top.png" group-title="Entertainment",RTPA 7 (Entertainment) (ES) (Spanish)
-http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
-#EXTINF:0 tvg-name="TV Galicia America" tvg-language="Spanish" tvg-country="ES" tvg-id="TV Galicia America" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFuTyldQw-ct2JZCYLGjOu8WbBtaEH3INd-NBCg-XyV7vdy9oSgxMMXkU" group-title="Entertainment",TV Galicia America (Entertainment) (ES) (Spanish)
-http://media3.crtvg.es/live/tvga/playlist.m3u8
-#EXTINF:0 tvg-name="TV UNO 1" tvg-language="Spanish" tvg-country="ES" tvg-id="TV UNO 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI510-KczLZJBxa0gb_XPaYY6HCZZHlxmdIqvqFoGsVwUMsbmeNvw2B4k" group-title="Entertainment",TV UNO 1 (Entertainment) (ES) (Spanish)
-rtmp://k3.usastreams.com:1935/tvuno1/tvuno1
-#EXTINF:0 tvg-name="TV3 Cat" tvg-language="Catalan" tvg-country="ES" tvg-id="TV3 Cat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Tv3_logo2005.jpg" group-title="Entertainment",TV3 Cat (Entertainment) (ES) (Catalan)
-http://www.tv3.cat/directetv3cat/tv3catpc.m3u8
-#EXTINF:0 tvg-name="TVC Honduras" tvg-language="Spanish" tvg-country="HN" tvg-id="TVC Honduras" tvg-logo="http://i.imgur.com/VZtxiJo.jpg" group-title="Entertainment",TVC Honduras (Entertainment) (HN) (Spanish)
-http://187.247.255.139/Apple/TVCDeportes.m3u8
-#EXTINF:0 tvg-name="TVMas" tvg-language="Spanish" tvg-country="MX" tvg-id="TVMas" tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2014/05/TVMas-Logo-300x300.jpg" group-title="Entertainment",TVMas (Entertainment) (MX) (Spanish)
-http://50.7.98.234:1935/rtv/videortv/playlist.m3u8
-#EXTINF:0 tvg-name="Tele Antillas" tvg-language="Spanish" tvg-country="ES" tvg-id="Tele Antillas" tvg-logo="http://img2.wikia.nocookie.net/__cb20121112123522/boboiboy/images/7/7b/Logo_teleantillas.jpg" group-title="Entertainment",Tele Antillas (Entertainment) (ES) (Spanish)
-http://mek4.mekstream.com/teleantillas/live3/playlist.m3u
-#EXTINF:0 tvg-name="TeleCeiba" tvg-language="Spanish" tvg-country="HN" tvg-id="TeleCeiba" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRrOI9gCLSMPJSJYXlhFCRJi-FhE2CmBRLCMhrp0JlIY25purpex0_vddc" group-title="Entertainment",TeleCeiba (Entertainment) (HN) (Spanish)
-http://162.212.176.83:8080/teleceiba.m3u8
-#EXTINF:0 tvg-name="Teleantillas" tvg-language="Spanish" tvg-country="ES" tvg-id="Teleantillas" tvg-logo="http://img2.wikia.nocookie.net/__cb20121112123522/boboiboy/images/7/7b/Logo_teleantillas.jpg" group-title="Entertainment",Teleantillas (Entertainment) (ES) (Spanish)
-http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
-#EXTINF:0 tvg-name="Telemadrid" tvg-language="Spanish" tvg-country="ES" tvg-id="Telemadrid" tvg-logo="http://images.all-free-download.com/images/graphiclarge/telemadrid_86683.jpg" group-title="Entertainment",Telemadrid (Entertainment) (ES) (Spanish)
-http://iphone.telemadrid.es.edgesuite.net/telemadridsat_iphone.m3u8
-#EXTINF:0 tvg-name="Telemetro" tvg-language="Spanish" tvg-country="PA" tvg-id="Telemetro" tvg-logo="http://4.bp.blogspot.com/-ge5-7_8ioNI/UT9HH5xkE0I/AAAAAAAABkA/08ZdVlIBp-g/s1600/telemetro.png" group-title="Entertainment",Telemetro (Entertainment) (PA) (Spanish)
-http://live.telemetro.com/telemetro/tm.smil/playlist.m3u8
-#EXTINF:0 tvg-name="Telemicro Canal 5" tvg-language="Spanish" tvg-country="DO" tvg-id="Telemicro Canal 5" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTe6Li_ltQnA792c9IIizNg9h4dPTREoHyJfe1bQZCIP9loHwFlHkTvzNQ" group-title="Entertainment",Telemicro Canal 5 (Entertainment) (DO) (Spanish)
-http://107.182.239.141:9095/live5/telemicro0505_2_96/playlist.m3u8
-#EXTINF:0 tvg-name="Telemundo" tvg-language="Spanish" tvg-country="US" tvg-id="Telemundo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Telemundo_logo_2012.svg/100px-Telemundo_logo_2012.svg.png" group-title="Entertainment",Telemundo (Entertainment) (US) (Spanish)
-https://video10-lax.streamup.com/app/telemundox2chivas_69s-stream_aac/playlist.m3u8
-#EXTINF:0 tvg-name="Telesistema" tvg-language="Spanish" tvg-country="ES" tvg-id="Telesistema" tvg-logo="http://logopond.com/logos/c3966093ee94ae75a6f65778327bf70c.png" group-title="Entertainment",Telesistema (Entertainment) (ES) (Spanish)
-http://mek4.mekstream.com/telesistema/smil:telesistema.smil/playlist.m3u8
-#EXTINF:0 tvg-name="Televicentro" tvg-language="Spanish" tvg-country="HN" tvg-id="Televicentro" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRsMzKBG0EUUAxsUHWpuTSssgyNb6jcOu507cgUOL3SByY7Ww_PTHECT7o" group-title="Entertainment",Televicentro (Entertainment) (HN) (Spanish)
-http://tvchonduras-lh.akamaihd.net/i/ch_1@325635/master.m3u8
-#EXTINF:0 tvg-name="Telpin TV" tvg-language="Spanish" tvg-country="AR" tvg-id="Telpin TV" tvg-logo="http://i.imgur.com/RR4J34T.png" group-title="Entertainment",Telpin TV (Entertainment) (AR) (Spanish)
-http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
-#EXTINF:0 tvg-name="Univision" tvg-language="Spanish" tvg-country="US" tvg-id="Univision" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6aSxHrgUx86SeziOwsPXywbNp5f-MftiVyVbfiCN4ukn4sEps4fhWAw" group-title="Entertainment",Univision (Entertainment) (US) (Spanish)
-https://video02-atl.streamup.com/app/univision2chivas_69s-stream_aac/playlist.m3u8
-#EXTINF:0 tvg-name="Valle vision Canal 10 la vega" tvg-language="Spanish" tvg-country="ES" tvg-id="Valle vision Canal 10 la vega" tvg-logo="http://dominicanchannel.info/wp-content/uploads/2013/07/vallevision3.jpg" group-title="Entertainment",Valle vision Canal 10 la vega (Entertainment) (ES) (Spanish)
-http://asx.domiplay.net:1935/rtplive/vallevision.sdp/playlist.m3u8
-#EXTINF:0 tvg-name="Vmas TV" tvg-language="Spanish" tvg-country="MX" tvg-id="Vmas TV" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ0EF1XJ-nqql9YZv6Gs2rbnzeCA3qkjh0KMtcGrOBvAyEfKg8FjRiDcg" group-title="Entertainment",Vmas TV (Entertainment) (MX) (Spanish)
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8
-#EXTINF:0 tvg-name="WAPA TV" tvg-language="Spanish" tvg-country="PR" tvg-id="WAPA TV" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRS_R00PJuT3KjlnPZ9JaHGIjXo60TgZGcxFd56cN8agGpKfWX-p28HgUxS" group-title="Entertainment",WAPA TV (Entertainment) (PR) (Spanish)
-http://31.220.40.119:80/LiveEdge/WPA2PR/playlist.m3u8?token=1e05d5fdd8854709aef4cf58108a6987
-#EXTINF:0 tvg-name="Canal Orbe 21 TV" tvg-language="Spanish" tvg-country="AR" tvg-id="Canal Orbe 21 TV" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Canal-Orbe-21_o.jpg" group-title="Family",Canal Orbe 21 TV (Family) (AR) (Spanish)
-http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8
-#EXTINF:0 tvg-name="Disney Junior" tvg-language="Spanish" tvg-country="MX" tvg-id="Disney Junior" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRF8n7xkeIxkJpt7iTsGD6UX6O5OW-YMvlSOo5TDqjZErsFTpVsBqjvAqU" group-title="Family",Disney Junior (Family) (MX) (Spanish)
-http://live.tutvgratis.tv/ch/202.m3u8
-#EXTINF:0 tvg-name="Microvision" tvg-language="Spanish" tvg-country="DO" tvg-id="Microvision" tvg-logo="http://www.microvision.com.do/logo-micro-10-.png" group-title="Family",Microvision (Family) (DO) (Spanish)
-rtmp://tcc-streaming2.cloudapp.net:1935/micro10/microvision10 playpath=microvision10 swfUrl=http://microvision.com.do/tv/player/microtvradio/player_by_micro.swf live=1 pageUrl=http://microvision.com.do/tv/microvision.php
-#EXTINF:0 tvg-name="Solidaria TV" tvg-language="Spanish" tvg-country="AR" tvg-id="Solidaria TV" tvg-logo="http://www.cctvradio.com/uploads/4/9/9/8/4998504/3637504.jpg" group-title="Family",Solidaria TV (Family) (AR) (Spanish)
-http://188.165.135.22/remararg/livestream/playlist.m3u8
-#EXTINF:0 tvg-name="Tateti TV" tvg-language="Spanish" tvg-country="AR" tvg-id="Tateti TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/TaTeTi12.png" group-title="Family",Tateti TV (Family) (AR) (Spanish)
-http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/master.m3u8
-#EXTINF:0 tvg-name="Tele Bendici?n" tvg-language="Spanish" tvg-country="DO" tvg-id="Tele Bendici?n" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQgPAC06ER1aDJvXKGo0iijdsUzoTGcphdiyLxaUXjdqqpxVG2OK0wrXg" group-title="Family",Tele Bendici?n (Family) (DO) (Spanish)
-http://qs1.distream.net:2180/tbt_str/telebendicion/playlist.m3u8
-#EXTINF:0 tvg-name="Cosmovision" tvg-language="Spanish" tvg-country="CO" tvg-id="Cosmovision" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTchg9xmiQ3h51WypY1CVFCexnp1f_84s3nTMyEnnTAOsknViwUUDJVEA" group-title="Lifestyle",Cosmovision (Lifestyle) (CO) (Spanish)
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8?
-#EXTINF:0 tvg-name="Mexico Travel Channel" tvg-language="Spanish" tvg-country="MX" tvg-id="Mexico Travel Channel" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRUqmxM-GyZKy3ZzQOYk-18KWPHVt4M1Xkd615Ay6QnVRgNn1JnGwdoJQ" group-title="Lifestyle",Mexico Travel Channel (Lifestyle) (MX) (Spanish)
-http://cdns840stu1010.multistream.net/mtchlive/amlst:live/livestream.m3u8
-#EXTINF:0 tvg-name="Miami TV" tvg-language="English" tvg-country="US" tvg-id="Miami TV" tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/miami_tv_us.png" group-title="Lifestyle",Miami TV (Lifestyle) (US) (English)
-http://k4.usastreams.com:1935/miamitv/miamitv/chunklist_w128908539.m3u8
-#EXTINF:0 tvg-name="Telpin TV" tvg-language="Spanish" tvg-country="AR" tvg-id="Telpin TV" tvg-logo="http://i.imgur.com/bC2v1sB.png" group-title="Lifestyle",Telpin TV (Lifestyle) (AR) (Spanish)
-http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
-#EXTINF:0 tvg-name="Xper TV" tvg-language="Spanish" tvg-country="MX" tvg-id="Xper TV" tvg-logo="http://3.bp.blogspot.com/_xoLnhfa187U/TGWb-p8tLeI/AAAAAAAAADg/sbRJnZLMCMs/s320/banners_01.jpg" group-title="Lifestyle",Xper TV (Lifestyle) (MX) (Spanish)
-http://k3.usastreams.com:1935/tv33/tv33/playlist.m3u8
-#EXTINF:0 tvg-name="De Pelicula" tvg-language="Spanish" tvg-country="US" tvg-id="De Pelicula" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="Movie Channels",De Pelicula (Movie Channels) (US) (Spanish)
-http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8
-#EXTINF:0 tvg-name="Fx" tvg-language="English" tvg-country="US" tvg-id="Fx" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c7/FX_Italia_logo.svg" group-title="Movie Channels",Fx (Movie Channels) (US) (English)
-http://167.114.102.27/live/wm_OgDSW2LMpXemLzGw52w/1458318771/b8b5089c70ae62534970e2d8aa67e96d.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
-#EXTINF:0 tvg-name="HBO SD Asia" tvg-language="English" tvg-country="US" tvg-id="HBO SD Asia" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTnXrNI3eAhdwzLDlOtuPt-MLZZYhGKp99nKRyTNYeQXJCaNQHbaQxmdfM" group-title="Movie Channels",HBO SD Asia (Movie Channels) (US) (English)
-http://xmiolive.e14538a7.viettel-cdn.vn/hbo.smil/chunklist_b1000000.m3u8
-#EXTINF:0 tvg-name="HBO" tvg-language="English" tvg-country="US" tvg-id="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/422px-HBO_logo.svg.png" group-title="Movie Channels",HBO (Movie Channels) (US) (English)
-http://yottzin.esy.es/st.php?IDE=385&user=conrado&pass=5353&f=.m3u8
-#EXTINF:0 tvg-name="Cantinazo TV" tvg-language="Spanish" tvg-country="MX" tvg-id="Cantinazo TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/CTV_LOGO.png" group-title="Music",Cantinazo TV (Music) (MX) (Spanish)
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
-#EXTINF:0 tvg-name="El Pinguino" tvg-language="Spanish" tvg-country="CL" tvg-id="El Pinguino" tvg-logo="http://2.bp.blogspot.com/-vW5-qquXL3g/VQGx0I4JRiI/AAAAAAAADlc/G-4BowOZs-s/s1600/ep.png" group-title="Music",El Pinguino (Music) (CL) (Spanish)
-http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8
-#EXTINF:0 tvg-name="MiMusica" tvg-language="Spanish" tvg-country="CO" tvg-id="MiMusica" tvg-logo="http://www.canalmimusica.com/wp-content/uploads/2012/11/logo-mimusica.png" group-title="Music",MiMusica (Music) (CO) (Spanish)
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
-#EXTINF:0 tvg-name="SMO Positive Channel" tvg-language="Spanish" tvg-country="MX" tvg-id="SMO" tvg-logo="http://4.bp.blogspot.com/-PFAmZi2vh_U/U4JrZw2IjfI/AAAAAAAACnE/Gv0XX7B6NEk/s1600/SMOTV+Positive+Channel+Icon.JPG" group-title="Music",SMO Positive Channel (Music) (MX) (Spanish)
-http://199.217.118.90:1935/smotv/stream/playlist.m3u8
-#EXTINF:0 tvg-name="Super Q FM TV" tvg-language="Spanish" tvg-country="PN" tvg-id="Super Q FM TV" tvg-logo="http://static-cdn2.ustream.tv/i/channel/picture/2/6/6/5/266585/266585_banner_superq3_tv%2C66x66%2Cr:1.jpg" group-title="Music",Super Q FM TV (Music) (PN) (Spanish)
-http://cdn6.iviplanet.com:1935/SuperQTV/myStream.sdp/playlist.m3u8
-#EXTINF:0 tvg-name="TV Blast" tvg-language="Spanish" tvg-country="PA" tvg-id="TV Blast" tvg-logo="http://tvblast.tv/tvblast/wp-content/uploads/2013/10/logo-web.png" group-title="Music",TV Blast (Music) (PA) (Spanish)
-http://www.streaming507.com:1935/TVBlast/TVBlast/playlist.m3u8
-#EXTINF:0 tvg-name="Telemusica" tvg-language="Spanish" tvg-country="EC" tvg-id="Telemusica" tvg-logo="https://dogmaandgeopolitics.files.wordpress.com/2012/09/cropped-315_earth_globe_logo.jpg" group-title="Music",Telemusica (Music) (EC) (Spanish)
-http://186.155.200.118:1935/live/telemusica/chunklist_w1353784156_69909.m3u8
-#EXTINF:0 tvg-name="Teve Musica HD" tvg-language="Spanish" tvg-country="DO" tvg-id="Teve Musica HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvpTMkpmAZF3tEGBD1Fw3LZyK4VRT8CQPXsRR1_rwvrTbSIbU-059nyjw" group-title="Music",Teve Musica HD (Music) (DO) (Spanish)
-http://ss6.domint.net:2086/tmtv_str/musica/playlist.m3u8
-#EXTINF:0 tvg-name="VEVO 1 HD" tvg-language="English" tvg-country="US" tvg-id="VEVO 1 HD" tvg-logo="http://techcircle.vccircle.com/wp-content/uploads/2013/03/vevo-logo.jpg" group-title="Music",VEVO 1 HD (Music) (US) (English)
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
-#EXTINF:0 tvg-name="VEVO 10" tvg-language="English" tvg-country="US" tvg-id="VEVO 10" tvg-logo="http://techcircle.vccircle.com/wp-content/uploads/2013/03/vevo-logo.jpg" group-title="Music",VEVO 10 (Music) (US) (English)
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/04/prog_index.m3u8
-#EXTINF:0 tvg-name="VEVO 11" tvg-language="English" tvg-country="US" tvg-id="VEVO 11" tvg-logo="http://techcircle.vccircle.com/wp-content/uploads/2013/03/vevo-logo.jpg" group-title="Music",VEVO 11 (Music) (US) (English)
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/04/prog_index.m3u8
-#EXTINF:0 tvg-name="VEVO 12" tvg-language="English" tvg-country="US" tvg-id="VEVO 12" tvg-logo="http://techcircle.vccircle.com/wp-content/uploads/2013/03/vevo-logo.jpg" group-title="Music",VEVO 12 (Music) (US) (English)
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/04/prog_index.m3u8
-#EXTINF:0 tvg-name="VEVO 13" tvg-language="English" tvg-country="US" tvg-id="VEVO 13" tvg-logo="http://techcircle.vccircle.com/wp-content/uploads/2013/03/vevo-logo.jpg" group-title="Music",VEVO 13 (Music) (US) (English)
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
-#EXTINF:0 tvg-name="VEVO 14" tvg-language="English" tvg-country="US" tvg-id="VEVO 14" tvg-logo="http://techcircle.vccircle.com/wp-content/uploads/2013/03/vevo-logo.jpg" group-title="Music",VEVO 14 (Music) (US) (English)
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
-#EXTINF:0 tvg-name="VEVO 15" tvg-language="English" tvg-country="US" tvg-id="VEVO 15" tvg-logo="http://techcircle.vccircle.com/wp-content/uploads/2013/03/vevo-logo.jpg" group-title="Music",VEVO 15 (Music) (US) (English)
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
-#EXTINF:0 tvg-name="VEVO 16" tvg-language="English" tvg-country="US" tvg-id="VEVO 16" tvg-logo="http://techcircle.vccircle.com/wp-content/uploads/2013/03/vevo-logo.jpg" group-title="Music",VEVO 16 (Music) (US) (English)
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
-#EXTINF:0 tvg-name="VEVO 17" tvg-language="English" tvg-country="US" tvg-id="VEVO 17" tvg-logo="http://techcircle.vccircle.com/wp-content/uploads/2013/03/vevo-logo.jpg" group-title="Music",VEVO 17 (Music) (US) (English)
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
-#EXTINF:0 tvg-name="VEVO 18" tvg-language="English" tvg-country="US" tvg-id="VEVO 18" tvg-logo="http://techcircle.vccircle.com/wp-content/uploads/2013/03/vevo-logo.jpg" group-title="Music",VEVO 18 (Music) (US) (English)
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
-#EXTINF:0 tvg-name="VEVO 2 HD" tvg-language="English" tvg-country="US" tvg-id="VEVO 2 HD" tvg-logo="http://techcircle.vccircle.com/wp-content/uploads/2013/03/vevo-logo.jpg" group-title="Music",VEVO 2 HD (Music) (US) (English)
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
-#EXTINF:0 tvg-name="VEVO 3 HD" tvg-language="English" tvg-country="US" tvg-id="VEVO 3 HD" tvg-logo="http://techcircle.vccircle.com/wp-content/uploads/2013/03/vevo-logo.jpg" group-title="Music",VEVO 3 HD (Music) (US) (English)
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
-#EXTINF:0 tvg-name="VEVO 4" tvg-language="English" tvg-country="US" tvg-id="VEVO 4" tvg-logo="http://techcircle.vccircle.com/wp-content/uploads/2013/03/vevo-logo.jpg" group-title="Music",VEVO 4 (Music) (US) (English)
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/02/prog_index.m3u8
-#EXTINF:0 tvg-name="VEVO 5" tvg-language="English" tvg-country="US" tvg-id="VEVO 5" tvg-logo="http://techcircle.vccircle.com/wp-content/uploads/2013/03/vevo-logo.jpg" group-title="Music",VEVO 5 (Music) (US) (English)
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/02/prog_index.m3u8
-#EXTINF:0 tvg-name="VEVO 6" tvg-language="English" tvg-country="US" tvg-id="VEVO 6" tvg-logo="http://techcircle.vccircle.com/wp-content/uploads/2013/03/vevo-logo.jpg" group-title="Music",VEVO 6 (Music) (US) (English)
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/02/prog_index.m3u8
-#EXTINF:0 tvg-name="VEVO 7" tvg-language="English" tvg-country="US" tvg-id="VEVO 7" tvg-logo="http://techcircle.vccircle.com/wp-content/uploads/2013/03/vevo-logo.jpg" group-title="Music",VEVO 7 (Music) (US) (English)
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/03/prog_index.m3u8
-#EXTINF:0 tvg-name="VEVO 8" tvg-language="English" tvg-country="US" tvg-id="VEVO 8" tvg-logo="http://techcircle.vccircle.com/wp-content/uploads/2013/03/vevo-logo.jpg" group-title="Music",VEVO 8 (Music) (US) (English)
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/03/prog_index.m3u8
-#EXTINF:0 tvg-name="VEVO 9" tvg-language="English" tvg-country="US" tvg-id="VEVO 9" tvg-logo="http://techcircle.vccircle.com/wp-content/uploads/2013/03/vevo-logo.jpg" group-title="Music",VEVO 9 (Music) (US) (English)
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/03/prog_index.m3u8
-#EXTINF:0 tvg-name="ZOL 106.5 FM" tvg-language="Spanish" tvg-country="DO" tvg-id="ZOL 106.5 FM" tvg-logo="http://emisorasdominicanas.com.do/images/sobipro/entries/69/thumb_zol-106-5-online-sol-106-en-vivo.jpg" group-title="Radio",ZOL 106.5 FM (Radio) (DO) (Spanish)
-http://ss6.domint.net:1948/zol_edge/vzol/playlist.m3u8
-#EXTINF:0 tvg-name="CSI: Las Vegas" tvg-language="Spanish" tvg-country="ES" tvg-id="CSI: Las Vegas" tvg-logo="http://i.imgur.com/MxVkmMq.jpg" group-title="RandomAirTime 24/7",CSI: Las Vegas (RandomAirTime 24/7) (ES) (Spanish)
-http://iptvnation.com/90.mp4
-#EXTINF:0 tvg-name="Grimm" tvg-language="Spanish" tvg-country="ES" tvg-id="Grimm" tvg-logo="http://cdn1.sciencefiction.com/wp-content/uploads/2014/05/Grimm.jpg" group-title="RandomAirTime 24/7",Grimm (RandomAirTime 24/7) (ES) (Spanish)
-http://iptvnation.com/grimmlat.mp4
-#EXTINF:0 tvg-name="South Park" tvg-language="Spanish" tvg-country="ES" tvg-id="South Park" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/South_Park_sign_logo.png" group-title="RandomAirTime 24/7",South Park (RandomAirTime 24/7) (ES) (Spanish)
-http://iptvnation.com/southparklat.mp4
-#EXTINF:0 tvg-name="ARGENTINA 9" tvg-language="Spanish" tvg-country="AR" tvg-id="ARGENTINA 9" tvg-logo="http://i.imgur.com/c4w9efK.png" group-title="Sports",ARGENTINA 9 (Sports) (AR) (Spanish)
-http://dd65nd24m61wg.cloudfront.net/livec9/smil:C9.smil/chunklist_b796000.m3u8
-#EXTINF:0 tvg-name="CDN Sports Max" tvg-language="Spanish" tvg-country="DO" tvg-id="CDN Sports Max" tvg-logo="http://2.bp.blogspot.com/-EsjmKdYjDyY/VQASgOY4ZPI/AAAAAAAADkY/tpBOrjaFqT4/s1600/cdn-sportsmax-655.png" group-title="Sports",CDN Sports Max (Sports) (DO) (Spanish)
-http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
-#EXTINF:0 tvg-name="CDN Sportsmax" tvg-language="Spanish" tvg-country="ES" tvg-id="CDN Sportsmax" tvg-logo="http://i.imgur.com/JGzxhyy.jpg" group-title="Sports",CDN Sportsmax (Sports) (ES) (Spanish)
-http://108.168.206.90:1935/cdn/cdn/playlist.m3u8
-#EXTINF:0 tvg-name="COS 2" tvg-language="Spanish" tvg-country="PA" tvg-id="COS 2" tvg-logo="http://seeklogo.com/images/C/cable-onda-sports-logo-52B465AEBE-seeklogo.com.gif" group-title="Sports",COS 2 (Sports) (PA) (Spanish)
-http://live.cableondasports.com/cos2/media.smil/playlist.m3u8
-#EXTINF:0 tvg-name="COS" tvg-language="Spanish" tvg-country="PA" tvg-id="COS" tvg-logo="http://seeklogo.com/images/C/cable-onda-sports-logo-52B465AEBE-seeklogo.com.gif" group-title="Sports",COS (Sports) (PA) (Spanish)
-http://d3tzxnygw45q3p.cloudfront.net/cos/media.smil/playlist.m3u8
-#EXTINF:0 tvg-name="Canal+ Deportes 2" tvg-language="Spanish" tvg-country="ES" tvg-id="Canal+ Deportes 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJy5N50r6Cgj_i150d5rvhNLsFgUHqjiICN7S3pyiocY-L8Po7NDDee0Q" group-title="Sports",Canal+ Deportes 2 (Sports) (ES) (Spanish)
-http://iptvbox.noip.us:9998/live/atik/atik/856.m3u8
-#EXTINF:0 tvg-name="Canal+ Futbol" tvg-language="Spanish" tvg-country="ES" tvg-id="Canal+ Futbol" tvg-logo="http://i.imgur.com/gVg0QEZ.png" group-title="Sports",Canal+ Futbol (Sports) (ES) (Spanish)
-http://iptvbox.noip.us:9998/live/atik/atik/857.m3u8
-#EXTINF:0 tvg-name="DeporTV" tvg-language="Spanish" tvg-country="AR" tvg-id="DXTV" tvg-logo="http://i.imgur.com/kpJJHfa.png" group-title="Sports",DeporTV (Sports) (AR) (Spanish)
-http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE1IDEyOjM5OjEwIFBNJmhhc2hfdmFsdWU9enNzd2E
-#EXTINF:0 tvg-name="Fox Sports" tvg-language="Spanish" tvg-country="MX" tvg-id="Fox Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Fox_Sports_logo.svg/250px-Fox_Sports_logo.svg.png" group-title="Sports",Fox Sports (Sports) (MX) (Spanish)
-http://canalesvip.ml/test/522.m3u8
-#EXTINF:0 tvg-name="Real Madrid TV" tvg-language="Spanish" tvg-country="ES" tvg-id="Real Madrid TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/Realmadrid-TV.jpg" group-title="Sports",Real Madrid TV (Sports) (ES) (Spanish)
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
-#EXTINF:0 tvg-name="beIN Sports" tvg-language="Spanish" tvg-country="ES" tvg-id="beIN Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS37P4Hh8Fc8P1o7-6-ygxKxp4Xa4ThZk4IZ_AgmpuAaGchgOd7oYAgqRg" group-title="Sports",beIN Sports (Sports) (ES) (Spanish)
-http://iptvbox.noip.us:9998/live/atik/atik/847.m3u8
-#EXTINF:0 tvg-name="Cadena Megavision" tvg-language="Spanish" tvg-country="ES" tvg-id="Cadena Megavision" tvg-logo="http://canal15.megavision.com.sv/images/lunes/cadenamegavision.jpg" group-title="RandomAirTime 24/7",Cadena Megavision (RandomAirTime 24/7) (ES) (Spanish)
-http://xgrupomegavisionx.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="tve.png",[COLOR FFDC54D3]TVEi[/COLOR]
-http://62.65.140.214:80/session/fc912346-ecd4-11e5-a43c-005056bc1a52/nvnv5a/2/5003/index.m3u8?token=9beeaba9f9db334e1d6a6b90dfe2cedd_1458369921_1458369921&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="LA1.es" group-title="Spanish" tvg-logo="tve_la1.png",[COLOR orange]RTVE La 1[/COLOR]
-http://hlslive.rtve.es/LA1_LV3_IPH/bitrate_2.m3u8
-#EXTINF:-1 tvg-id="LA2.es" group-title="Spanish" tvg-logo="tve_la2.png",[COLOR orange]RTVE La 2[/COLOR]
-http://hlslive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8
-#EXTINF:-1 tvg-id="24Horas.sp" group-title="Spanish" tvg-logo="canal_24_horas.png",[COLOR orange]Canal 24 horas[/COLOR]
-http://hlslive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
-#EXTINF:-1 tvg-id="Lared" group-title="Spanish" tvg-logo="la_redHD.png",[COLOR orangered]LA RED HD[/COLOR]
-http://wow1.lax.digitalproserver.com/redtv/redtvvivo/livestream1/chunklist.m3u8|X-Forwarded-For=31.220.176.0
-#EXTINF:-1 tvg-id="Lared" group-title="Spanish" tvg-logo="la_redHD.png",[COLOR orangered]LA RED HD (2)[/COLOR]
-rtmp://wow1.dallas.digitalproserver.com/redtv/redtvvivo playpath=mp4:livestream1 swfUrl=http://media.digitalproserver.com/v2/jw/6.7/jwplayer.flash.swf?v=67 live=1 pageUrl=http://media.digitalproserver.com/v2/live/redtv
-#EXTINF:-1 tvg-id="GaliciaTV.sp" group-title="Spanish" tvg-logo="galicia.png",[COLOR orange]TV Galicia[/COLOR]
-http://media3.crtvg.es/live/tvge/chunklist.m3u8
-#EXTINF:-1 tvg-id="LaSexta.sp" group-title="Spanish" tvg-logo="la_sexta_hd.png",[COLOR orangered]LA SEXTA HD[/COLOR]
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8
-#EXTINF:-1 tvg-id="LaSexta.sp" group-title="Spanish" tvg-logo="la_sexta.png",[COLOR orange]LA SEXTA[/COLOR]
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_2_av-p.m3u8
-#EXTINF:-1 tvg-id="Antena3.sp" group-title="Spanish" tvg-logo="antenna3.png",[COLOR orangered]Antenna 3 HD[/COLOR]
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-p.m3u8
-#EXTINF:-1 tvg-id="Antena3.sp" group-title="Spanish" tvg-logo="antenna3.png",[COLOR orange]Antenna 3[/COLOR]
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_2_av-p.m3u8
-#EXTINF:-1 tvg-id="RussiaToday.es" group-title="Spanish" tvg-logo="russia_today.png",[COLOR orangered]Russia Today ES HD[/COLOR]
-http://rt.ashttp14.visionip.tv/live/RT_en_Espanol-HD/chunklist.m3u8
-#EXTINF:-1 tvg-id="TVChile" group-title="Spanish" tvg-logo="tv_chile.png",[COLOR orange]TV Chile[/COLOR]
-http://edge-61-cl.edge.mdstrm.com:1935/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/playlist.m3u8
-#EXTINF:-1 tvg-id="TVN" group-title="Spanish" tvg-logo="tvn.png",[COLOR orange]TVN[/COLOR]
-http://tvn-vod.mdstrm.com/liveedge/tvnelemental.smil/chunklist_b981000.m3u8
-#EXTINF:-1 tvg-id="TVN" group-title="Spanish" tvg-logo="tvn.png",[COLOR orange]TVN (2)[/COLOR]
-http://edge-11-cl.edge.mdstrm.com:1935/tvn-live/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
-#EXTINF:-1 tvg-id="TVChile" group-title="Spanish" tvg-logo="tv_mas.png",[COLOR orange]TV MÁS[/COLOR]
-http://50.7.98.234:1935/rtv/videortv/live.m3u8
-#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="mexico_travel_channel.png",[COLOR orange]México Travel Channel[/COLOR]
-http://cdns840stu1010.multistream.net:80/mtchlive/amlst:live/livestream.m3u8
-#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="mexico_televisio.png",[COLOR orange]México Television Michoacán[/COLOR]
-http://hd.worldkast.com/8512/smil:8512.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="navarra.png",[COLOR orange]Navarra TV[/COLOR]
-http://cdn.s3.eu.nice264.com:1935/niceLiveServer/NTV_livenatvmb_MB_478/live.m3u8
-#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="ondaluz.png",[COLOR orange]Ondaluz Sierra[/COLOR]
-http://cls.elitehd-audiovisuales.com:80/olsierra/livestream1/live.m3u8
-#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="condavision.png",[COLOR orange]Condavision[/COLOR]
-http://cls.todostreaming.eu:80/azahara/condavision/live.m3u8
-#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="ewtn.png",[COLOR orange]EWTN[/COLOR]
-http://ewtn.mpl.miisolutions.net:1935/ewtn-live-5/900.mp4/livestream.m3u8
-#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="esperanza.png",[COLOR orange]Esperanza TV[/COLOR]
-http://k3.usastreams.com:1935/etvSD/etvSD/live.m3u8
-#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="alcance_tv.png",[COLOR orange]Alcance TV[/COLOR]
-http://hd.worldkast.com:1935/8232/8232.smil/chunklist_b1000000.m3u8
-#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="almavision.png",[COLOR orange]Almavision[/COLOR]
-http://cdn3.iviplanet.com:1935/Almavision/almavision1/live.m3u8
-#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="lancelot.png",[COLOR orange]Lancelot TV[/COLOR]
-http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
-#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="rts.png",[COLOR orange]RTS[/COLOR]
-http://d2rcb4pdmqg3cg.cloudfront.net:80/liverts/liverts.smil/chunklist_b899152.m3u8
-#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="telecafe.png",[COLOR orange]Telecafé[/COLOR]
-http://xtelecafex.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="canal_13.png",[COLOR orange]Canal 13[/COLOR]
-http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
-#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="c5n.png",[COLOR orange]C5N[/COLOR]
-rtmp://c5n.stweb.tv:1935/c5n/live
-#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="zoom.png",[COLOR orange]Zoom TV[/COLOR]
-http://xcanalzoomtvx.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="tele_sistema.png",[COLOR orange]TeleSistema[/COLOR]
-http://mek4.mekstream.com/telesistema/smil:telesistema.smil/chunklist_w965232534_b464000.m3u8
-#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="tele_antillas.png",[COLOR orange]TeleAntillas[/COLOR]
-http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="teleprogreso.png",[COLOR orange]TeleProgreso[/COLOR]
-http://162.212.176.83:8080/teleprogreso.m3u8?
-#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="telemetro.png",[COLOR orange]TeleMetro[/COLOR]
-http://live.telemetro.com/telemetro/tm.smil/playlist.m3u8?
-#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="rpc.png",[COLOR orange]RPC[/COLOR]
-http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8?
-#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="rbc.png",[COLOR orange]RBC[/COLOR]
-rtmp://184.154.28.210:1935/rbcsatelital-hd/rbcsatelital-hd
-#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="eitb.png",[COLOR orange]EITB España[/COLOR]
-http://etbvhlsnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@123113/master.m3u8
-#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="adinet_tv.png",[COLOR orange]Adinet TV[/COLOR]
-http://painel.tvdigitalhd.org:1935/adinet/adinet/live.m3u8
-#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="canal_antiestres.png",[COLOR orange]Canal Antiestres[/COLOR]
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8
-#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="cantinazo.png",[COLOR orange]Cantinazo[/COLOR]
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
-#EXTINF:-1 tvg-id="Deutschewelle.de" group-title="Spanish" tvg-logo="deutsche_welle.png",[COLOR orange]Deutsche Welle (Latinoamérica)[/COLOR]
-http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
-#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="teleantioquia.png",[COLOR orange]Teleantoquia[/COLOR]
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8
-#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="cosmovision.png",[COLOR orange]Cosmovision[/COLOR]
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8
-#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="canal_u.png",[COLOR orange]Canal U[/COLOR]
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8
-#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="cable_noticias.png",[COLOR orange]Cablenoticias[/COLOR]
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8
-#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="el_tiempo.png",[COLOR orange]El Tiempo[/COLOR]
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8
-#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="trendy_channel.png",[COLOR orange]Trendy[/COLOR]
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
-#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="tele_medellin.png",[COLOR orange]Tele medéllin[/COLOR]
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8
-#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="tv_agro.png",[COLOR orange]TV Agro[/COLOR]
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_3.m3u8
-#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="best_music_tv_eska.png",[COLOR orangered]BEST MUSIC TV HD[/COLOR]
-rtmp://stream.smcloud.net/live2/best/best_720p?Vd?u#bt!25
-#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="eska_tv.png",[COLOR orange]ESKA TV[/COLOR]
-rtmp://stream.smcloud.net/live/eskatv
-#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="best_music_tv_eska.png",[COLOR orangered]ESKA BEST MUSIC HD[/COLOR]
-rtmp://stream.smcloud.net/live2/best/best_720p
-#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="best_music_tv_eska.png",[COLOR orange]ESKA BEST MUSIC[/COLOR]
-rtmp://stream.smcloud.net/live2/best/best_360p
-#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="eska_rock_bis.png",[COLOR orangered]ESKA ROCK HD[/COLOR]
-rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p
-#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="eska_rock.png",[COLOR orange]ESKA ROCK[/COLOR]
-rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_360p
-#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="eska_party.png",[COLOR orangered]ESKA PARTY HD[/COLOR]
-rtmp://stream.smcloud.net/live2/eska_party/eska_party_720p
-#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="eska_party.png",[COLOR orange]ESKA PARTY[/COLOR]
-rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_360p
-#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="polo_party_tv.png",[COLOR orangered]POLO PARTY HD[/COLOR]
-rtmp://stream.smcloud.net/live2/polo_party/polo_party_720p
-#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="polo_party_tv.png",[COLOR orange]POLO PARTY[/COLOR]
-rtmp://stream.smcloud.net/live2/polo_party/polo_party_360p
-#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="polo_tv.png",[COLOR orange]POLO TV[/COLOR]
-rtmp://stream.smcloud.net/live/polotv
-#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="wawa_tv.png",[COLOR orangered]WAWA HD[/COLOR]
-rtmp://stream.smcloud.net/live2/wawa/wawa_720p
-#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="wawa_tv.png",[COLOR orange]WAWA[/COLOR]
-rtmp://stream.smcloud.net/live2/wawa/wawa_360p
-#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="vox_music_tv.png",[COLOR orangered]VOX MUSIC HD[/COLOR]
-rtmp://stream.smcloud.net/live2/vox/vox_720p
-#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="vox_music_tv.png",[COLOR orange]VOX MUSIC[/COLOR]
-rtmp://stream.smcloud.net/live/vox2/stream1
-#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="1hd.png",[COLOR orangered]FIRST MUSIC CHANNEL HD[/COLOR]
-rtmp://rtmp.one.by/HD/1muz
-#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="djing.png",[COLOR orangered]Djing 1[/COLOR]
-http://www.djing.com/tv/i-05.m3u8
-#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="djing.png",[COLOR orangered]Djing 2[/COLOR]
-http://www.djing.com/tv/a-05.m3u8
-#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="djing.png",[COLOR orangered]Djing 3[/COLOR]
-http://www.djing.com/tv/u-05.m3u8
-#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="djing.png",[COLOR orangered]Djing 4[/COLOR]
-http://www.djing.com/tv/d-05.m3u8
-#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="djing.png",[COLOR orangered]Djing 5[/COLOR]
-http://www.djing.com/tv/s-05.m3u8
-#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="superspnic_tv.png",[COLOR orange]Super Sonic TV[/COLOR]
-http://str103.setplex.net:1935/228/stv_online/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="ocko_gold.png",[COLOR orange]Ocko Gold[/COLOR]
-http://194.79.52.77/goldi/goldHQ1/byb0tter.m3u8
-#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="nebiset.png",[COLOR orange]Nebiset[/COLOR]
-http://hls.nebiset.tv/nebiset.m3u8
-#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="mfmtv.png",[COLOR orange]MFM TV[/COLOR]
-http://ec.playmedia.fr/mfmtv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="telemusica.png",[COLOR orange]Telemusica[/COLOR]
-rtmp://186.155.200.118:1935/live/telemusica
-#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="slam.png",[COLOR orange]Slam TV[/COLOR]
-http://538hls.lswcdn.triple-it.nl/content/slamtv/slamtv_0.m3u8
-#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="kiss_tv.png",[COLOR orange]KISS TV[/COLOR]
-rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
-#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="electrosound.png",[COLOR orange]Electrosound TV[/COLOR]
-rtmp://www.electrosound.tv/public/stream
-#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="electrika_tv.png",[COLOR orange]Elektrika TV[/COLOR]
-rtmp://rtmp.elektrika.cz/live/myStream.sdp
-#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="hit_tv.png",[COLOR orange]HITS[/COLOR]
-http://204.107.26.252:1935/live/691.high.stream/playlist.m3u8
-#EXTINF:0 tvg-name="Ecuamerica TV" tvg-language="Spanish" tvg-country="EC" tvg-id="Ecuamerica TV" tvg-logo="http://puu.sh/nKvBg/346d1a116d.png" group-title="Public-Entertainment",Ecuamerica TV (Public-Entertainment) (EC) (Spanish)
-http://enhd.co:1935/ecuamerica/ecuamerica/playlist.m3u8
-
-
-
-
 #EXTINF:0 group-title="English",London Live HQ (English) 
 http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
 
@@ -1140,3 +1135,11 @@ http://btflash-lh.akamaihd.net/i/BTMTLFLASH_live@120220/master.m3u8
 
 #EXTINF:0 group-title="English",CPAC HD 2 (English) 
 http://bcliveuniv-lh.akamaihd.net/i/cpac1flr2014_01@51230/index_2000_av-p.m3u8
+
+
+
+
+
+
+
+
