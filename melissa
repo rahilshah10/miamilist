@@ -11,16 +11,10 @@ http://k4.usastreams.com:1935/miamitv/smil:miamitv/playlist.m3u8
 http://74.208.152.93/music/stream3/stream.m3u8
 #EXTINF:-1 channelId="57" , Discovery Channel
 http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 channelId="328" tvg-logo="FOROtv.png" , FOROtv (Mexico)
-http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
-#EXTINF:-1 channelId="-1" tvg-logo="azteca-7.png" , Azteca 7 Monterrey
-http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
 #EXTINF:-1 channelId="2660" tvg-logo="el-trece.png" , El Trece HD
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
 #EXTINF:-1 channelId="2660" , AZTECA 13 HD
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
-#EXTINF:-1 channelId="-1" tvg-logo="azteca-noticias.png" , Azteca Noticias
-http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
 #EXTINF:-1 channelId="266" , Capital 21 (CDMX)
 http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent.m3u8
 #EXTINF:-1 channelId="2698" , Canal 22
