@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:0,[COLOR blue]<<<<<<<[/COLOR][COLOR red]Canales Latinos[/COLOR][COLOR blue]>>>>>>>>[/COLOR]
+http://?
+
 #EXTINF:-1 channelId="1967" , Telemundo
 http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
 #EXTINF:-1 channelId="-1" , Miami TV
@@ -169,252 +172,521 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8
 http://nhkwglobal-i.akamaihd.net/hls/live/222714/nhkwglobal/index_1180.m3u8
 #EXTINF:-1 channelId="57" , Discovery Channel
 http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
-
-
+#EXTINF:-1,Canal 12 Zarate
+http://190.151.144.22:8083/canallocal.flv
+#EXTINF:0,Antena 3
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_3_av-p.m3u8
+#EXTINF:0,Azteca 13 
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
+#EXTINF:0,Proyecto 40
+http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_2_av-p.m3u8
+#EXTINF:-1,Discovery Channel
+http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,Disney Junior
+rtmp://play5.tvope.com/tvope playpath=stream_jundis swfUrl=http://i.tvope.com/swf/player5.4.swf live=1 pageUrl=http://tvope.com
+#EXTINF:-1 tvg-id="RussiaToday.es" group-title="Spanish" tvg-logo="russia_today.png",Russia Today ES HD
+http://rt.ashttp14.visionip.tv/live/RT_en_Espanol-HD/chunklist.m3u8
+#EXTINF:-1 tvg-id="TVN" group-title="Spanish" tvg-logo="tvn.png",TVN
+http://tvn-vod.mdstrm.com/liveedge/tvnelemental.smil/chunklist_b981000.m3u8
+#EXTINF:-1 tvg-id="TVChile" group-title="Spanish" tvg-logo="tv_mas.png",TV MÁS
+http://50.7.98.234:1935/rtv/videortv/live.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="mexico_travel_channel.png",México Travel Channel
+http://cdns840stu1010.multistream.net:80/mtchlive/amlst:live/livestream.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="mexico_televisio.png",México Television Michoacán
+http://hd.worldkast.com/8512/smil:8512.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="ondaluz.png",Ondaluz Sierra
+http://cls.elitehd-audiovisuales.com:80/olsierra/livestream1/live.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="condavision.png",Condavision
+http://cls.todostreaming.eu:80/azahara/condavision/live.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="ewtn.png",EWTN
+http://ewtn.mpl.miisolutions.net:1935/ewtn-live-5/900.mp4/livestream.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="alcance_tv.png",Alcance TV
+http://hd.worldkast.com:1935/8232/8232.smil/chunklist_b1000000.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="lancelot.png",Lancelot TV
+http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="telecafe.png",Telecafé
+http://xtelecafex.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="canal_13.png",Canal 13
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="c5n.png",C5N
+rtmp://c5n.stweb.tv:1935/c5n/live
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="tele_sistema.png",TeleSistema
+http://mek4.mekstream.com/telesistema/smil:telesistema.smil/chunklist_w965232534_b464000.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="tele_antillas.png",TeleAntillas
+http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="canal_antiestres.png",Canal Antiestres
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="cantinazo.png",Cantinazo
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
+#EXTINF:-1 tvg-id="Deutschewelle.de" group-title="Spanish" tvg-logo="deutsche_welle.png",Deutsche Welle
+http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="teleantioquia.png",Teleantoquia
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="cosmovision.png",Cosmovision
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="canal_u.png",Canal U
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="cable_noticias.png",Cablenoticias
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="el_tiempo.png",El Tiempo
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="trendy_channel.png",Trendy
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="tele_medellin.png",Tele medéllin
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="tv_agro.png",TV Agro
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_3.m3u8
+#EXTINF:0 tvg-name="Andalucia TV" tvg-language="Spanish" tvg-country="ES" tvg-id="Andalucia TV" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQUmGkOUj_g3HAX8Iy3gZVaXUxAwPfU_L86Ir3CmIBR9Z43l0Tqr0uhuQ" group-title="News",Andalucia TV (News) (ES) (Spanish)
+http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
+#EXTINF:0 tvg-name="Azteca Noticias" tvg-language="Spanish" tvg-country="MX" tvg-id="Azteca Noticias" tvg-logo="http://static.tvazteca.com/aztecanoticias/images/an_logo_horizontal.png" group-title="News",Azteca Noticias (News) (MX) (Spanish)
+http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
+#EXTINF:0 tvg-name="C5N News" tvg-language="Spanish" tvg-country="AR" tvg-id="C5N News" tvg-logo="http://tvtvtv.ru/icons/logo_988.png" group-title="News",C5N News (News) (AR) (Spanish)
+http://c5n.stweb.tv:1935/c5n/live/master.m3u8
+#EXTINF:0 tvg-name="CB24" tvg-language="Spanish" tvg-country="CR" tvg-id="CB24" tvg-logo="http://cb24.tv/wp-content/uploads/2012/12/logo-slogan.png" group-title="News",CB24 (News) (CR) (Spanish)
+http://ipointcablertmp.tulix.tv:1935/cb24stream/myStream.sdp/playlist.m3u8
+#EXTINF:0 tvg-name="CDN CANAL 37" tvg-language="Spanish" tvg-country="ES" tvg-id="CDN CANAL 37" tvg-logo="http://www.eltecsa.com/logos/logo_cdn.png" group-title="News",CDN CANAL 37 (News) (ES) (Spanish)
+http://108.168.206.90:1935/cdn/cdn/playlist.m3u8
+#EXTINF:0 tvg-name="Canal 26" tvg-language="Spanish" tvg-country="AR" tvg-id="Canal 26" tvg-logo="http://en.abctelefonos.com/images/comercios/289120_60288_original.jpg" group-title="News",Canal 26 (News) (AR) (Spanish)
+http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
+#EXTINF:0 tvg-name="Canal 5 Linares" tvg-language="Spanish" tvg-country="CL" tvg-id="Canal 5 Linares" tvg-logo="http://www.lyngsat-logo.com/hires/cc/canal5_linares_cl.png" group-title="News",Canal 5 Linares (News) (CL) (Spanish)
+http://v1.streaminglatinoamerica.com:1935/canal5/canal5/live.m3u8
+#EXTINF:0 tvg-name="Canal Extremadura" tvg-language="Spanish" tvg-country="ES" tvg-id="Canal Extremadura" tvg-logo="http://www.canalextremadura.es/sites/all/themes/cexma7/images/logotipo.jpg" group-title="News",Canal Extremadura (News) (ES) (Spanish)
+http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8
+#EXTINF:0 tvg-name="DW" tvg-language="Spanish" tvg-country="ES" tvg-id="DW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/150px-Deutsche_Welle_symbol_2012.svg.png" group-title="News",DW (News) (ES) (Spanish)
+http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-name="Efekto TV" tvg-language="Spanish" tvg-country="MX" tvg-id="Efekto TV" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTarHq19HUxp67LhWWCBHSY4Iek3n0t1wM0SF9CddaI4CrIFYE-YwOm8g" group-title="News",Efekto TV (News) (MX) (Spanish)
+http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/master.m3u8
+#EXTINF:0 tvg-name="Euronews" tvg-language="Spanish" tvg-country="ES" tvg-id="Euronews" tvg-logo="http://2.bp.blogspot.com/-bgSjOJk7OpA/VEWJ3YvijBI/AAAAAAAAAQY/VbfaD3aYpBs/s1600/euronews-logo.jpg" group-title="News",Euronews (News) (ES) (Spanish)
+http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8
+#EXTINF:0 tvg-name="Lancelot TV" tvg-language="Spanish" tvg-country="ES" tvg-id="Lancelot TV" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRONX6V4oteOIE8_uC0MqaShyw5-6ZP92XLlT5khwIvRQMDB1zpKxrQ9Mc" group-title="News",Lancelot TV (News) (ES) (Spanish)
+rtmp://62.210.141.18:1935/directo/lancelot.television
+#EXTINF:0 tvg-name="Mas Noticias" tvg-language="Spanish" tvg-country="MX" tvg-id="Mas Noticias" tvg-logo="http://www.rtv.org.mx/tvmas/wp-content/uploads/sites/2/2013/03/mas-noticias-1.png" group-title="News",Mas Noticias (News) (MX) (Spanish)
+http://108.168.206.90:1935/cdn/cdn/playlist.m3u8
+#EXTINF:0 tvg-name="Xtremo channel" tvg-language="Spanish" tvg-country="ES" tvg-id="Xtremo channel" tvg-logo="http://dominicaninternet.com/servicios/images/xtremo_logo_player.png" group-title="News",Xtremo channel (News) (ES) (Spanish)
+http://ss6.domint.net:1948/zol_str/vzol/playlist.m3u8
+#EXTINF:0 tvg-name="EWTN" tvg-language="Spanish" tvg-country="CO" tvg-id="EWTN" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSpV9Gcm93BUHztcVXXcoXN4DW4ZNKrUzDulR72x2me8hXqjdyIox4WdTo" group-title="Documentary",EWTN (Documentary) (CO) (Spanish)
+http://ewtn.mpl.miisolutions.net:1935/ewtn-live-5/900.mp4/playlist.m3u8
+#EXTINF:0 tvg-name="Ingenio TV" tvg-language="Spanish" tvg-country="MX" tvg-id="Ingenio TV" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSMM0grU2ShX_IXFljelJ9J0S9LiWXxq7cI1koPQM_nvVYl-YrswVspdhQ" group-title="Documentary",Ingenio TV (Documentary) (MX) (Spanish)
+http://dl-dgtve.xsn.com.mx/dgtve/canal30dgtve.mp4/playlist.m3u8?
+#EXTINF:0 tvg-name="La 2 RTVE" tvg-language="Spanish" tvg-country="ES" tvg-id="La 2 RTVE" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/4/47/Tve_2.png" group-title="Documentary",La 2 RTVE (Documentary) (ES) (Spanish)
+http://iphonelive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8
+#EXTINF:0 tvg-name="Mexiquense TV" tvg-language="Spanish" tvg-country="MX" tvg-id="Mexiquense TV" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS8KdcEjXECJbFgghdINF_Eqp51cCLyBMe68brwIr2k9Nl2-ROpb5621t8" group-title="Documentary",Mexiquense TV (Documentary) (MX) (Spanish)
+rtmp://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_/broadcast1
+#EXTINF:0 tvg-name="Viajar TV" tvg-language="Spanish" tvg-country="AR" tvg-id="Viajar TV" tvg-logo="http://i.imgur.com/jmrpUj2.png" group-title="Documentary",Viajar TV (Documentary) (AR) (Spanish)
+http://eventshd-lh.akamaihd.net/i/viajar_1@168433/master.m3u8
+#EXTINF:0 tvg-name="324" tvg-language="Spanish" tvg-country="ES" tvg-id="324" tvg-logo="http://www.eleconomista.es/CanalPDA/files/imagecache/220x/logo_324.png" group-title="Entertainment",324 (Entertainment) (ES) (Spanish)
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/playlist.m3u8
+#EXTINF:0 tvg-name="360 TV" tvg-language="Spanish" tvg-country="ES" tvg-id="360 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Logo_360.png" group-title="Entertainment",360 TV (Entertainment) (ES) (Spanish)
+http://lsd360tvhls-lh.akamaihd.net/i/360TVHLS_1@197877/master.m3u8
+#EXTINF:0 tvg-name="Anime" tvg-language="Spanish" tvg-country="MX" tvg-id="Anime" tvg-logo="http://www.teenblab.com/assets/images/Anime-Logo.jpg" group-title="Entertainment",Anime (Entertainment) (MX) (Spanish)
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
+#EXTINF:0 tvg-name="Antena 3 HD" tvg-language="Spanish" tvg-country="ES" tvg-id="Antena 3 HD" tvg-logo="http://img4.wikia.nocookie.net/__cb20141014151714/logopedia/images/0/05/Logo_Antena_3_HD_Premium.png" group-title="Entertainment",Antena 3 HD (Entertainment) (ES) (Spanish)
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
+#EXTINF:0 tvg-name="Capital 21" tvg-language="Spanish" tvg-country="MX" tvg-id="Capital 21" tvg-logo="http://homozapping.com.mx/wp-content/uploads/2013/03/Canal-21.jpg" group-title="Entertainment",Capital 21 (Entertainment) (MX) (Spanish)
+http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent.m3u8
+#EXTINF:0 tvg-name="CerTv" tvg-language="Spanish" tvg-country="ES" tvg-id="CerTv" tvg-logo="http://canalesdominicano.net/wp-content/uploads/2015/05/canal4.jpg" group-title="Entertainment",CerTv (Entertainment) (ES) (Spanish)
+http://216.24.196.40:1935/live/canal4/playlist.m3u8
+#EXTINF:0 tvg-name="Color Vision" tvg-language="Spanish" tvg-country="ES" tvg-id="Color Vision" tvg-logo="http://canalesdominicanosenvivo.com/wp-content/uploads/2013/09/Color-Vision-Canal-9.jpg" group-title="Entertainment",Color Vision (Entertainment) (ES) (Spanish)
+http://ss8.domint.net:2048/cvis_str/video/playlist.m3u8
 EXTINF: -1,CANAL DE LAS ESTRELLAS
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
- 
 #EXTINF: -1,EL TRECE HD
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
+#EXTINF: -1,PROYECTO 40 HD
+http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_2_av-p.m3u8
+#EXTINF: -1,ANTENA 3 HD
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
+#EXTINF: -1,MEGA
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
+#EXTINF: -1,ATRESERIES 3 HD
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+#EXTINF: -1,LA SEXTA
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+#EXTINF: -1,DW
+http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8?
+#EXTINF: -1,RT EN ESPAÑOL
+http://rt-lh.akamaihd.net/i/ch_02@325606/index_720p_av-p.m3u8?sd=10&rebase=on
+#EXTINF: -1,REAL MADRD TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF: -1,DISCOVERY EN ESPAÑOL
+http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8?
+#EXTINF: -1,MIAMI MUSIC TV
+http://74.208.152.93/music/stream3/stream.m3u8
+#EXTINF: -1,MIAMI TV
+http://k4.usastreams.com:1935/miamitv/smil:miamitv/playlist.m3u8
+#EXTINF: -1,MIAMI TV MIUSIC
+http://74.208.152.93/music/stream3/stream.m3u8
+#EXTINF: -1,FORO TV
+http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
+#EXTINF: -1,CANAL 52 MX
+http://74.63.97.188:1935/c7/videoc7/master.m3u8
+#EXTINF: -1,TRAVEL CHANEL
+http://cdns840stu1010.multistream.net:80/mtchlive/amlst:live/livestream.m3u8
+#EXTINF: -1,TELEMUNDO
+http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
+#EXTINF: -1,GUATEVICION
+http://162.220.219.35:8081/live/stream1.sdp/playlist.m3u8
+#EXTINF: -1,TA TE TI
+http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/index_724_av-p.m3u8?sd=10&rebase=on
+#EXTINF: -1,ANIME
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
+#EXTINF: -1,NEOX
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+#EXTINF: -1,DISCOVERY CHANNEL
+http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
+#EXTINF: -1,DXTV
+http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE1IDEyOjM5OjEwIFBNJmhhc2hfdmFsdWU9enNzd2E
+#EXTINF: -1,360 DEPORTES
+http://lsd360tvhls-lh.akamaihd.net/i/360TVHLS_1@197877/master.m3u8
+#EXTINF: -1,TV MAS HD
+rtmp://50.7.98.234/rtv/videortv
+#EXTINF: -1,TELE UNO TV
+rtmp://k3.usastreams.com:1935/tvuno1/tvuno1
+#EXTINF: -1,CANAL DEL CONGRESO
+http://dl.canaldelcongreso.gob.mx:1935/ccongreso/mp4:congreso2b.mp4/playlist.m3u8
+#EXTINF: -1,CANAL 2 OBREGON
+http://74.63.97.188:1935/gpacifico3/videogpacifico3/chunklist_w1501260201.m3u8?
+#EXTINF: -1,CANL 7 MAZATLAN
+http://74.63.97.188:1935/gpacifico4/videogpacifico4/chunklist_w1774114891.m3u8?
+#EXTINF: -1,TV CHIAPAS
+rtmp://wos1.smartcast.com.mx/chiapas/chiapastv
+#EXTINF: -1,TV COAHUILA
+http://play.gvstream.net:554/e-tv-video/default.stream/playlist.m3u8
+#EXTINF: -1,RCG NOTICIAS
+http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
+#EXTINF: -1,ONE TV
+http://server5.stweb.tv/radioone/live/playlist.m3u8
+#EXTINF: -1,ORBE 21 ARGENTINA
+http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8
+#EXTINF: -1,PIGUINO TV HD
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8
+#EXTINF: -1,TV CHILE
+http://edge-11-mvstr.edge.mdstrm.com/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/playlist.m3u8
+#EXTINF: -1,TN TV ARG
+rtsp://stream.tn.com.ar/live/tnhd1
+#EXTINF: -1,CABLE NOTICIAS
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8
+#EXTINF: -1,CANAL CAPITAL
+http://cdns840stu1010.multistream.net/canalcapitallive/amlst:live/master.m3u8
+#EXTINF: -1,CANTINAZO
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
+#EXTINF: -1,CANAL U
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8
+#EXTINF: -1,COSMOVICION
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8?
+#EXTINF: -1,EL TIEMPO TV
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8
+#EXTINF: -1,LIFE DESING
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8
+#EXTINF: -1,TELEANTIOKIA
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8?
+#EXTINF: -1,TV MEDELLIN
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8?
+#EXTINF: -1,TV GALICIA
+http://media3.crtvg.es/live/tvge/chunklist.m3u8
+#EXTINF: -1,LA SEXTA HD
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8
+#EXTINF: -1,LA SEXTA2
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_2_av-p.m3u8
+#EXTINF: -1,ANTENA 3 HD
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-p.m3u8
+#EXTINF: -1,TV
+http://iptvbox.noip.us:9998/live/atik/atik/263.m3u8
+#EXTINF: -1,PORTUGAL MARINO
+http://wse.planeta-online.tv:1935/live/channel_3/index.m3u8
+#EXTINF: -1,CAPITAL 21 MEXICO
+http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent.m3u8
+#EXTINF: -1,PROYECTO 40 HD MEXICO
+http://urtmpkal-f.akamaihd.net/i/09yj674x7_1@149711/master.m3u8
+#EXTINF: -1,2 TV LOS MOCHIS
+http://74.63.97.188:1935/gpacifico2/videogpacifico2/playlist.m3u8
+#EXTINF: -1,7 TV MAZATLAN
+http://74.63.97.188:1935/gpacifico4/videogpacifico4/playlist.m3u8
+#EXTINF: -1,CANAL 13 VIVA NICARAGUA
+http://iphone-streaming.ustream.tv/uhls/13870671/streams/live/iphone/playlist.m3u8
+#EXTINF: -1,11 TV PANAMA
+rtmp://216.224.177.132/live/sertv
+#EXTINF: -1,RT ESPAÑOL
+http://rt-lh.akamaihd.net/i/ch_02@325606/index_720p_av-p.m3u8?sd=10&rebase=on
+#EXTINF: -1,CARTOON NETWORK INGLES
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
+#EXTINF: -1,DXTV
+http://186.33.227.198/DXTV/smil:DXTV.smil/chunklist_w1822467358_b800000_slesp.m3u8
+#EXTINF: -1,TELEMAX
+http://enhd.co:1935/ilive/ilive/playlist.m3u8?
+#EXTINF: -1,ANTENA LATINA
+http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8
+#EXTINF: -1,SATELITAL ESB
+rtmp://wowzacontrol.net:1935/8050/8050
+#EXTINF: -1,SPACE HD SPAÑOL
+rtmp://streaming.wirenetserver.com.ar/canal4/live_1
+#EXTINF: -1,CANAL 26 ARG
+http://live-edge01.telecentro.net.ar/live/26hd-180/playlist.m3u8
+#EXTINF: -1,C5 ARG
+rtmp://c5n.stweb.tv:1935/c5n/live_media
+#EXTINF: -1,CANAL 13 ARG
+rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1
+#EXTINF: -1,TV ENSENADA
+rtmp://panel.dattalive.com/8008/8008
+#EXTINF: -1,CANAL 9 ARG
+http://xcanal9saltax.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF: -1,VIDEOS
+rtmp://edge.wms28.lorini.net/canal-i/canal-i
+#EXTINF: -1,2 ARG
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
+#EXTINF: -1,TV5 MONDE
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8
+#EXTINF: -1,CANAL 11
+http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8
+#EXTINF: -1,CAPITAL TV MIUSIC
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
+#EXTINF: -1,HEARTV MIUSIC
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&rebase=on
+#EXTINF: -1,RT ESPAÑOL
+http://rt-lh.akamaihd.net/i/ch_02@325606/index_720p_av-p.m3u8?sd=10&rebase=on
+#EXTINF: -1,GRUPO PACIFICO
+http://74.63.97.188:1935/gpacifico2/smil:mochis.smil/playlist.m3u8
+#EXTINF: -1,CARTOON NETWORK INGLE
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
+#EXTINF: -1,MIAMI TV
+http://k4.usastreams.com:1935/miamitv/smil:miamitv/playlist.m3u8
+#EXTINF: -1,TOONAMI INGLES
+http://iphone-streaming.ustream.tv/uhls/19964352/streams/live/iphone/playlist.m3u8
+
+
+#EXTINF:-1,[COLOR lime]---Bolivia---[/COLOR]
+http://?
+
+#EXTINF:-1,Red PAT Bolivia
+http://www.server.tevemi.com:1935/8092/8092/playlist.m3u8
+
+#EXTINF:-1,[COLOR lime]---Colombia---[/COLOR]
+http://?
+
+#EXTINF:-1,Canal Capital Colombia
+http://cdns840stu1010.multistream.net/canalcapitallive/amlst:live/master.m3u8
+#EXTINF:-1,Canal U Colombia
+http://xcanalutvx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1,Teleamiga Colombia
+http://cdns840stu1010.multistream.net/teleamigalive/amlst:live/master.m3u8
+#EXTINF:-1,COL:TeleCaribe
+http://cdns840stu1010.multistream.net/telecaribelive/amlst:live/master.m3u8
+#EXTINF:-1,telecafe (colombia)
+http://xtelecafex.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1,life design hd (colombia)
+rtmp://edge.wms28.lorini.net/ldtv playpath=ldtv swfUrl=http://www.lorini.tv/flvplayer/FLVplayer_Custom.swf live=1 pageUrl=http://vivotvhd.com/canal-life-design-tv/   
+#EXTINF:-1,tele musica
+rtmp://186.155.200.118:1935/live/ playpath=telemusica swfUrl=http://www.widih.org/swf/jwplayer.flash.swf live=1 pageUrl=http://telemas.olympe.in/tv-en-vivo/telemusica-colombia.html
+#EXTINF:-1,tele caribe
+http://cdns840stu1010.multistream.net/telecaribelive/amlst:live/master.m3u8
+
+
+#EXTINF:-1,[COLOR lime]---Venezuela---[/COLOR]
+http://?
+
+#EXTINF:-1,Canal 11 Venezuela
+rtmp://edge.wms28.lorini.net/canalonce/canalonce
+#EXTINF:-1,TRT Venezuela
+rtmp://edge.wms28.lorini.net/trttv/trttv
+#EXTINF:-1,TVO Canal 23 Venezuela
+http://xtvocanal23x.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1,Canal i  Venezuela
+rtmp://edge.wms28.lorini.net/canal-i/canal-i
+#EXTINF:-1,Vale TV  Venezuela
+rtmp://edge.wms28.lorini.net/valetv/valetv
+#EXTINF:-1,Telecaribe Venezuela
+http://cdns840stu1010.multistream.net/telecaribelive/amlst:live/master.m3u8
+
+
+
+#EXTINF:-1,[COLOR lime]---Rep. Dominicana---[/COLOR]
+http://?
+
+#EXTINF:-1,Tele Antillas  Rep. Dominicana
+http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
+#EXTINF:-1,Telessistema  Rep. Dominicana
+http://mek4.mekstream.com/telesistema/smil:telesistema.smil/chunklist_w965232534_b464000.m3u8
+#EXTINF:-1,Telesitemas 11 Rep. Dominicana
+http://mek4.mekstream.com/telesistema/smil:telesistema.smil/chunklist_w965232534_b464000.m3u8
+#EXTINF:-1,Teleantillas 2 HD Rep. Dominicana
+http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
+
+#EXTINF:-1,[COLOR lime]---Costa Rica---[/COLOR]
+http://?
+
+#EXTINF:-1,SINART Canal Trece Costa Rica
+http://stream01.cyberfuel.com/SinartCanal13/livestream/playlist.m3u8
+#EXTINF:-1,SMO TV Costa Rica
+http://199.217.118.90:1935/smotv/stream/playlist.m3u8
+#EXTINF:-1,Colosal TV Costa Rica
+http://k3.usastreams.com:1935/colosaltv1/colosaltv1/playlist.m3u8
+#EXTINF:-1,Tv UNO Costa Rica
+http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8
+#EXTINF:-1,TV Costa Rica
+http://ipointcablertmp.tulix.tv:1935/cb24stream/myStream.sdp/playlist.m3u8?
+#EXTINF:-1,Extra TV Canal 42 Costa Rica
+http://k3.usastreams.com:1935/canal42/canal42/playlist.m3u8
+#EXTINF:-1,CB24 Noticias Costa Rica
+http://ipointcablertmp.tulix.tv:1935/cb24stream/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1,[COLOR lime]---Chile---[/COLOR]
+http://?
+
+#EXTINF:-1,Chile – EL PINGUINO TV CANAL 4 PUNTA ARENAS
+http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8
+#EXTINF:-1, VALLE TELEVISION CANAL 2 SAN FELIPE OPTION 2
+http://cdn.streamingmedia.cl:1935/live/rtmp.stream/BratuMarian.m3u8
+#EXTINF:-1,Arica TV Canal 12
+http://wow2.cl.digitalproserver.com/aricatv/aricatvvivo/aricatv.smil/chunklist_w725671068_b848000.m3u8
+#EXTINF:-1, Campus TV
+http://wow2.cl.digitalproserver.com/campustv/campustvvivo/campustv.smil/chunklist_w662421777_b848000.m3u8
+#EXTINF:-1, Canal 2 ValleTV
+http://cdn.streamingmedia.cl:1935/live/rtmp.stream/BratuMarian.m3u8?MegaIPTVArgentina
+#EXTINF:-1,Arica TV Chile
+http://wow2.cl.digitalproserver.com/aricatv/aricatvvivo/aricatv.smil/chunklist_w725671068_b848000.m3u8
+
+#EXTINF:-1,[COLOR lime]---Ecuador---[/COLOR]
+http://?
+
+#EXTINF:-1,Ecuavisa Ecuador
+rtmp://62.210.83.152:1935/liverepeat playpath=ecuatv1 swfUrl=http://direct-stream.biz/jwplayer/jwplayer.flash.swf live=1 
+#EXTINF:-1,TVS Ecuador
+http://181.198.10.23:1935/live/_definst_/mp4:mystream_360p/playlist.m3u8
+
+
+#EXTINF:-1,[COLOR lime]---El Salvador---[/COLOR]
+http://?
+
+#EXTINF:-1,Megavision Canal 21 El Salvador
+http://xgrupomegavisionx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1,Canal 33 El Salvador
+http://iphone-streaming.ustream.tv/uhls/4811076/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,TRV El Salvador
+http://xtrvnuestasenalx.api.channel.livestream.com/3.0/playlist.m3u8
+
+#EXTINF:-1,[COLOR lime]---Guatemala---[/COLOR]
+http://?
+
+#EXTINF:-1,TV Maya Guatemala
+http://iphone-streaming.ustream.tv/uhls/9556054/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,Campus TV Guatemala
+http://xcampushdx.api.channel.livestream.com/3.0/playlist.m3u8
+
+#EXTINF:-1,[COLOR lime]---Honduras---[/COLOR]
+http://?
 
 #EXTINF: -1,AZTECA HONDURAS
 http://aztecalive-lh.akamaihd.net/i/142kvpq0l_1@67741/master.m3u8
- 
-#EXTINF: -1,PROYECTO 40 HD
-http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_2_av-p.m3u8
- 
-#EXTINF: -1,ANTENA 3 HD
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
+#EXTINF:-1,Teleceiba Honduras
+http://162.212.176.83:8080/teleceiba.m3u8
+#EXTINF:-1,Teleprogreso Honduras
+http://162.212.176.83:8080/teleprogreso.m3u8
+#EXTINF:-1,Azteca Honduras
+http://aztecalive-lh.akamaihd.net/i/142kvpq0l_1@67741/master.m3u8
 
-#EXTINF: -1,MEGA
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
- 
-#EXTINF: -1,ATRESERIES 3 HD
-http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
- 
-#EXTINF: -1,LA SEXTA
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
- 
-#EXTINF: -1,DW
-http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8?
- 
-#EXTINF: -1,RT EN ESPAÑOL
-http://rt-lh.akamaihd.net/i/ch_02@325606/index_720p_av-p.m3u8?sd=10&rebase=on
- 
-#EXTINF: -1,REAL MADRD TV
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
- 
-#EXTINF: -1,DISCOVERY EN ESPAÑOL
-http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8?
- 
-#EXTINF: -1,MIAMI MUSIC TV
-http://74.208.152.93/music/stream3/stream.m3u8
- 
-#EXTINF: -1,MIAMI TV
-http://k4.usastreams.com:1935/miamitv/smil:miamitv/playlist.m3u8
- 
-#EXTINF: -1,MIAMI TV MIUSIC
-http://74.208.152.93/music/stream3/stream.m3u8
- 
-#EXTINF: -1,FORO TV
-http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
- 
-#EXTINF: -1,CANAL 52 MX
-http://74.63.97.188:1935/c7/videoc7/master.m3u8
- 
-#EXTINF: -1,TRAVEL CHANEL
-http://cdns840stu1010.multistream.net:80/mtchlive/amlst:live/livestream.m3u8
- 
-#EXTINF: -1,TELEMUNDO
-http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
- 
-#EXTINF: -1,GUATEVICION
-http://162.220.219.35:8081/live/stream1.sdp/playlist.m3u8
- 
-#EXTINF: -1,TA TE TI
-http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/index_724_av-p.m3u8?sd=10&rebase=on
- 
-#EXTINF: -1,ANIME
-http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
- 
-#EXTINF: -1,NEOX
-http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
- 
-#EXTINF: -1,DISCOVERY CHANNEL
-http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
- 
-#EXTINF: -1,DXTV
-http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE1IDEyOjM5OjEwIFBNJmhhc2hfdmFsdWU9enNzd2E
- 
-#EXTINF: -1,360 DEPORTES
-http://lsd360tvhls-lh.akamaihd.net/i/360TVHLS_1@197877/master.m3u8
- 
-#EXTINF: -1,TV MAS HD
-rtmp://50.7.98.234/rtv/videortv
- 
-#EXTINF: -1,TELE UNO TV
-rtmp://k3.usastreams.com:1935/tvuno1/tvuno1
- 
-#EXTINF: -1,CANAL DEL CONGRESO
-http://dl.canaldelcongreso.gob.mx:1935/ccongreso/mp4:congreso2b.mp4/playlist.m3u8
- 
-#EXTINF: -1,CANAL 2 OBREGON
-http://74.63.97.188:1935/gpacifico3/videogpacifico3/chunklist_w1501260201.m3u8?
- 
-#EXTINF: -1,CANL 7 MAZATLAN
-http://74.63.97.188:1935/gpacifico4/videogpacifico4/chunklist_w1774114891.m3u8?
- 
-#EXTINF: -1,TV CHIAPAS
-rtmp://wos1.smartcast.com.mx/chiapas/chiapastv
- 
-#EXTINF: -1,TV COAHUILA
-http://play.gvstream.net:554/e-tv-video/default.stream/playlist.m3u8
- 
-#EXTINF: -1,RCG NOTICIAS
-http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
- 
-#EXTINF: -1,VARIOS
- 
-#EXTINF: -1,ONE TV
-http://server5.stweb.tv/radioone/live/playlist.m3u8
- 
-#EXTINF: -1,ORBE 21 ARGENTINA
-http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8
- 
-#EXTINF: -1,PIGUINO TV HD
-http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8
- 
-#EXTINF: -1,TV CHILE
-http://edge-11-mvstr.edge.mdstrm.com/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/playlist.m3u8
- 
-#EXTINF: -1,TN TV ARG
-rtsp://stream.tn.com.ar/live/tnhd1
- 
-#EXTINF: -1,CABLE NOTICIAS
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8
- 
-#EXTINF: -1,CANAL CAPITAL
-http://cdns840stu1010.multistream.net/canalcapitallive/amlst:live/master.m3u8
- 
-#EXTINF: -1,CANTINAZO
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
- 
-#EXTINF: -1,CANAL U
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8
- 
-#EXTINF: -1,COSMOVICION
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8?
- 
-#EXTINF: -1,EL TIEMPO TV
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8
- 
-#EXTINF: -1,LIFE DESING
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8
- 
-#EXTINF: -1,TELEANTIOKIA
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8?
- 
-#EXTINF: -1,TV MEDELLIN
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8?
- 
-#EXTINF: -1,CANALES SPAÑOLES
- 
-#EXTINF: -1,TV GALICIA
-http://media3.crtvg.es/live/tvge/chunklist.m3u8
- 
-#EXTINF: -1,LA SEXTA HD
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8
- 
-#EXTINF: -1,LA SEXTA2
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_2_av-p.m3u8
- 
-#EXTINF: -1,ANTENA 3 HD
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-p.m3u8
- 
-#EXTINF: -1,TV
-http://iptvbox.noip.us:9998/live/atik/atik/263.m3u8
- 
-#EXTINF: -1,PORTUGAL MARINO
-http://wse.planeta-online.tv:1935/live/channel_3/index.m3u8
- 
-#EXTINF: -1,CAPITAL 21 MEXICO
-http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent.m3u8
- 
-#EXTINF: -1,PROYECTO 40 HD MEXICO
-http://urtmpkal-f.akamaihd.net/i/09yj674x7_1@149711/master.m3u8
- 
-#EXTINF: -1,2 TV LOS MOCHIS
-http://74.63.97.188:1935/gpacifico2/videogpacifico2/playlist.m3u8
- 
-#EXTINF: -1,7 TV MAZATLAN
-http://74.63.97.188:1935/gpacifico4/videogpacifico4/playlist.m3u8
- 
-#EXTINF: -1,CANAL 13 VIVA NICARAGUA
+#EXTINF:-1,[COLOR lime]---Nicaragua---[/COLOR]
+http://?
+
+#EXTINF:-1,Canal 2 Nicaragua
+http://162.244.81.181:1935/live//Stream1/playlist.m3u8
+#EXTINF:-1,Viva Nicaragua Canal 13
 http://iphone-streaming.ustream.tv/uhls/13870671/streams/live/iphone/playlist.m3u8
- 
-#EXTINF: -1,11 TV PANAMA
+
+#EXTINF:-1,[COLOR lime]---Panama---[/COLOR]
+http://?
+
+#EXTINF:-1,Telemetro Panama
+http://live.telemetro.com/telemetro/tm.smil/playlist.m3u8
+#EXTINF:-1,RPC Panama
+http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8
+#EXTINF:-1,SER TV Panama
 rtmp://216.224.177.132/live/sertv
-  
-#EXTINF: -1,RT ESPAÑOL
-http://rt-lh.akamaihd.net/i/ch_02@325606/index_720p_av-p.m3u8?sd=10&rebase=on
- 
-#EXTINF: -1,CARTOON NETWORK INGLES
-http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
- 
-#EXTINF: -1,DXTV
-http://186.33.227.198/DXTV/smil:DXTV.smil/chunklist_w1822467358_b800000_slesp.m3u8
- 
-#EXTINF: -1,TELEMAX
+
+#EXTINF:-1,[COLOR lime]---Paraguay---[/COLOR]
+http://?
+
+#EXTINF:-1,Telefuturo Paraguay
+http://xtelefuturohdx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1,Canal 13 Paraguay
+rtmp://70.36.100.38:1935/live playpath=canal13_hq.stream swfUrl=http://www.rpc.com.py/swf/player_web04.swf 
+#EXTINF:-1,Intercable Canal 10 Paraguay
+rtmp://67.159.60.37/intercable playpath=intercable  swfUrl=http://www.desdeparaguay.com/images/dsdpy-play-2.swf?
+
+#EXTINF:-1,[COLOR lime]---Peru---[/COLOR]
+http://?
+
+#EXTINF:-1,Capital TV Peru
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8
+#EXTINF:-1,UCV Satelital Peru
+http://wowzacontrol.net:1935/8050/8050/playlist.m3u8
+
+
+#EXTINF:-1,[COLOR lime]---Mexico---[/COLOR]
+http://?
+
+
+#EXTINF:-1,El Trece HD
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
+#EXTINF:-1,PROYECTO 40
+http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_2_av-p.m3u8
+#EXTINF:-1,TV Pacifico Culiacan
+http://74.63.97.188:1935/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
+#EXTINF:-1,CANAL 7 MAZATLAN
+http://74.63.97.188:1935/gpacifico4/videogpacifico4/chunklist_w1774114891.m3u8?
+#EXTINF:-1,CANAL 2 Mochis TV
+http://74.63.97.188:1935/gpacifico2/videogpacifico2/chunklist_w1461112480.m3u8
+#EXTINF:-1,TVMAS HD
+rtmp://50.7.98.234/rtv/videortv
+#EXTINF:-1,Canal 22
+rtmp://192.96.217.230/live/smrtv.sdp
+#EXTINF:-1,TRC Campeche
+rtmp://video7.stream.mx:1935/8024/8024
+#EXTINF:-1,CANAL 53 UANL TV
+mms://streaming.uanl.mx/canal53bandaancha
+#EXTINF:-1,Michoacan al dia
+rtmp://video7.stream.mx:1935/8016/8016
+#EXTINF:-1,Canal Nuestra Vision Michoacan
+http://video7.stream.mx:1935/8032/8032/chunklist_w1286789486.m3u8
+#EXTINF:-1,Canal 5 Salina Cruz
+http://play.gvstream.net:554/e-tv-video/default.stream/chunklist_w316615179.m3u8
+#EXTINF:-1,Canal 10 Durango
+rtmp://wms.tecnoxia.com:80/8096//8096
+#EXTINF:-1,5 TV Coahuila
+http://play.gvstream.net:554/e-tv-video/default.stream/playlist.m3u8
+#EXTINF:-1,RCG TV Coahuila
+http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
+#EXTINF:-1,TV Acapulco
+rtmp://stream.hosteris.com/tvacapulco/tvacapulco
+#EXTINF:-1,C7 Guadalajara
+http://74.63.97.188:1935/c7/videoc7/master.m3u8
+#EXTINF:-1,Cultura Guadalajara
+http://74.63.97.188:1935/gnode05/videognode05/master.m3u8
+#EXTINF:-1,EfektoTV
+http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/master.m3u8
+#EXTINF:-1,Ingenio TV
+http://dl-dgtve.xsn.com.mx/dgtve/canal30dgtve.mp4/playlist.m3u8?
+#EXTINF:-1,Canal del Congreso
+http://dl.canaldelcongreso.gob.mx:1935/ccongreso/mp4:congreso2b.mp4/playlist.m3u8
+#EXTINF:-1,TRECEVISION YUCATAN
+http://74.222.3.185:1935/live/ngrp:trecevision_all/chunklist_w1676078199_b950272.m3u8
+#EXTINF:-1,CANAL 15 FRESNILLO
+rtmp://live.zuperdns.net/zuperhosting.live.grupob.canal15fresnillo/livestream
+#EXTINF:-1,TVMas Veracruz
+http://50.7.98.234:1935/rtv/videortv//playlist.m3u8
+#EXTINF:-1,TVMas HD
+rtmp://50.7.98.234/rtv/videortv
+#EXTINF:-1,TV RADIO Y TELEVISION MEXIQUENSE
+rtmp://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_/broadcast1
+#EXTINF:-1,Aprende
+http://dl-dgtve.xsn.com.mx/dgtve/canal24dgtve.mp4/playlist.m3u8
+#EXTINF:-1,TV Pacifico Obregón
+http://74.63.97.188:1935/gpacifico3/smil:obregon.smil/playlist.m3u8
+#EXTINF:-1,TELEMAX
 http://enhd.co:1935/ilive/ilive/playlist.m3u8?
- 
-#EXTINF: -1,ANTENA LATINA
-http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8
- 
-#EXTINF: -1,SATELITAL ESB
-rtmp://wowzacontrol.net:1935/8050/8050
- 
- 
-#EXTINF: -1,PREMIUM
- 
-#EXTINF: -1,SPACE HD SPAÑOL
-rtmp://streaming.wirenetserver.com.ar/canal4/live_1
- 
-#EXTINF: -1,CANAL 26 ARG
-http://live-edge01.telecentro.net.ar/live/26hd-180/playlist.m3u8
- 
-#EXTINF: -1,C5 ARG
-rtmp://c5n.stweb.tv:1935/c5n/live_media
- 
-#EXTINF: -1,CANAL 13 ARG
-rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1
- 
-#EXTINF: -1,TV ENSENADA
-rtmp://panel.dattalive.com/8008/8008
- 
-#EXTINF: -1,CANAL 9 ARG
-http://xcanal9saltax.api.channel.livestream.com/3.0/playlist.m3u8
- 
-#EXTINF: -1,VIDEOS
-rtmp://edge.wms28.lorini.net/canal-i/canal-i
- 
-#EXTINF: -1,2 ARG
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
- 
-#EXTINF: -1,TV5 MONDE
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8
- 
-#EXTINF: -1,CANAL 11
-http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8
- 
-#EXTINF: -1,CAPITAL TV MIUSIC
-http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
- 
-#EXTINF: -1,HEARTV MIUSIC
-http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&rebase=on
- 
-#EXTINF: -1,RT ESPAÑOL
-http://rt-lh.akamaihd.net/i/ch_02@325606/index_720p_av-p.m3u8?sd=10&rebase=on
- 
+#EXTINF:-1,Canal 2 YAQUI TV
+http://74.63.97.188:1935/gpacifico3/videogpacifico3/chunklist_w1075509085.m3u8
+#EXTINF:-1,Canal 66 Mexicali
+http://canal44-lh.akamaihd.net/i/ch_mexicali@325633/master.m3u8
 #EXTINF: -1,CANAL 1 HD CULTURAL
 http://74.63.97.188:1935/gpacifico4/videogpacifico4/chunklist_w1774114891.m3u8
  
@@ -432,18 +704,958 @@ http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
  
 #EXTINF: -1,C7 JALISCO
 http://74.63.97.188:1935/c7/videoc7/master.m3u8
- 
-#EXTINF: -1,GRUPO PACIFICO
-http://74.63.97.188:1935/gpacifico2/smil:mochis.smil/playlist.m3u8
- 
-#EXTINF: -1,CARTOON NETWORK INGLE
-http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
- 
-#EXTINF: -1,MIAMI TV
-http://k4.usastreams.com:1935/miamitv/smil:miamitv/playlist.m3u8
- 
-#EXTINF: -1,TOONAMI INGLES
-http://iphone-streaming.ustream.tv/uhls/19964352/streams/live/iphone/playlist.m3u8
+
+
+#EXTINF:-1,[COLOR red]--------ESPAIN----------------[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1,ES : ANDORRA TV
+http://194.158.80.31:443/live/rtva/playlist.m3u8
+#EXTINF:-1,ES : TV3 24
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/chunklist_b798000_DVR.m3u8
+#EXTINF:-1,ES : RT EN ESPAÑOL HD
+http://rt.ashttp14.visionip.tv:1935/live/RT_en_Espanol-HD/livestream.m3u8
+#EXTINF:-1,ES : GALIZA TV AMERICA
+http://media1.crtvg.es:1935/live/tvga/livestream.m3u8
+#EXTINF:-1,ES : EURONEWS
+http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8
+#EXTINF:-1,ES : ATRESERIES
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+#EXTINF:-1,ES : AZTECA 13 HD
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
+#EXTINF:-1,ES : Proyecto 40
+http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/master.m3u8
+#EXTINF:-1,ES : DW Latinoamérica
+http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
+#EXTINF:-1,ES : Ingenio TV
+http://dl-dgtve.xsn.com.mx/dgtve/canal30dgtve.mp4/playlist.m3u8?
+#EXTINF:-1,ES : Efecto Tv Hd
+http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/index_3_av-p.m3u8
+#EXTINF:-1,ES : LA 2 
+http://api.iptv.ink/pl.m3u8?ch=91170153
+#EXTINF:-1,ES : ANTENA 3
+http://api.iptv.ink/pl.m3u8?ch=62326989
+#EXTINF:-1,ES : LA SEXTA 
+http://api.iptv.ink/pl.m3u8?ch=88365689
+#EXTINF:-1,ES : NEOX
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+#EXTINF:-1,ES : NOVA
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
+#EXTINF:-1,ES : MEGA
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8?
+#EXTINF:-1,ES : 13 TV 
+http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/.m3u8
+#EXTINF:-1,ES : INTERECONOMIA
+http://edge3.adnstream.com:81/hls/intereconomia.m3u8
+#EXTINF:-1,ES : 8TYUTV
+http://byuhd2-lh.akamaihd.net/i/byutvintspanhd2_live@103133/index_840_av-b.m3u8
+#EXTINF:-1,ES : CATALUNHA
+http://mediasethls-lh.akamaihd.net/i/mitele/8tv_ng@393131/index_500_av-p.m3u8
+#EXTINF:-1,ES : CANAL SUR
+http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
+#EXTINF:-1,ES : TV EUROPA
+http://media3.crtvg.es/live/tvge/vcx7.m3u8
+#EXTINF:-1,ES : RTP ASTURIAS
+http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
+#EXTINF:-1,ES : EXTREMADURA TV
+http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8
+#EXTINF:-1,ES : TRAVEL TV
+rtmp://87.106.219.140/live/myStream_2
+#EXTINF:-1,ES : ANIME TV
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?
+#EXTINF:-1,ONDA AZUL MALAGA
+http://dsn6jqegjeixj.cloudfront.net/ondaazul-live/video/master.m3u8
+#EXTINF:-1,ONDA AZUL SEVILLA
+http://cls.elitehd-audiovisuales.com/olsevilla/livestream1/master.m3u8
+#EXTINF:-1,Antena 3 Internacional  Espana
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
+#EXTINF:-1,Antena 3 Espana
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,EXTREMADURA TV  Espana
+http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8
+#EXTINF:-1,ANDALUCIA TV  Espana
+http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
+#EXTINF:-1,A3S  Espana
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+#EXTINF:-1,La Sexta  Espana
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,Mega Espana
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,Mediterraneo TV Espana
+http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/master.m3u8
+
+#EXTINF:-1,[COLOR red]--------Deportes----------------[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1,(HQ) COPA AMERICA
+http://149.202.198.149:8000/live/melissa/melissa/1312.ts
+#EXTINF:-1,(HQ) CLARO SPORT
+http://149.202.198.149:8000/live/melissa/melissa/1314.ts
+#EXTINF:-1,(HD) TyC Sports
+http://149.202.198.149:8000/live/melissa/melissa/1311.ts
+#EXTINF:-1,(HD) ESPN
+http://149.202.198.149:8000/live/melissa/melissa/1280.ts
+#EXTINF:-1,(HQ) ESPN
+http://149.202.198.149:8000/live/melissa/melissa/932.ts
+#EXTINF:-1,(HD) ESPN 2 HD
+http://149.202.198.149:8000/live/melissa/melissa/1283.ts
+#EXTINF:-1,(HQ) ESPN 2 HD
+http://149.202.198.149:8000/live/melissa/melissa/935.ts
+#EXTINF:-1,(HD) ESPN 3
+http://149.202.198.149:8000/live/melissa/melissa/1281.ts
+#EXTINF:-1,(HQ) ESPN 3
+http://149.202.198.149:8000/live/melissa/melissa/933.ts
+#EXTINF:-1,(HD) ESPN HD
+http://149.202.198.149:8000/live/melissa/melissa/1282.ts
+#EXTINF:-1,(HQ) ESPN HD
+http://149.202.198.149:8000/live/melissa/melissa/934.ts
+#EXTINF:-1,(HD) Fox Sports
+http://149.202.198.149:8000/live/melissa/melissa/1284.ts
+#EXTINF:-1,(HQ) Fox Sports
+http://149.202.198.149:8000/live/melissa/melissa/936.ts
+#EXTINF:-1,(HD) Fox Sports 2 HD
+http://149.202.198.149:8000/live/melissa/melissa/1285.ts
+#EXTINF:-1,(HQ) Fox Sports 2 HD
+http://149.202.198.149:8000/live/melissa/melissa/937.ts
+#EXTINF:-1,(HD) Movistar Fórmula1
+http://149.202.198.149:8000/live/melissa/melissa/1279.ts
+#EXTINF:-1,(HQ) Movistar Fórmula1
+http://149.202.198.149:8000/live/melissa/melissa/931.ts
+#EXTINF:-1,(HD) PX HD
+http://149.202.198.149:8000/live/melissa/melissa/1286.ts
+#EXTINF:-1,(HQ) PX HD
+http://149.202.198.149:8000/live/melissa/melissa/938.ts
+#EXTINF:-1,(HD) Aym Sports
+http://149.202.198.149:8000/live/melissa/melissa/1287.ts
+#EXTINF:-1,(HQ) Aym Sports
+http://149.202.198.149:8000/live/melissa/melissa/939.ts
+#EXTINF:-1,(HQ) GOLPERU
+http://149.202.198.149:8000/live/melissa/melissa/1308.ts
+#EXTINF:-1,TODO DEPORTES
+http://149.202.198.149:8000/live/melissa/melissa/1630.ts
+#EXTINF:-1,Univision Deportes Network * *
+http://149.202.198.149:8000/live/melissa/melissa/1631.ts
+#EXTINF:-1,Canal 11
+http://149.202.198.149:8000/live/melissa/melissa/1629.ts
+#EXTINF:-1,(HQ) beIN SPORTS en espanol
+http://149.202.198.149:8000/live/melissa/melissa/1309.ts
+#EXTINF:-1,(HD) beIN SPORTS en espanol
+http://149.202.198.149:8000/live/melissa/melissa/1310.ts
+#EXTINF:-1,(UHD) beIN SPORTS en espanol
+http://149.202.198.149:8000/live/melissa/melissa/1318.ts
+#EXTINF:-1,(HD) WinSports
+http://149.202.198.149:8000/live/melissa/melissa/1307.ts
+#EXTINF:-1,(SD)FOX SPORTS LIVE
+http://149.202.198.149:8000/live/melissa/melissa/1316.ts
+#EXTINF:-1,(HD) TDN
+http://149.202.198.149:8000/live/melissa/melissa/1321.ts
+#EXTINF:-1,TDN (ts)
+http://149.202.198.149:8000/live/melissa/melissa/414.ts
+#EXTINF:-1,Univision TDN (ts)
+http://149.202.198.149:8000/live/melissa/melissa/415.ts
+#EXTINF:-1,(HQ) UNIVISION TDN
+http://149.202.198.149:8000/live/melissa/melissa/1313.ts
+#EXTINF:-1,Univision Deportes (ts)
+http://149.202.198.149:8000/live/melissa/melissa/419.ts
+#EXTINF:-1,Wapa2 (sd)
+http://149.202.198.149:8000/live/melissa/melissa/190.ts
+#EXTINF:-1,NBA TV (ts)
+http://149.202.198.149:8000/live/melissa/melissa/434.ts
+#EXTINF:-1,Planeta Futbol (ts)
+http://149.202.198.149:8000/live/melissa/melissa/413.ts
+#EXTINF:-1,(HQ) UFC Network
+http://149.202.198.149:8000/live/melissa/melissa/1315.ts
+#EXTINF:-1,(HD) UFC HD
+http://149.202.198.149:8000/live/melissa/melissa/1317.ts
+#EXTINF:-1,UFC Network (ts)
+http://149.202.198.149:8000/live/melissa/melissa/411.ts
+#EXTINF:-1,BOXnation (ts)
+http://149.202.198.149:8000/live/melissa/melissa/449.ts
+#EXTINF:-1,WWE Network (ts)
+http://149.202.198.149:8000/live/melissa/melissa/440.ts
+#EXTINF:-1,BT Sport 1 (ts)
+http://149.202.198.149:8000/live/melissa/melissa/456.ts
+#EXTINF:-1,BT Sport 2 (ts)
+http://149.202.198.149:8000/live/melissa/melissa/457.ts
+#EXTINF:-1,ASTRO SuperSport 1 (ts)
+http://149.202.198.149:8000/live/melissa/melissa/458.ts
+#EXTINF:-1,ASTRO SuperSport 2 (ts)
+http://149.202.198.149:8000/live/melissa/melissa/459.ts
+#EXTINF:-1,ASTRO SuperSport 3 (ts)
+http://149.202.198.149:8000/live/melissa/melissa/460.ts
+#EXTINF:-1,At The Races (ts)
+http://149.202.198.149:8000/live/melissa/melissa/443.ts
+#EXTINF:-1,BeinSports en Espanol (ts)
+http://149.202.198.149:8000/live/melissa/melissa/412.ts
+#EXTINF:-1,CBS Sports Network (ts)
+http://149.202.198.149:8000/live/melissa/melissa/436.ts
+#EXTINF:-1,Comcast Sports Net Bay Area (ts)
+http://149.202.198.149:8000/live/melissa/melissa/464.ts
+#EXTINF:-1,(HQ) TELEDEPORTE
+http://149.202.198.149:8000/live/melissa/melissa/1439.ts
+#EXTINF:-1,DXTV (ts)
+http://149.202.198.149:8000/live/melissa/melissa/417.ts
+#EXTINF:-1,(HQ) DEPORTV
+http://149.202.198.149:8000/live/melissa/melissa/1425.ts
+#EXTINF:-1,ESPN (ts)
+http://149.202.198.149:8000/live/melissa/melissa/404.ts
+#EXTINF:-1,ESPN 2 (ts)
+http://149.202.198.149:8000/live/melissa/melissa/405.ts
+#EXTINF:-1,ESPN 2 US (ts)
+http://149.202.198.149:8000/live/melissa/melissa/423.ts
+#EXTINF:-1,ESPN 3 (ts)
+http://149.202.198.149:8000/live/melissa/melissa/406.ts
+#EXTINF:-1,ESPN US (ts)
+http://149.202.198.149:8000/live/melissa/melissa/420.ts
+#EXTINF:-1,ESPNews US (ts)
+http://149.202.198.149:8000/live/melissa/melissa/422.ts
+#EXTINF:-1,ESPNU (ts)
+http://149.202.198.149:8000/live/melissa/melissa/421.ts
+#EXTINF:-1,Eurosport 1 (ts)
+http://149.202.198.149:8000/live/melissa/melissa/445.ts
+#EXTINF:-1,Eurosport 2 (ts)
+http://149.202.198.149:8000/live/melissa/melissa/446.ts
+#EXTINF:-1,Movistar Fórmula1 (ts)
+http://149.202.198.149:8000/live/melissa/melissa/410.ts
+#EXTINF:-1,Fox Sports (ts)
+http://149.202.198.149:8000/live/melissa/melissa/407.ts
+#EXTINF:-1,Fox Sports 1 US (ts)
+http://149.202.198.149:8000/live/melissa/melissa/429.ts
+#EXTINF:-1,Fox Sports 2 (ts)
+http://149.202.198.149:8000/live/melissa/melissa/408.ts
+#EXTINF:-1,Fox Sports 2 US (ts)
+http://149.202.198.149:8000/live/melissa/melissa/430.ts
+#EXTINF:-1,Fox Sports 3 (ts)
+http://149.202.198.149:8000/live/melissa/melissa/409.ts
+#EXTINF:-1,Fox Sports Arizona (ts)
+http://149.202.198.149:8000/live/melissa/melissa/468.ts
+#EXTINF:-1,Fox Sports Florida (ts)
+http://149.202.198.149:8000/live/melissa/melissa/462.ts
+#EXTINF:-1,Fox Sports Prime Ticket (ts)
+http://149.202.198.149:8000/live/melissa/melissa/471.ts
+#EXTINF:-1,Fox Sports South (ts)
+http://149.202.198.149:8000/live/melissa/melissa/465.ts
+#EXTINF:-1,Fox Sports Southwest (ts)
+http://149.202.198.149:8000/live/melissa/melissa/469.ts
+#EXTINF:-1,FOX Sports West (ts)
+http://149.202.198.149:8000/live/melissa/melissa/463.ts
+#EXTINF:-1,Golf Channel (ts)
+http://149.202.198.149:8000/live/melissa/melissa/418.ts
+#EXTINF:-1,(HQ) GOLTV
+http://149.202.198.149:8000/live/melissa/melissa/1381.ts
+#EXTINF:-1,GolTV (ts)
+http://149.202.198.149:8000/live/melissa/melissa/416.ts
+#EXTINF:-1,MASN (ts)
+http://149.202.198.149:8000/live/melissa/melissa/466.ts
+#EXTINF:-1,MAV tv (ts)
+http://149.202.198.149:8000/live/melissa/melissa/439.ts
+#EXTINF:-1,MLB EXTRA innings (ts)
+http://149.202.198.149:8000/live/melissa/melissa/432.ts
+#EXTINF:-1,MLB Network (ts)
+http://149.202.198.149:8000/live/melissa/melissa/431.ts
+#EXTINF:-1,MSG (ts)
+http://149.202.198.149:8000/live/melissa/melissa/448.ts
+#EXTINF:-1,MUTV (ts)
+http://149.202.198.149:8000/live/melissa/melissa/447.ts
+#EXTINF:-1,NBC Sport Network (ts)
+http://149.202.198.149:8000/live/melissa/melissa/437.ts
+#EXTINF:-1,New England Sports Network (ts)
+http://149.202.198.149:8000/live/melissa/melissa/467.ts
+#EXTINF:-1,NFL Network (ts)
+http://149.202.198.149:8000/live/melissa/melissa/433.ts
+#EXTINF:-1,NHL Network USA (ts)
+http://149.202.198.149:8000/live/melissa/melissa/435.ts
+#EXTINF:-1,Racing UK (ts)
+http://149.202.198.149:8000/live/melissa/melissa/444.ts
+#EXTINF:-1,Setanta Sports (ts)
+http://149.202.198.149:8000/live/melissa/melissa/442.ts
+#EXTINF:-1,SKY Sports 1 (ts)
+http://149.202.198.149:8000/live/melissa/melissa/450.ts
+#EXTINF:-1,SKY Sports 2 (ts)
+http://149.202.198.149:8000/live/melissa/melissa/451.ts
+#EXTINF:-1,SKY Sports 3 (ts)
+http://149.202.198.149:8000/live/melissa/melissa/452.ts
+#EXTINF:-1,SKY Sports 4 (ts)
+http://149.202.198.149:8000/live/melissa/melissa/453.ts
+#EXTINF:-1,SKY Sports 5 (ts)
+http://149.202.198.149:8000/live/melissa/melissa/454.ts
+#EXTINF:-1,SKY Sports F1 (ts)
+http://149.202.198.149:8000/live/melissa/melissa/455.ts
+#EXTINF:-1,SKY Sports News (ts)
+http://149.202.198.149:8000/live/melissa/melissa/438.ts
+#EXTINF:-1,Sport 1 (ts)
+http://149.202.198.149:8000/live/melissa/melissa/474.ts
+#EXTINF:-1,Sport 2 (ts)
+http://149.202.198.149:8000/live/melissa/melissa/475.ts
+#EXTINF:-1,Sport 3 (ts)
+http://149.202.198.149:8000/live/melissa/melissa/476.ts
+#EXTINF:-1,Sport 4 (ts)
+http://149.202.198.149:8000/live/melissa/melissa/477.ts
+#EXTINF:-1,Sport 5 (ts)
+http://149.202.198.149:8000/live/melissa/melissa/478.ts
+#EXTINF:-1,Sport 6 (ts)
+http://149.202.198.149:8000/live/melissa/melissa/479.ts
+#EXTINF:-1,SportsNet New York (ts)
+http://149.202.198.149:8000/live/melissa/melissa/470.ts
+#EXTINF:-1,Tennis Channel (ts)
+http://149.202.198.149:8000/live/melissa/melissa/441.ts
+#EXTINF:-1,Time Warner Cable Sportsnet Dodgers (ts)
+http://149.202.198.149:8000/live/melissa/melissa/472.ts
+#EXTINF:-1,Time Warner Cable Sportsnet Lakers (ts)
+http://149.202.198.149:8000/live/melissa/melissa/473.ts
+#EXTINF:-1,TSN 1 (ts)
+http://149.202.198.149:8000/live/melissa/melissa/424.ts
+#EXTINF:-1,TSN 2 (ts)
+http://149.202.198.149:8000/live/melissa/melissa/425.ts
+#EXTINF:-1,TSN 3 (ts)
+http://149.202.198.149:8000/live/melissa/melissa/426.ts
+#EXTINF:-1,TSN 4 (ts)
+http://149.202.198.149:8000/live/melissa/melissa/427.ts
+#EXTINF:-1,TSN 5 (ts)
+http://149.202.198.149:8000/live/melissa/melissa/428.ts
+#EXTINF:-1,Ultimate Events & Sports (ts)
+http://149.202.198.149:8000/live/melissa/melissa/482.ts
+#EXTINF:-1,Yes Network (ts)
+http://149.202.198.149:8000/live/melissa/melissa/461.ts
+
+
+
+
+#EXTINF:-1,[COLOR blue]<<<<<<<<<<PELICULAS INFANTILES >>>>>>>>>>[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1 tvg-logo="infantiles.png",101 DALMATAS (1961)
+http://iptvcanales.com/xw/pinfantiles.php?movie=001
+#EXTINF:-1 tvg-logo="infantiles.png",101 DÁLMATAS 2: UNA AVENTURA EN LONDRES (2003)
+http://iptvcanales.com/xw/pinfantiles.php?movie=002
+#EXTINF:-1 tvg-logo="infantiles.png",101 DÁLMATAS: ¡AHORA LA MAGIA ES REAL! (1996)
+http://iptvcanales.com/xw/pinfantiles.php?movie=003
+#EXTINF:-1 tvg-logo="infantiles.png",ALADDIN 1
+http://iptvcanales.com/xw/pinfantiles.php?movie=004
+#EXTINF:-1 tvg-logo="infantiles.png",ALADDIN 2
+http://iptvcanales.com/xw/pinfantiles.php?movie=005
+#EXTINF:-1 tvg-logo="infantiles.png",ALADDIN Y EL REY DE LOS LADRONES
+http://iptvcanales.com/xw/pinfantiles.php?movie=006
+#EXTINF:-1 tvg-logo="infantiles.png",ALICIA EN EL PAIS DE LAS MARAVILLAS
+http://iptvcanales.com/xw/pinfantiles.php?movie=007
+#EXTINF:-1 tvg-logo="infantiles.png",ANASTASIA
+http://iptvcanales.com/xw/pinfantiles.php?movie=008
+#EXTINF:-1 tvg-logo="infantiles.png",ATLANTIS: EL IMPERIO PERDIDO (2001)
+http://iptvcanales.com/xw/pinfantiles.php?movie=009
+#EXTINF:-1 tvg-logo="infantiles.png",ATLANTIS 2: EL REGRESO DE MILO (2003)
+http://iptvcanales.com/xw/pinfantiles.php?movie=010
+#EXTINF:-1 tvg-logo="infantiles.png",AVIONES (2013)
+http://iptvcanales.com/xw/pinfantiles.php?movie=011
+#EXTINF:-1 tvg-logo="infantiles.png",AVIONES 2: EQUIPO DE RESCATE (2014)
+http://iptvcanales.com/xw/pinfantiles.php?movie=012
+#EXTINF:-1 tvg-logo="infantiles.png",BAMBI (1942)
+http://iptvcanales.com/xw/pinfantiles.php?movie=013
+#EXTINF:-1 tvg-logo="infantiles.png",BAMBI 2 (2006)
+http://iptvcanales.com/xw/pinfantiles.php?movie=014
+#EXTINF:-1 tvg-logo="infantiles.png",BERNARDO Y BIANCA (1977)
+http://iptvcanales.com/xw/pinfantiles.php?movie=016
+#EXTINF:-1 tvg-logo="infantiles.png",BERNARDO Y BIANCA EN CANGUROLANDIA (1990)
+http://iptvcanales.com/xw/pinfantiles.php?movie=017
+#EXTINF:-1 tvg-logo="infantiles.png",BICHOS (1998)
+http://iptvcanales.com/xw/pinfantiles.php?movie=018
+#EXTINF:-1 tvg-logo="infantiles.png",BLANCANIEVES Y LOS SIETE ENANITOS
+http://iptvcanales.com/xw/pinfantiles.php?movie=019
+#EXTINF:-1 tvg-logo="infantiles.png",BOLT: UN PERRO FUERA DE SERIE (2008)
+http://iptvcanales.com/xw/pinfantiles.php?movie=020
+#EXTINF:-1 tvg-logo="infantiles.png",BUDDIES: CACHORROS EMBRUJADOS (2011)
+http://iptvcanales.com/xw/pinfantiles.php?movie=021
+#EXTINF:-1 tvg-logo="infantiles.png",BUDDIES: CAZADORES DE TESOROS (2012)
+http://iptvcanales.com/xw/pinfantiles.php?movie=022
+#EXTINF:-1 tvg-logo="infantiles.png",BUSCANDO A NEMO (2003)
+http://iptvcanales.com/xw/pinfantiles.php?movie=023
+#EXTINF:-1 tvg-logo="infantiles.png",CARS (2006)
+http://iptvcanales.com/xw/pinfantiles.php?movie=024
+#EXTINF:-1 tvg-logo="infantiles.png",CARS 2 (2011)
+http://iptvcanales.com/xw/pinfantiles.php?movie=025
+#EXTINF:-1 tvg-logo="infantiles.png",CHICKEN LITTLE (2005)
+http://iptvcanales.com/xw/pinfantiles.php?movie=026
+#EXTINF:-1 tvg-logo="infantiles.png",DUMBO (1941)
+http://iptvcanales.com/xw/pinfantiles.php?movie=027
+#EXTINF:-1 tvg-logo="infantiles.png",EL CALDERO MÁGICO (1985)
+http://iptvcanales.com/xw/pinfantiles.php?movie=028
+#EXTINF:-1 tvg-logo="infantiles.png",EL EXTRAÑO MUNDO DE JACK (1993)
+http://iptvcanales.com/xw/pinfantiles.php?movie=029
+#EXTINF:-1 tvg-logo="infantiles.png",EL JOROBADO DE NOTRE DAME (1996)
+http://iptvcanales.com/xw/pinfantiles.php?movie=031
+#EXTINF:-1 tvg-logo="infantiles.png",EL LIBRO DE LA SELVA (1967)
+http://iptvcanales.com/xw/pinfantiles.php?movie=032
+#EXTINF:-1 tvg-logo="infantiles.png",EL LIBRO DE LA SELVA 2 (2003)
+http://iptvcanales.com/xw/pinfantiles.php?movie=033
+#EXTINF:-1 tvg-logo="infantiles.png",EL LIBRO DE LA VIDA (2014)
+http://iptvcanales.com/xw/pinfantiles.php?movie=034
+#EXTINF:-1 tvg-logo="infantiles.png",EL PLANETA DEL TESORO (2002)
+http://iptvcanales.com/xw/pinfantiles.php?movie=035
+#EXTINF:-1 tvg-logo="infantiles.png",EL ZORRO Y EL SABUESO (1981)
+http://iptvcanales.com/xw/pinfantiles.php?movie=036
+#EXTINF:-1 tvg-logo="infantiles.png",EL ZORRO Y EL SABUESO 2 (2006)
+http://iptvcanales.com/xw/pinfantiles.php?movie=037
+#EXTINF:-1 tvg-logo="infantiles.png",ENREDADOS
+http://iptvcanales.com/xw/pinfantiles.php?movie=038
+#EXTINF:-1 tvg-logo="infantiles.png",FANTASÍA (1940)
+http://iptvcanales.com/xw/pinfantiles.php?movie=040
+#EXTINF:-1 tvg-logo="infantiles.png",FANTASÍA 2000 (1999)
+http://iptvcanales.com/xw/pinfantiles.php?movie=041
+#EXTINF:-1 tvg-logo="infantiles.png",FRANKENWEENIE (2012)
+http://iptvcanales.com/xw/pinfantiles.php?movie=042
+#EXTINF:-1 tvg-logo="infantiles.png",FROZEN: UNA AVENTURA CONGELADA
+http://iptvcanales.com/xw/pinfantiles.php?movie=043
+#EXTINF:-1 tvg-logo="infantiles.png",GRANDES HÉROES (2014)
+http://iptvcanales.com/xw/pinfantiles.php?movie=044
+#EXTINF:-1 tvg-logo="infantiles.png",HÉRCULES (1997)
+http://iptvcanales.com/xw/pinfantiles.php?movie=045
+#EXTINF:-1 tvg-logo="infantiles.png",LA BELLA DURMIENTE
+http://iptvcanales.com/xw/pinfantiles.php?movie=048
+#EXTINF:-1 tvg-logo="infantiles.png",LA BELLA Y LA BESTIA
+http://iptvcanales.com/xw/pinfantiles.php?movie=049
+#EXTINF:-1 tvg-logo="infantiles.png",LA BELLA Y LA BESTIA 2
+http://iptvcanales.com/xw/pinfantiles.php?movie=050
+#EXTINF:-1 tvg-logo="infantiles.png",LA CENICIENTA 1
+http://iptvcanales.com/xw/pinfantiles.php?movie=051
+#EXTINF:-1 tvg-logo="infantiles.png",LA CENICIENTA 2
+http://iptvcanales.com/xw/pinfantiles.php?movie=052
+#EXTINF:-1 tvg-logo="infantiles.png",LA CENICIENTA 3
+http://iptvcanales.com/xw/pinfantiles.php?movie=053
+#EXTINF:-1 tvg-logo="infantiles.png",LA DAMA Y EL VAGABUNDO 2 (1955)
+http://iptvcanales.com/xw/pinfantiles.php?movie=054
+#EXTINF:-1 tvg-logo="infantiles.png",LA DAMA Y EL VAGABUNDO 2 (2001)
+http://iptvcanales.com/xw/pinfantiles.php?movie=055
+#EXTINF:-1 tvg-logo="infantiles.png",LA ESPADA EN LA PIEDRA (1963)
+http://iptvcanales.com/xw/pinfantiles.php?movie=056
+#EXTINF:-1 tvg-logo="infantiles.png",LA PRINCESA SOFIA: ERASE UNA VEZ UNA PRINCESA
+http://iptvcanales.com/xw/pinfantiles.php?movie=057
+#EXTINF:-1 tvg-logo="infantiles.png",LA PRINCESA SOFIA: UN PALACIO EN EL AGUA
+http://iptvcanales.com/xw/pinfantiles.php?movie=058
+#EXTINF:-1 tvg-logo="infantiles.png",LA PRINCESA Y EL SAPO
+http://iptvcanales.com/xw/pinfantiles.php?movie=059
+#EXTINF:-1 tvg-logo="infantiles.png",LA SIRENITA 1
+http://iptvcanales.com/xw/pinfantiles.php?movie=060
+#EXTINF:-1 tvg-logo="infantiles.png",LA SIRENITA 2
+http://iptvcanales.com/xw/pinfantiles.php?movie=061
+#EXTINF:-1 tvg-logo="infantiles.png",LA SIRENITA 3
+http://iptvcanales.com/xw/pinfantiles.php?movie=062
+#EXTINF:-1 tvg-logo="infantiles.png",LAS AVENTURAS DE PEABODY Y SHERMAN (2014)
+http://iptvcanales.com/xw/pinfantiles.php?movie=063
+#EXTINF:-1 tvg-logo="infantiles.png",LILO Y STITCH (2002)
+http://iptvcanales.com/xw/pinfantiles.php?movie=064
+#EXTINF:-1 tvg-logo="infantiles.png",LILO Y STITCH: STITCH EN CORTOCIRCUITO (2005)
+http://iptvcanales.com/xw/pinfantiles.php?movie=065
+#EXTINF:-1 tvg-logo="infantiles.png",LOS ARISTOGATOS (1970)
+http://iptvcanales.com/xw/pinfantiles.php?movie=066
+#EXTINF:-1 tvg-logo="infantiles.png",LOS FANTASMAS DE SCROOGE (2009)
+http://iptvcanales.com/xw/pinfantiles.php?movie=067
+#EXTINF:-1 tvg-logo="infantiles.png",LOS INCREÍBLES (2004)
+http://iptvcanales.com/xw/pinfantiles.php?movie=068
+#EXTINF:-1 tvg-logo="infantiles.png",LOS MINIONS 2015
+http://iptvcanales.com/xw/pinfantiles.php?movie=069
+#EXTINF:-1 tvg-logo="infantiles.png",MARTE NECESITA MAMÁS (2011)
+http://iptvcanales.com/xw/pinfantiles.php?movie=070
+#EXTINF:-1 tvg-logo="infantiles.png",MONSTERS, INC. (2001)
+http://iptvcanales.com/xw/pinfantiles.php?movie=073
+#EXTINF:-1 tvg-logo="infantiles.png",MONSTERS UNIVERSITY (2013)
+http://iptvcanales.com/xw/pinfantiles.php?movie=074
+#EXTINF:-1 tvg-logo="infantiles.png",MULAN
+http://iptvcanales.com/xw/pinfantiles.php?movie=075
+#EXTINF:-1 tvg-logo="infantiles.png",MUPPETS (2011)
+http://iptvcanales.com/xw/pinfantiles.php?movie=076
+#EXTINF:-1 tvg-logo="infantiles.png",MUPPETS 2: LOS MÁS BUSCADOS (2014)
+http://iptvcanales.com/xw/pinfantiles.php?movie=077
+#EXTINF:-1 tvg-logo="infantiles.png",PETER PAN (1953)
+http://iptvcanales.com/xw/pinfantiles.php?movie=079
+#EXTINF:-1 tvg-logo="infantiles.png",PETER PAN 2: EL REGRESO AL PAÍS DE NUNCA JAMÁS (2002)
+http://iptvcanales.com/xw/pinfantiles.php?movie=080
+#EXTINF:-1 tvg-logo="infantiles.png",PINOCHO (1940)
+http://iptvcanales.com/xw/pinfantiles.php?movie=081
+#EXTINF:-1 tvg-logo="infantiles.png",POCAHONTAS 1
+http://iptvcanales.com/xw/pinfantiles.php?movie=082
+#EXTINF:-1 tvg-logo="infantiles.png",POCAHONTAS 2
+http://iptvcanales.com/xw/pinfantiles.php?movie=083
+#EXTINF:-1 tvg-logo="infantiles.png",POLICÍAS Y RATONES (1986)
+http://iptvcanales.com/xw/pinfantiles.php?movie=084
+#EXTINF:-1 tvg-logo="infantiles.png",RALPH, EL DEMOLEDOR (2012)
+http://iptvcanales.com/xw/pinfantiles.php?movie=085
+#EXTINF:-1 tvg-logo="infantiles.png",RATATOUILLE (2007)
+http://iptvcanales.com/xw/pinfantiles.php?movie=086
+#EXTINF:-1 tvg-logo="infantiles.png",SALUDOS AMIGOS (1942)
+http://iptvcanales.com/xw/pinfantiles.php?movie=087
+#EXTINF:-1 tvg-logo="infantiles.png",SANTA BUDDIES (2009)
+http://iptvcanales.com/xw/pinfantiles.php?movie=088
+#EXTINF:-1 tvg-logo="infantiles.png",SANTA CLAUSULA (1994)
+http://iptvcanales.com/xw/pinfantiles.php?movie=089
+#EXTINF:-1 tvg-logo="infantiles.png",SANTA CLÁUSULA 2 (2002)
+http://iptvcanales.com/xw/pinfantiles.php?movie=090
+#EXTINF:-1 tvg-logo="infantiles.png",SANTA CLÁUSULA 3 (2006)
+http://iptvcanales.com/xw/pinfantiles.php?movie=091
+#EXTINF:-1 tvg-logo="infantiles.png",SANTA PAWS: EN BUSCA DE SANTA CLAUS (2010)
+http://iptvcanales.com/xw/pinfantiles.php?movie=092
+#EXTINF:-1 tvg-logo="infantiles.png",SANTA PAWS 2: LOS CACHORROS DE SANTA (2012)
+http://iptvcanales.com/xw/pinfantiles.php?movie=093
+#EXTINF:-1 tvg-logo="infantiles.png",SNOW BUDDIES: CACHORROS EN LA NIEVE (2008)
+http://iptvcanales.com/xw/pinfantiles.php?movie=094
+#EXTINF:-1 tvg-logo="infantiles.png",SUPER BUDDIES (2013)
+http://iptvcanales.com/xw/pinfantiles.php?movie=095
+#EXTINF:-1 tvg-logo="infantiles.png",SUPERCAN (2007)
+http://iptvcanales.com/xw/pinfantiles.php?movie=096
+#EXTINF:-1 tvg-logo="infantiles.png",VALIENTE
+http://iptvcanales.com/xw/pinfantiles.php?movie=097
+#EXTINF:-1 tvg-logo="infantiles.png",SÚPER ESCUELA DE HÉROES (2005)
+http://iptvcanales.com/xw/pinfantiles.php?movie=098
+#EXTINF:-1 tvg-logo="infantiles.png",TARZÁN (1999)
+http://iptvcanales.com/xw/pinfantiles.php?movie=099
+#EXTINF:-1 tvg-logo="infantiles.png",TARZÁN 2 (2005)
+http://iptvcanales.com/xw/pinfantiles.php?movie=100
+#EXTINF:-1 tvg-logo="infantiles.png",TINKER BELL (2008)
+http://iptvcanales.com/xw/pinfantiles.php?movie=102
+#EXTINF:-1 tvg-logo="infantiles.png",TINKER BELL Y EL TESORO PERDIDO (2009)
+http://iptvcanales.com/xw/pinfantiles.php?movie=103
+#EXTINF:-1 tvg-logo="infantiles.png",TINKER BELL, HADAS AL RESCATE (2010)
+http://iptvcanales.com/xw/pinfantiles.php?movie=104
+#EXTINF:-1 tvg-logo="infantiles.png",TINKER BELL: HADAS Y PIRATAS (2014)
+http://iptvcanales.com/xw/pinfantiles.php?movie=105
+#EXTINF:-1 tvg-logo="infantiles.png",TINKER BELL: EL SECRETO DE LAS HADAS (2012)
+http://iptvcanales.com/xw/pinfantiles.php?movie=106
+#EXTINF:-1 tvg-logo="infantiles.png",TINKER BELL Y LA BESTIA DE NUNCA JAMÁS (2014)
+http://iptvcanales.com/xw/pinfantiles.php?movie=107
+#EXTINF:-1 tvg-logo="infantiles.png",TOY STORY (1995)
+http://iptvcanales.com/xw/pinfantiles.php?movie=108
+#EXTINF:-1 tvg-logo="infantiles.png",TOY STORY 2 (1999)
+http://iptvcanales.com/xw/pinfantiles.php?movie=109
+#EXTINF:-1 tvg-logo="infantiles.png",TOY STORY 3 (2010)
+http://iptvcanales.com/xw/pinfantiles.php?movie=110
+#EXTINF:-1 tvg-logo="infantiles.png",TIERRA DE OSOS (2003)
+http://iptvcanales.com/xw/pinfantiles.php?movie=111
+#EXTINF:-1 tvg-logo="infantiles.png",TIERRA DE OSOS 2 (2006)
+http://iptvcanales.com/xw/pinfantiles.php?movie=112
+#EXTINF:-1 tvg-logo="infantiles.png",UNA CHIHUAHUA EN BEVERLY HILLS (2008)
+http://iptvcanales.com/xw/pinfantiles.php?movie=113
+#EXTINF:-1 tvg-logo="infantiles.png",UNA CHIHUAHUA EN BEVERLY HILLS 2 (2011)
+http://iptvcanales.com/xw/pinfantiles.php?movie=114
+#EXTINF:-1 tvg-logo="infantiles.png",UNA CHIHUAHUA EN BEVERLY HILLS 3 (2012)
+http://iptvcanales.com/xw/pinfantiles.php?movie=115
+#EXTINF:-1 tvg-logo="infantiles.png",UNA NIÑERA A PRUEBA DE BALAS (2005)
+http://iptvcanales.com/xw/pinfantiles.php?movie=116
+#EXTINF:-1 tvg-logo="infantiles.png",UN GOLPE DE TALENTO (2014)
+http://iptvcanales.com/xw/pinfantiles.php?movie=117
+#EXTINF:-1 tvg-logo="infantiles.png",UN PAPÁ CON POCAS PULGAS (2006)
+http://iptvcanales.com/xw/pinfantiles.php?movie=118
+#EXTINF:-1 tvg-logo="infantiles.png",UN VIERNES DE LOCOS (2003)
+http://iptvcanales.com/xw/pinfantiles.php?movie=119
+#EXTINF:-1 tvg-logo="infantiles.png",UP, UNA AVENTURA DE ALTURA (2009)
+http://iptvcanales.com/xw/pinfantiles.php?movie=120
+#EXTINF:-1 tvg-logo="infantiles.png",VACAS VAQUERAS (2004)
+http://iptvcanales.com/xw/pinfantiles.php?movie=121
+#EXTINF:-1 tvg-logo="infantiles.png",WALL-E (2008)
+http://iptvcanales.com/xw/pinfantiles.php?movie=122
+#EXTINF:-1 tvg-logo="infantiles.png",WINNIE THE POOH (2011)
+http://iptvcanales.com/xw/pinfantiles.php?movie=123
+#EXTINF:-1 tvg-logo="infantiles.png",WINNIE POOH Y EL PEQUEÑO EFELANTE (2005)
+http://iptvcanales.com/xw/pinfantiles.php?movie=124
+#EXTINF:-1 tvg-logo="infantiles.png",ALADDÍN (1992)
+http://iptvcanales.com/xw/pinfantiles.php?movie=125
+#EXTINF:-1 tvg-logo="infantiles.png",ALADDÍN 2: EL RETORNO DE JAFAR (1994)
+http://iptvcanales.com/xw/pinfantiles.php?movie=126
+#EXTINF:-1 tvg-logo="infantiles.png",ALADDÍN Y EL REY DE LOS LADRONES (1996)
+http://iptvcanales.com/xw/pinfantiles.php?movie=127
+#EXTINF:-1 tvg-logo="infantiles.png",ALICIA EN EL PAÍS DE LAS MARAVILLAS (1951)
+http://iptvcanales.com/xw/pinfantiles.php?movie=128
+#EXTINF:-1 tvg-logo="infantiles.png",ALICIA EN EL PAÍS DE LAS MARAVILLAS (2010)
+http://iptvcanales.com/xw/pinfantiles.php?movie=129
+#EXTINF:-1 tvg-logo="infantiles.png",BLANCA NIEVES Y LOS SIETE ENANOS (1937)
+http://iptvcanales.com/xw/pinfantiles.php?movie=130
+#EXTINF:-1 tvg-logo="infantiles.png",ENREDADOS (2010)
+http://iptvcanales.com/xw/pinfantiles.php?movie=131
+#EXTINF:-1 tvg-logo="infantiles.png",FROZEN: UNA AVENTURA CONGELADA (2013)
+http://iptvcanales.com/xw/pinfantiles.php?movie=132
+#EXTINF:-1 tvg-logo="infantiles.png",LA BELLA DURMIENTE (1959)
+http://iptvcanales.com/xw/pinfantiles.php?movie=133
+#EXTINF:-1 tvg-logo="infantiles.png",LA BELLA Y LA BESTIA (1991)
+http://iptvcanales.com/xw/pinfantiles.php?movie=134
+#EXTINF:-1 tvg-logo="infantiles.png",LA BELLA Y LA BESTIA 2: UNA NAVIDAD ENCANTADA (1997)
+http://iptvcanales.com/xw/pinfantiles.php?movie=135
+#EXTINF:-1 tvg-logo="infantiles.png",LA CENICIENTA (1950)
+http://iptvcanales.com/xw/pinfantiles.php?movie=136
+#EXTINF:-1 tvg-logo="infantiles.png",LA CENICIENTA 2: UN SUEÑO HECHO REALIDAD (2002)
+http://iptvcanales.com/xw/pinfantiles.php?movie=137
+#EXTINF:-1 tvg-logo="infantiles.png",LA CENICIENTA 3: QUÉ PASARÍA SI… (2007)
+http://iptvcanales.com/xw/pinfantiles.php?movie=138
+#EXTINF:-1 tvg-logo="infantiles.png",LA PRINCESA SOFÍA: ÉRASE UNA VEZ UNA PRINCESA (2012)
+http://iptvcanales.com/xw/pinfantiles.php?movie=139
+#EXTINF:-1 tvg-logo="infantiles.png",LA PRINCESA SOFÍA: UN PALACIO EN EL AGUA (2013)
+http://iptvcanales.com/xw/pinfantiles.php?movie=140
+#EXTINF:-1 tvg-logo="infantiles.png",LA PRINCESA Y EL SAPO (2009)
+http://iptvcanales.com/xw/pinfantiles.php?movie=141
+#EXTINF:-1 tvg-logo="infantiles.png",LA SIRENITA (1989)
+http://iptvcanales.com/xw/pinfantiles.php?movie=142
+#EXTINF:-1 tvg-logo="infantiles.png",LA SIRENITA 2: REGRESO AL MAR (2000)
+http://iptvcanales.com/xw/pinfantiles.php?movie=143
+#EXTINF:-1 tvg-logo="infantiles.png",LA SIRENITA 3: LOS COMIENZOS DE ARIEL (2008)
+http://iptvcanales.com/xw/pinfantiles.php?movie=144
+#EXTINF:-1 tvg-logo="infantiles.png",MULÁN (1998)
+http://iptvcanales.com/xw/pinfantiles.php?movie=145
+#EXTINF:-1 tvg-logo="infantiles.png",MULÁN 2 (2004)
+http://iptvcanales.com/xw/pinfantiles.php?movie=146
+#EXTINF:-1 tvg-logo="infantiles.png",POCAHONTAS (1995)
+http://iptvcanales.com/xw/pinfantiles.php?movie=147
+#EXTINF:-1 tvg-logo="infantiles.png",POCAHONTAS 2 (1998)
+http://iptvcanales.com/xw/pinfantiles.php?movie=148
+#EXTINF:-1 tvg-logo="infantiles.png",VALIENTE (2012)
+http://iptvcanales.com/xw/pinfantiles.php?movie=149
+#EXTINF:-1 tvg-logo="infantiles.png",BARBIE EN EL CASCANUECES (2001)
+http://iptvcanales.com/xw/pinfantiles.php?movie=150
+#EXTINF:-1 tvg-logo="infantiles.png",BARBIE COMO RAPUNZEL (2002)
+http://iptvcanales.com/xw/pinfantiles.php?movie=151
+#EXTINF:-1 tvg-logo="infantiles.png",BARBIE EN EL LAGO DE LOS CISNES (2003
+http://iptvcanales.com/xw/pinfantiles.php?movie=152
+#EXTINF:-1 tvg-logo="infantiles.png",BARBIE EN LA PRINCESA Y LA PLEBEYA (2004)
+http://iptvcanales.com/xw/pinfantiles.php?movie=153
+#EXTINF:-1 tvg-logo="infantiles.png",BARBIE FAIRYTOPIA (2005)
+http://iptvcanales.com/xw/pinfantiles.php?movie=154
+#EXTINF:-1 tvg-logo="infantiles.png",BARBIE Y LA MAGIA DE PEGASO (2005)
+http://iptvcanales.com/xw/pinfantiles.php?movie=155
+#EXTINF:-1 tvg-logo="infantiles.png",EL DIARIO DE BARBIE (2006)
+http://iptvcanales.com/xw/pinfantiles.php?movie=156
+#EXTINF:-1 tvg-logo="infantiles.png",BARBIE FAIRYTOPIA: MERMAIDIA (2006)
+http://iptvcanales.com/xw/pinfantiles.php?movie=157
+#EXTINF:-1 tvg-logo="infantiles.png",BARBIE EN LAS 12 PRINCESAS BAILARINAS (2006)
+http://iptvcanales.com/xw/pinfantiles.php?movie=158
+#EXTINF:-1 tvg-logo="infantiles.png",BARBIE FAIRYTOPIA: LA MAGIA DEL ARCO IRIS (2007)
+http://iptvcanales.com/xw/pinfantiles.php?movie=159
+#EXTINF:-1 tvg-logo="infantiles.png",BARBIE COMO LA PRINCESA DE LA ISLA (2007)
+http://iptvcanales.com/xw/pinfantiles.php?movie=160
+#EXTINF:-1 tvg-logo="infantiles.png",BARBIE MARIPOSA (2008)
+http://iptvcanales.com/xw/pinfantiles.php?movie=161
+#EXTINF:-1 tvg-logo="infantiles.png",BARBIE EN EL CASTILLO DE DIAMANTES (2008)
+http://iptvcanales.com/xw/pinfantiles.php?movie=162
+#EXTINF:-1 tvg-logo="infantiles.png",BARBIE EN UN CUENTO DE NAVIDAD (2008)
+http://iptvcanales.com/xw/pinfantiles.php?movie=163
+#EXTINF:-1 tvg-logo="infantiles.png",BARBIE PULGARCITA (2009)
+http://iptvcanales.com/xw/pinfantiles.php?movie=164
+#EXTINF:-1 tvg-logo="infantiles.png",BARBIE Y LAS TRES MOSQUETERAS (2009)
+http://iptvcanales.com/xw/pinfantiles.php?movie=165
+#EXTINF:-1 tvg-logo="infantiles.png",BARBIE EN UNA AVENTURA DE SIRENAS (2010)
+http://iptvcanales.com/xw/pinfantiles.php?movie=166
+#EXTINF:-1 tvg-logo="infantiles.png",BARBIE: MODA MÁGICA EN PARÍS (2010)
+http://iptvcanales.com/xw/pinfantiles.php?movie=167
+#EXTINF:-1 tvg-logo="infantiles.png",BARBIE: EL SECRETO DE LA HADAS (2011)
+http://iptvcanales.com/xw/pinfantiles.php?movie=168
+#EXTINF:-1 tvg-logo="infantiles.png",BARBIE: ESCUELA DE PRINCESAS (2011)
+http://iptvcanales.com/xw/pinfantiles.php?movie=169
+#EXTINF:-1 tvg-logo="infantiles.png",BARBIE: UNA NAVIDAD PERFECTA (2011)
+http://iptvcanales.com/xw/pinfantiles.php?movie=170
+#EXTINF:-1 tvg-logo="infantiles.png",BARBIE EN UNA AVENTURA DE SIRENAS 2 (2012)
+http://iptvcanales.com/xw/pinfantiles.php?movie=171
+#EXTINF:-1 tvg-logo="infantiles.png",BARBIE: LA PRINCESA Y LA ESTRELLA DEL POP (2012)
+http://iptvcanales.com/xw/pinfantiles.php?movie=172
+#EXTINF:-1 tvg-logo="infantiles.png",BARBIE Y LAS ZAPATILLA MÁGICAS (2013)
+http://iptvcanales.com/xw/pinfantiles.php?movie=173
+#EXTINF:-1 tvg-logo="infantiles.png",BARBIE MARIPOSA Y LA PRINCESA DE LA HADAS (2013)
+http://iptvcanales.com/xw/pinfantiles.php?movie=174
+#EXTINF:-1 tvg-logo="infantiles.png",BARBIE Y SUS HERMANAS EN UNA HISTORIA DE PONIS (2013)
+http://iptvcanales.com/xw/pinfantiles.php?movie=175
+#EXTINF:-1 tvg-logo="infantiles.png",BARBIE: LA PRINCESA DE LAS PERLAS (2014)
+http://iptvcanales.com/xw/pinfantiles.php?movie=176
+#EXTINF:-1 tvg-logo="infantiles.png",BARBIE Y LA PUERTA SECRETA (2014)
+http://iptvcanales.com/xw/pinfantiles.php?movie=177
+#EXTINF:-1 tvg-logo="infantiles.png",BARBIE SÚPER PRINCESA (2015)
+http://iptvcanales.com/xw/pinfantiles.php?movie=178
+#EXTINF:-1 tvg-logo="infantiles.png",DISNEYNATURE: LA TIERRA (2007)
+http://iptvcanales.com/xw/pinfantiles.php?movie=179
+#EXTINF:-1 tvg-logo="infantiles.png",DISNEYNATURE: EL MISTERIO DE LOS FLAMENCOS (2008)
+http://iptvcanales.com/xw/pinfantiles.php?movie=180
+#EXTINF:-1 tvg-logo="infantiles.png",DISNEYNATURE: FELINOS DE ÁFRICA (2011)
+http://iptvcanales.com/xw/pinfantiles.php?movie=181
+#EXTINF:-1 tvg-logo="infantiles.png",DISNEYNATURE: CHIMPANCÉS (2012)
+http://iptvcanales.com/xw/pinfantiles.php?movie=182
+#EXTINF:-1 tvg-logo="infantiles.png",DISNEYNATURE: ALAS DE LA VIDA (2013)
+http://iptvcanales.com/xw/pinfantiles.php?movie=183
+#EXTINF:-1 tvg-logo="infantiles.png",DISNEYNATURE: OSOS (2014)
+http://iptvcanales.com/xw/pinfantiles.php?movie=184
+#EXTINF:-1 tvg-logo="infantiles.png",LA ERA DE HIELO 1
+http://iptvcanales.com/xw/pinfantiles.php?movie=185
+#EXTINF:-1 tvg-logo="infantiles.png",LA ERA DE HIELO 2
+http://iptvcanales.com/xw/pinfantiles.php?movie=186
+#EXTINF:-1 tvg-logo="infantiles.png",LA ERA DE HIELO 3
+http://iptvcanales.com/xw/pinfantiles.php?movie=187
+#EXTINF:-1 tvg-logo="infantiles.png",LA ERA DE HIELO 4
+http://iptvcanales.com/xw/pinfantiles.php?movie=188
+
+#EXTINF:-1,[COLOR blue]<<<<<<<<<<Premium >>>>>>>>>>[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1,A&E (sd)
+http://149.202.198.149:8000/live/melissa/melissa/248.ts
+#EXTINF:-1,ABC 5 Puerto Rico (sd)
+http://149.202.198.149:8000/live/melissa/melissa/195.ts
+#EXTINF:-1,AMC (sd)
+http://149.202.198.149:8000/live/melissa/melissa/297.ts
+#EXTINF:-1,Animal Planet (sd)
+http://149.202.198.149:8000/live/melissa/melissa/227.ts
+#EXTINF:-1,Antena 3 (sd)
+http://149.202.198.149:8000/live/melissa/melissa/212.ts
+#EXTINF:-1,AXN (sd)
+http://149.202.198.149:8000/live/melissa/melissa/251.ts
+#EXTINF:-1,Az Mundo (sd)
+http://149.202.198.149:8000/live/melissa/melissa/198.ts
+#EXTINF:-1,Baby TV (sd)
+http://149.202.198.149:8000/live/melissa/melissa/238.ts
+#EXTINF:-1,Bandamax (sd)
+http://149.202.198.149:8000/live/melissa/melissa/283.ts
+#EXTINF:-1,BBC Entertainment (sd)
+http://149.202.198.149:8000/live/melissa/melissa/240.ts
+#EXTINF:-1,Boomerang (sd)
+http://149.202.198.149:8000/live/melissa/melissa/235.ts
+#EXTINF:-1,Canal De Las Estrellas (sd)
+http://149.202.198.149:8000/live/melissa/melissa/199.ts
+#EXTINF:-1,Caracol Internacional (sd)
+http://149.202.198.149:8000/live/melissa/melissa/204.ts
+#EXTINF:-1,Cartoon Network (sd)
+http://149.202.198.149:8000/live/melissa/melissa/234.ts
+#EXTINF:-1,Casa Club TV (sd)
+http://149.202.198.149:8000/live/melissa/melissa/257.ts
+#EXTINF:-1,CB24 (sd)
+http://149.202.198.149:8000/live/melissa/melissa/271.ts
+#EXTINF:-1,CBeebies (sd)
+http://149.202.198.149:8000/live/melissa/melissa/236.ts
+#EXTINF:-1,Cine Dinamita (sd)
+http://149.202.198.149:8000/live/melissa/melissa/285.ts
+#EXTINF:-1,CineCanal (sd)
+http://149.202.198.149:8000/live/melissa/melissa/294.ts
+#EXTINF:-1,CineLatino (sd)
+http://149.202.198.149:8000/live/melissa/melissa/287.ts
+#EXTINF:-1,Cinemax  (sd)
+http://149.202.198.149:8000/live/melissa/melissa/295.ts
+#EXTINF:-1,CNN en Espanol (sd)
+http://149.202.198.149:8000/live/melissa/melissa/267.ts
+#EXTINF:-1,Comedy Central  (sd)
+http://149.202.198.149:8000/live/melissa/melissa/262.ts
+#EXTINF:-1,Concert Channel (sd)
+http://149.202.198.149:8000/live/melissa/melissa/281.ts
+#EXTINF:-1,Discovery en Español (sd)
+http://149.202.198.149:8000/live/melissa/melissa/219.ts
+#EXTINF:-1,Discovery Home & Health  (sd)
+http://149.202.198.149:8000/live/melissa/melissa/222.ts
+#EXTINF:-1,Discovery Kids (sd)
+http://149.202.198.149:8000/live/melissa/melissa/233.ts
+#EXTINF:-1,Discovery Theater (sd)
+http://149.202.198.149:8000/live/melissa/melissa/220.ts
+#EXTINF:-1,Discovery World (sd)
+http://149.202.198.149:8000/live/melissa/melissa/221.ts
+#EXTINF:-1,Disney Channel  (sd)
+http://149.202.198.149:8000/live/melissa/melissa/228.ts
+#EXTINF:-1,Disney Junior  (sd)
+http://149.202.198.149:8000/live/melissa/melissa/230.ts
+#EXTINF:-1,Disney XD  (sd)
+http://149.202.198.149:8000/live/melissa/melissa/229.ts
+#EXTINF:-1,Distrito Comedia (sd)
+http://149.202.198.149:8000/live/melissa/melissa/261.ts
+#EXTINF:-1,DW Latinoamerica (sd)
+http://149.202.198.149:8000/live/melissa/melissa/216.ts
+#EXTINF:-1,E! (sd)
+http://149.202.198.149:8000/live/melissa/melissa/243.ts
+#EXTINF:-1,Efekto TV (sd)
+http://149.202.198.149:8000/live/melissa/melissa/264.ts
+#EXTINF:-1,El Financiero Bloomberg (sd)
+http://149.202.198.149:8000/live/melissa/melissa/268.ts
+#EXTINF:-1,Elgourmet (sd)
+http://149.202.198.149:8000/live/melissa/melissa/256.ts
+#EXTINF:-1,Estrella TV (sd)
+http://149.202.198.149:8000/live/melissa/melissa/200.ts
+#EXTINF:-1,Eurochannel (sd)
+http://149.202.198.149:8000/live/melissa/melissa/252.ts
+#EXTINF:-1,Euronews en Espanol (sd)
+http://149.202.198.149:8000/live/melissa/melissa/272.ts
+#EXTINF:-1,Europa Europa (sd)
+http://149.202.198.149:8000/live/melissa/melissa/301.ts
+#EXTINF:-1,Film & Arts  (sd)
+http://149.202.198.149:8000/live/melissa/melissa/302.ts
+#EXTINF:-1,Film Zone (sd)
+http://149.202.198.149:8000/live/melissa/melissa/303.ts
+#EXTINF:-1,Fox (sd)
+http://149.202.198.149:8000/live/melissa/melissa/246.ts
+#EXTINF:-1,Fox 1 Este (sd)
+http://149.202.198.149:8000/live/melissa/melissa/304.ts
+#EXTINF:-1,Fox 1 Oeste (sd)
+http://149.202.198.149:8000/live/melissa/melissa/305.ts
+#EXTINF:-1,Fox Action Este (sd)
+http://149.202.198.149:8000/live/melissa/melissa/309.ts
+#EXTINF:-1,Fox Action Oeste (sd)
+http://149.202.198.149:8000/live/melissa/melissa/310.ts
+#EXTINF:-1,Fox Cinema (sd)
+http://149.202.198.149:8000/live/melissa/melissa/308.ts
+#EXTINF:-1,Fox Classics  (sd)
+http://149.202.198.149:8000/live/melissa/melissa/312.ts
+#EXTINF:-1,Fox Comedy (sd)
+http://149.202.198.149:8000/live/melissa/melissa/307.ts
+#EXTINF:-1,Fox Family (sd)
+http://149.202.198.149:8000/live/melissa/melissa/306.ts
+#EXTINF:-1,FOX Life (sd)
+http://149.202.198.149:8000/live/melissa/melissa/260.ts
+#EXTINF:-1,Fox Movies  (sd)
+http://149.202.198.149:8000/live/melissa/melissa/311.ts
+#EXTINF:-1,FX  (sd)
+http://149.202.198.149:8000/live/melissa/melissa/244.ts
+#EXTINF:-1,Galicia TV (sd)
+http://149.202.198.149:8000/live/melissa/melissa/215.ts
+#EXTINF:-1,Glitz  (sd)
+http://149.202.198.149:8000/live/melissa/melissa/259.ts
+#EXTINF:-1,Golden (sd)
+http://149.202.198.149:8000/live/melissa/melissa/288.ts
+#EXTINF:-1,Golden Edge (sd)
+http://149.202.198.149:8000/live/melissa/melissa/289.ts
+#EXTINF:-1,Golden Multiplex (sd)
+http://149.202.198.149:8000/live/melissa/melissa/290.ts
+#EXTINF:-1,Golden Premier 1 (sd)
+http://149.202.198.149:8000/live/melissa/melissa/323.ts
+#EXTINF:-1,Golden Premier 2 (sd)
+http://149.202.198.149:8000/live/melissa/melissa/324.ts
+#EXTINF:-1,History en Español (sd)
+http://149.202.198.149:8000/live/melissa/melissa/224.ts
+#EXTINF:-1,H2  (sd)
+http://149.202.198.149:8000/live/melissa/melissa/223.ts
+#EXTINF:-1,HBO  (sd)
+http://149.202.198.149:8000/live/melissa/melissa/313.ts
+#EXTINF:-1,HBO 2  (sd)
+http://149.202.198.149:8000/live/melissa/melissa/314.ts
+#EXTINF:-1,HBO Family  (sd)
+http://149.202.198.149:8000/live/melissa/melissa/317.ts
+#EXTINF:-1,HBO Plus Este (sd)
+http://149.202.198.149:8000/live/melissa/melissa/315.ts
+#EXTINF:-1,HBO Plus Oeste (sd)
+http://149.202.198.149:8000/live/melissa/melissa/316.ts
+#EXTINF:-1,HBO Signature  (sd)
+http://149.202.198.149:8000/live/melissa/melissa/318.ts
+#EXTINF:-1,HTV (sd)
+http://149.202.198.149:8000/live/melissa/melissa/282.ts
+#EXTINF:-1,I-Sat (sd)
+http://149.202.198.149:8000/live/melissa/melissa/300.ts
+#EXTINF:-1,Investigation Discovery (sd)
+http://149.202.198.149:8000/live/melissa/melissa/249.ts
+#EXTINF:-1,K Music (sd)
+http://149.202.198.149:8000/live/melissa/melissa/280.ts
+#EXTINF:-1,Lifetime  (sd)
+http://149.202.198.149:8000/live/melissa/melissa/266.ts
+#EXTINF:-1,MAX (sd)
+http://149.202.198.149:8000/live/melissa/melissa/322.ts
+#EXTINF:-1,Max Prime Este (sd)
+http://149.202.198.149:8000/live/melissa/melissa/320.ts
+#EXTINF:-1,Max Prime Oeste (sd)
+http://149.202.198.149:8000/live/melissa/melissa/321.ts
+#EXTINF:-1,Max UP  (sd)
+http://149.202.198.149:8000/live/melissa/melissa/319.ts
+#EXTINF:-1,MTV  (sd)
+http://149.202.198.149:8000/live/melissa/melissa/276.ts
+#EXTINF:-1,MTV Hits  (sd)
+http://149.202.198.149:8000/live/melissa/melissa/277.ts
+#EXTINF:-1,Multimedios Plus (sd)
+http://149.202.198.149:8000/live/melissa/melissa/265.ts
+#EXTINF:-1,MultiPremier (sd)
+http://149.202.198.149:8000/live/melissa/melissa/286.ts
+#EXTINF:-1,MundoFox (sd)
+http://149.202.198.149:8000/live/melissa/melissa/254.ts
+#EXTINF:-1,MundoMax (sd)
+http://149.202.198.149:8000/live/melissa/melissa/253.ts
+#EXTINF:-1,NatGeo (sd)
+http://149.202.198.149:8000/live/melissa/melissa/225.ts
+#EXTINF:-1,NatGeo Wild (sd)
+http://149.202.198.149:8000/live/melissa/melissa/226.ts
+#EXTINF:-1,NBC Universo (sd)
+http://149.202.198.149:8000/live/melissa/melissa/203.ts
+#EXTINF:-1,Nick Jr (sd)
+http://149.202.198.149:8000/live/melissa/melissa/232.ts
+#EXTINF:-1,Nickelodeon (sd)
+http://149.202.198.149:8000/live/melissa/melissa/231.ts
+#EXTINF:-1,NTN 24 (sd)
+http://149.202.198.149:8000/live/melissa/melissa/270.ts
+#EXTINF:-1,Paramount Channel  (sd)
+http://149.202.198.149:8000/live/melissa/melissa/291.ts
+#EXTINF:-1,Pasiones (sd)
+http://149.202.198.149:8000/live/melissa/melissa/208.ts
+#EXTINF:-1,Punto 2 (sd)
+http://149.202.198.149:8000/live/melissa/melissa/191.ts
+#EXTINF:-1,RCN Novelas (sd)
+http://149.202.198.149:8000/live/melissa/melissa/207.ts
+#EXTINF:-1,Regional Music (sd)
+http://149.202.198.149:8000/live/melissa/melissa/284.ts
+#EXTINF:-1,RT en Espanol (sd)
+http://149.202.198.149:8000/live/melissa/melissa/273.ts
+#EXTINF:-1,Sony (sd)
+http://149.202.198.149:8000/live/melissa/melissa/239.ts
+#EXTINF:-1,SPACE (sd)
+http://149.202.198.149:8000/live/melissa/melissa/296.ts
+#EXTINF:-1,Studio Universal (sd)
+http://149.202.198.149:8000/live/melissa/melissa/298.ts
+#EXTINF:-1,Sundance Channel  (sd)
+http://149.202.198.149:8000/live/melissa/melissa/292.ts
+#EXTINF:-1,Syfy (sd)
+http://149.202.198.149:8000/live/melissa/melissa/247.ts
+#EXTINF:-1,TBS (sd)
+http://149.202.198.149:8000/live/melissa/melissa/258.ts
+#EXTINF:-1,TCM  (sd)
+http://149.202.198.149:8000/live/melissa/melissa/299.ts
+#EXTINF:-1,TeleCentro (sd)
+http://149.202.198.149:8000/live/melissa/melissa/206.ts
+#EXTINF:-1,Telemundo (sd)
+http://149.202.198.149:8000/live/melissa/melissa/209.ts
+#EXTINF:-1,Telemundo Internacional (sd)
+http://149.202.198.149:8000/live/melissa/melissa/210.ts
+#EXTINF:-1,Telemundo Los Angeles (sd)
+http://149.202.198.149:8000/live/melissa/melissa/197.ts
+#EXTINF:-1,Telemundo Puerto Rico (sd)
+http://149.202.198.149:8000/live/melissa/melissa/192.ts
+#EXTINF:-1,Teletica (sd)
+http://149.202.198.149:8000/live/melissa/melissa/205.ts
+#EXTINF:-1,TLC (sd)
+http://149.202.198.149:8000/live/melissa/melissa/250.ts
+#EXTINF:-1,Tlnovelas America (sd)
+http://149.202.198.149:8000/live/melissa/melissa/211.ts
+#EXTINF:-1,TNT  (sd)
+http://149.202.198.149:8000/live/melissa/melissa/293.ts
+#EXTINF:-1,TNT Series  (sd)
+http://149.202.198.149:8000/live/melissa/melissa/255.ts
+#EXTINF:-1,Tooncast (sd)
+http://149.202.198.149:8000/live/melissa/melissa/237.ts
+#EXTINF:-1,Travel TV (sd)
+http://149.202.198.149:8000/live/melissa/melissa/275.ts
+#EXTINF:-1,Tru TV  (sd)
+http://149.202.198.149:8000/live/melissa/melissa/263.ts
+#EXTINF:-1,TV 5 Monde (sd)
+http://149.202.198.149:8000/live/melissa/melissa/218.ts
+#EXTINF:-1,TV Globo Internacional (sd)
+http://149.202.198.149:8000/live/melissa/melissa/217.ts
+#EXTINF:-1,TVE 1 (sd)
+http://149.202.198.149:8000/live/melissa/melissa/213.ts
+#EXTINF:-1,TVE 2 (sd)
+http://149.202.198.149:8000/live/melissa/melissa/214.ts
+#EXTINF:-1,TVE 24h (sd)
+http://149.202.198.149:8000/live/melissa/melissa/274.ts
+#EXTINF:-1,Unicable (sd)
+http://149.202.198.149:8000/live/melissa/melissa/241.ts
+#EXTINF:-1,UniMas (sd)
+http://149.202.198.149:8000/live/melissa/melissa/202.ts
+#EXTINF:-1,Universal Channel (sd)
+http://149.202.198.149:8000/live/melissa/melissa/245.ts
+#EXTINF:-1,Univision (sd)
+http://149.202.198.149:8000/live/melissa/melissa/201.ts
+#EXTINF:-1,Univision Los Angeles (sd)
+http://149.202.198.149:8000/live/melissa/melissa/196.ts
+#EXTINF:-1,Univision Puerto Rico (sd)
+http://149.202.198.149:8000/live/melissa/melissa/194.ts
+#EXTINF:-1,VH1  (sd)
+http://149.202.198.149:8000/live/melissa/melissa/279.ts
+#EXTINF:-1,VH1 Classic Europe (sd)
+http://149.202.198.149:8000/live/melissa/melissa/278.ts
+#EXTINF:-1,Wapa America  (sd)
+http://149.202.198.149:8000/live/melissa/melissa/193.ts
+#EXTINF:-1,Warner Channel (sd)
+
+
+
+#EXTINF:-1,[COLOR lime]Musica[/COLOR]
+http://?
  
 #EXTINF: -1,DOING ANIMACION TV MIUSIC
 http://www.djing.com/tv/animation.m3u8?
@@ -514,6 +1726,8 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
 
 
+#EXTINF:-1,[COLOR lime]www.iptvprivado.tv[/COLOR]
+http://?
 
 
 
