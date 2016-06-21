@@ -787,30 +787,54 @@ http://149.202.198.149:8000/live/melissa/melissa/1312.ts
 http://149.202.198.149:8000/live/melissa/melissa/1314.ts
 #EXTINF:-1,(HD) TyC Sports
 http://149.202.198.149:8000/live/melissa/melissa/1311.ts
-#EXTINF:-1,(HD) ESPN
-http://149.202.198.149:8000/live/melissa/melissa/1280.ts
+#EXTINF:-1,ESPN (ts)
+http://149.202.198.149:8000/live/melissa/melissa/404.ts
+#EXTINF:-1,ESPN 2 (ts)
+http://149.202.198.149:8000/live/melissa/melissa/405.ts
+#EXTINF:-1,ESPN 2 US (ts)
+http://149.202.198.149:8000/live/melissa/melissa/423.ts
+#EXTINF:-1,ESPN 3 (ts)
+http://149.202.198.149:8000/live/melissa/melissa/406.ts
+#EXTINF:-1,ESPN US (ts)
+http://149.202.198.149:8000/live/melissa/melissa/420.ts
+#EXTINF:-1,ESPNews US (ts)
+http://149.202.198.149:8000/live/melissa/melissa/422.ts
+#EXTINF:-1,ESPNU (ts)
+http://149.202.198.149:8000/live/melissa/melissa/421.ts
 #EXTINF:-1,(HQ) ESPN
 http://149.202.198.149:8000/live/melissa/melissa/932.ts
-#EXTINF:-1,(HD) ESPN 2 HD
-http://149.202.198.149:8000/live/melissa/melissa/1283.ts
 #EXTINF:-1,(HQ) ESPN 2 HD
 http://149.202.198.149:8000/live/melissa/melissa/935.ts
-#EXTINF:-1,(HD) ESPN 3
-http://149.202.198.149:8000/live/melissa/melissa/1281.ts
 #EXTINF:-1,(HQ) ESPN 3
 http://149.202.198.149:8000/live/melissa/melissa/933.ts
-#EXTINF:-1,(HD) ESPN HD
-http://149.202.198.149:8000/live/melissa/melissa/1282.ts
 #EXTINF:-1,(HQ) ESPN HD
 http://149.202.198.149:8000/live/melissa/melissa/934.ts
-#EXTINF:-1,(HD) Fox Sports
-http://149.202.198.149:8000/live/melissa/melissa/1284.ts
 #EXTINF:-1,(HQ) Fox Sports
 http://149.202.198.149:8000/live/melissa/melissa/936.ts
-#EXTINF:-1,(HD) Fox Sports 2 HD
-http://149.202.198.149:8000/live/melissa/melissa/1285.ts
 #EXTINF:-1,(HQ) Fox Sports 2 HD
 http://149.202.198.149:8000/live/melissa/melissa/937.ts
+#EXTINF:-1,Fox Sports (ts)
+http://149.202.198.149:8000/live/melissa/melissa/407.ts
+#EXTINF:-1,Fox Sports 1 US (ts)
+http://149.202.198.149:8000/live/melissa/melissa/429.ts
+#EXTINF:-1,Fox Sports 2 (ts)
+http://149.202.198.149:8000/live/melissa/melissa/408.ts
+#EXTINF:-1,Fox Sports 2 US (ts)
+http://149.202.198.149:8000/live/melissa/melissa/430.ts
+#EXTINF:-1,Fox Sports 3 (ts)
+http://149.202.198.149:8000/live/melissa/melissa/409.ts
+#EXTINF:-1,Fox Sports Arizona (ts)
+http://149.202.198.149:8000/live/melissa/melissa/468.ts
+#EXTINF:-1,Fox Sports Florida (ts)
+http://149.202.198.149:8000/live/melissa/melissa/462.ts
+#EXTINF:-1,Fox Sports Prime Ticket (ts)
+http://149.202.198.149:8000/live/melissa/melissa/471.ts
+#EXTINF:-1,Fox Sports South (ts)
+http://149.202.198.149:8000/live/melissa/melissa/465.ts
+#EXTINF:-1,Fox Sports Southwest (ts)
+http://149.202.198.149:8000/live/melissa/melissa/469.ts
+#EXTINF:-1,FOX Sports West (ts)
+http://149.202.198.149:8000/live/melissa/melissa/463.ts
 #EXTINF:-1,(HD) Movistar Fórmula1
 http://149.202.198.149:8000/live/melissa/melissa/1279.ts
 #EXTINF:-1,(HQ) Movistar Fórmula1
@@ -891,48 +915,12 @@ http://149.202.198.149:8000/live/melissa/melissa/1439.ts
 http://149.202.198.149:8000/live/melissa/melissa/417.ts
 #EXTINF:-1,(HQ) DEPORTV
 http://149.202.198.149:8000/live/melissa/melissa/1425.ts
-#EXTINF:-1,ESPN (ts)
-http://149.202.198.149:8000/live/melissa/melissa/404.ts
-#EXTINF:-1,ESPN 2 (ts)
-http://149.202.198.149:8000/live/melissa/melissa/405.ts
-#EXTINF:-1,ESPN 2 US (ts)
-http://149.202.198.149:8000/live/melissa/melissa/423.ts
-#EXTINF:-1,ESPN 3 (ts)
-http://149.202.198.149:8000/live/melissa/melissa/406.ts
-#EXTINF:-1,ESPN US (ts)
-http://149.202.198.149:8000/live/melissa/melissa/420.ts
-#EXTINF:-1,ESPNews US (ts)
-http://149.202.198.149:8000/live/melissa/melissa/422.ts
-#EXTINF:-1,ESPNU (ts)
-http://149.202.198.149:8000/live/melissa/melissa/421.ts
 #EXTINF:-1,Eurosport 1 (ts)
 http://149.202.198.149:8000/live/melissa/melissa/445.ts
 #EXTINF:-1,Eurosport 2 (ts)
 http://149.202.198.149:8000/live/melissa/melissa/446.ts
 #EXTINF:-1,Movistar Fórmula1 (ts)
 http://149.202.198.149:8000/live/melissa/melissa/410.ts
-#EXTINF:-1,Fox Sports (ts)
-http://149.202.198.149:8000/live/melissa/melissa/407.ts
-#EXTINF:-1,Fox Sports 1 US (ts)
-http://149.202.198.149:8000/live/melissa/melissa/429.ts
-#EXTINF:-1,Fox Sports 2 (ts)
-http://149.202.198.149:8000/live/melissa/melissa/408.ts
-#EXTINF:-1,Fox Sports 2 US (ts)
-http://149.202.198.149:8000/live/melissa/melissa/430.ts
-#EXTINF:-1,Fox Sports 3 (ts)
-http://149.202.198.149:8000/live/melissa/melissa/409.ts
-#EXTINF:-1,Fox Sports Arizona (ts)
-http://149.202.198.149:8000/live/melissa/melissa/468.ts
-#EXTINF:-1,Fox Sports Florida (ts)
-http://149.202.198.149:8000/live/melissa/melissa/462.ts
-#EXTINF:-1,Fox Sports Prime Ticket (ts)
-http://149.202.198.149:8000/live/melissa/melissa/471.ts
-#EXTINF:-1,Fox Sports South (ts)
-http://149.202.198.149:8000/live/melissa/melissa/465.ts
-#EXTINF:-1,Fox Sports Southwest (ts)
-http://149.202.198.149:8000/live/melissa/melissa/469.ts
-#EXTINF:-1,FOX Sports West (ts)
-http://149.202.198.149:8000/live/melissa/melissa/463.ts
 #EXTINF:-1,Golf Channel (ts)
 http://149.202.198.149:8000/live/melissa/melissa/418.ts
 #EXTINF:-1,(HQ) GOLTV
