@@ -781,224 +781,168 @@ http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/
 #EXTINF:-1,[COLOR red]--------Deportes----------------[/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1,(HQ) COPA AMERICA
-http://149.202.198.149:8000/live/melissa/melissa/1312.ts
-#EXTINF:-1,(HQ) CLARO SPORT
-http://149.202.198.149:8000/live/melissa/melissa/1314.ts
-#EXTINF:-1,(HD) TyC Sports
-http://149.202.198.149:8000/live/melissa/melissa/1311.ts
-#EXTINF:-1,ESPN (ts)
-http://149.202.198.149:8000/live/melissa/melissa/404.ts
-#EXTINF:-1,ESPN 2 (ts)
-http://149.202.198.149:8000/live/melissa/melissa/405.ts
-#EXTINF:-1,ESPN 2 US (ts)
-http://149.202.198.149:8000/live/melissa/melissa/423.ts
-#EXTINF:-1,ESPN 3 (ts)
-http://149.202.198.149:8000/live/melissa/melissa/406.ts
-#EXTINF:-1,ESPN US (ts)
-http://149.202.198.149:8000/live/melissa/melissa/420.ts
-#EXTINF:-1,ESPNews US (ts)
-http://149.202.198.149:8000/live/melissa/melissa/422.ts
-#EXTINF:-1,ESPNU (ts)
-http://149.202.198.149:8000/live/melissa/melissa/421.ts
-#EXTINF:-1,(HQ) ESPN
-http://149.202.198.149:8000/live/melissa/melissa/932.ts
-#EXTINF:-1,(HQ) ESPN 2 HD
-http://149.202.198.149:8000/live/melissa/melissa/935.ts
-#EXTINF:-1,(HQ) ESPN 3
-http://149.202.198.149:8000/live/melissa/melissa/933.ts
-#EXTINF:-1,(HQ) ESPN HD
-http://149.202.198.149:8000/live/melissa/melissa/934.ts
-#EXTINF:-1,(HQ) Fox Sports
-http://149.202.198.149:8000/live/melissa/melissa/936.ts
-#EXTINF:-1,(HQ) Fox Sports 2 HD
-http://149.202.198.149:8000/live/melissa/melissa/937.ts
-#EXTINF:-1,Fox Sports (ts)
-http://149.202.198.149:8000/live/melissa/melissa/407.ts
-#EXTINF:-1,Fox Sports 1 US (ts)
-http://149.202.198.149:8000/live/melissa/melissa/429.ts
-#EXTINF:-1,Fox Sports 2 (ts)
-http://149.202.198.149:8000/live/melissa/melissa/408.ts
-#EXTINF:-1,Fox Sports 2 US (ts)
-http://149.202.198.149:8000/live/melissa/melissa/430.ts
-#EXTINF:-1,Fox Sports 3 (ts)
-http://149.202.198.149:8000/live/melissa/melissa/409.ts
-#EXTINF:-1,Fox Sports Arizona (ts)
-http://149.202.198.149:8000/live/melissa/melissa/468.ts
-#EXTINF:-1,Fox Sports Florida (ts)
-http://149.202.198.149:8000/live/melissa/melissa/462.ts
-#EXTINF:-1,Fox Sports Prime Ticket (ts)
-http://149.202.198.149:8000/live/melissa/melissa/471.ts
-#EXTINF:-1,Fox Sports South (ts)
-http://149.202.198.149:8000/live/melissa/melissa/465.ts
-#EXTINF:-1,Fox Sports Southwest (ts)
-http://149.202.198.149:8000/live/melissa/melissa/469.ts
-#EXTINF:-1,FOX Sports West (ts)
-http://149.202.198.149:8000/live/melissa/melissa/463.ts
-#EXTINF:-1,(HD) Movistar Fórmula1
-http://149.202.198.149:8000/live/melissa/melissa/1279.ts
-#EXTINF:-1,(HQ) Movistar Fórmula1
-http://149.202.198.149:8000/live/melissa/melissa/931.ts
-#EXTINF:-1,(HD) PX HD
-http://149.202.198.149:8000/live/melissa/melissa/1286.ts
-#EXTINF:-1,(HQ) PX HD
-http://149.202.198.149:8000/live/melissa/melissa/938.ts
-#EXTINF:-1,(HD) Aym Sports
-http://149.202.198.149:8000/live/melissa/melissa/1287.ts
-#EXTINF:-1,(HQ) Aym Sports
-http://149.202.198.149:8000/live/melissa/melissa/939.ts
-#EXTINF:-1,(HQ) GOLPERU
-http://149.202.198.149:8000/live/melissa/melissa/1308.ts
-#EXTINF:-1,TODO DEPORTES
-http://149.202.198.149:8000/live/melissa/melissa/1630.ts
-#EXTINF:-1,Univision Deportes Network * *
-http://149.202.198.149:8000/live/melissa/melissa/1631.ts
-#EXTINF:-1,Canal 11
-http://149.202.198.149:8000/live/melissa/melissa/1629.ts
-#EXTINF:-1,(HQ) beIN SPORTS en espanol
-http://149.202.198.149:8000/live/melissa/melissa/1309.ts
-#EXTINF:-1,(HD) beIN SPORTS en espanol
-http://149.202.198.149:8000/live/melissa/melissa/1310.ts
-#EXTINF:-1,(UHD) beIN SPORTS en espanol
-http://149.202.198.149:8000/live/melissa/melissa/1318.ts
-#EXTINF:-1,(HD) WinSports
-http://149.202.198.149:8000/live/melissa/melissa/1307.ts
-#EXTINF:-1,(SD)FOX SPORTS LIVE
-http://149.202.198.149:8000/live/melissa/melissa/1316.ts
-#EXTINF:-1,(HD) TDN
-http://149.202.198.149:8000/live/melissa/melissa/1321.ts
-#EXTINF:-1,TDN (ts)
-http://149.202.198.149:8000/live/melissa/melissa/414.ts
-#EXTINF:-1,Univision TDN (ts)
-http://149.202.198.149:8000/live/melissa/melissa/415.ts
-#EXTINF:-1,(HQ) UNIVISION TDN
-http://149.202.198.149:8000/live/melissa/melissa/1313.ts
-#EXTINF:-1,Univision Deportes (ts)
-http://149.202.198.149:8000/live/melissa/melissa/419.ts
-#EXTINF:-1,Wapa2 (sd)
-http://149.202.198.149:8000/live/melissa/melissa/190.ts
-#EXTINF:-1,NBA TV (ts)
-http://149.202.198.149:8000/live/melissa/melissa/434.ts
-#EXTINF:-1,Planeta Futbol (ts)
-http://149.202.198.149:8000/live/melissa/melissa/413.ts
-#EXTINF:-1,(HQ) UFC Network
-http://149.202.198.149:8000/live/melissa/melissa/1315.ts
-#EXTINF:-1,(HD) UFC HD
-http://149.202.198.149:8000/live/melissa/melissa/1317.ts
-#EXTINF:-1,UFC Network (ts)
-http://149.202.198.149:8000/live/melissa/melissa/411.ts
-#EXTINF:-1,BOXnation (ts)
-http://149.202.198.149:8000/live/melissa/melissa/449.ts
-#EXTINF:-1,WWE Network (ts)
-http://149.202.198.149:8000/live/melissa/melissa/440.ts
-#EXTINF:-1,BT Sport 1 (ts)
-http://149.202.198.149:8000/live/melissa/melissa/456.ts
-#EXTINF:-1,BT Sport 2 (ts)
-http://149.202.198.149:8000/live/melissa/melissa/457.ts
-#EXTINF:-1,ASTRO SuperSport 1 (ts)
-http://149.202.198.149:8000/live/melissa/melissa/458.ts
-#EXTINF:-1,ASTRO SuperSport 2 (ts)
-http://149.202.198.149:8000/live/melissa/melissa/459.ts
-#EXTINF:-1,ASTRO SuperSport 3 (ts)
-http://149.202.198.149:8000/live/melissa/melissa/460.ts
-#EXTINF:-1,At The Races (ts)
-http://149.202.198.149:8000/live/melissa/melissa/443.ts
-#EXTINF:-1,BeinSports en Espanol (ts)
-http://149.202.198.149:8000/live/melissa/melissa/412.ts
-#EXTINF:-1,CBS Sports Network (ts)
-http://149.202.198.149:8000/live/melissa/melissa/436.ts
-#EXTINF:-1,Comcast Sports Net Bay Area (ts)
-http://149.202.198.149:8000/live/melissa/melissa/464.ts
-#EXTINF:-1,(HQ) TELEDEPORTE
-http://149.202.198.149:8000/live/melissa/melissa/1439.ts
-#EXTINF:-1,DXTV (ts)
-http://149.202.198.149:8000/live/melissa/melissa/417.ts
-#EXTINF:-1,(HQ) DEPORTV
-http://149.202.198.149:8000/live/melissa/melissa/1425.ts
-#EXTINF:-1,Eurosport 1 (ts)
-http://149.202.198.149:8000/live/melissa/melissa/445.ts
-#EXTINF:-1,Eurosport 2 (ts)
-http://149.202.198.149:8000/live/melissa/melissa/446.ts
-#EXTINF:-1,Movistar Fórmula1 (ts)
-http://149.202.198.149:8000/live/melissa/melissa/410.ts
-#EXTINF:-1,Golf Channel (ts)
-http://149.202.198.149:8000/live/melissa/melissa/418.ts
 #EXTINF:-1,(HQ) GOLTV
-http://149.202.198.149:8000/live/melissa/melissa/1381.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/1835.ts
+#EXTINF:-1,(HQ) DEPORTV
+http://149.202.202.127:8000/live/tocmelissa/melissa/1879.ts
+#EXTINF:-1,(HQ) GOLPERU
+http://149.202.202.127:8000/live/tocmelissa/melissa/1824.ts
+#EXTINF:-1,TODO DEPORTES *
+http://149.202.202.127:8000/live/tocmelissa/melissa/2650.ts
+#EXTINF:-1,Univision Deportes Network * beIN Sports
+http://149.202.202.127:8000/live/tocmelissa/melissa/2651.ts
+#EXTINF:-1,Canal 11
+http://149.202.202.127:8000/live/tocmelissa/melissa/2649.ts
+#EXTINF:-1,(UHD) beIN SPORTS en espanol
+http://149.202.202.127:8000/live/tocmelissa/melissa/1834.ts
+#EXTINF:-1,(HD) TDN
+http://149.202.202.127:8000/live/tocmelissa/melissa/1961.ts
+#EXTINF:-1,(HQ) UNIVISION TDN
+http://149.202.202.127:8000/live/tocmelissa/melissa/1829.ts
+#EXTINF:-1,(HQ) Univision Deportes Network
+http://149.202.202.127:8000/live/tocmelissa/melissa/1825.ts
+#EXTINF:-1,(HD) WinSports
+http://149.202.202.127:8000/live/tocmelissa/melissa/1823.ts
+#EXTINF:-1,(HD) UFC HD
+http://149.202.202.127:8000/live/tocmelissa/melissa/1833.ts
+#EXTINF:-1,(HD) TyC Sports
+http://149.202.202.127:8000/live/tocmelissa/melissa/1827.ts
+#EXTINF:-1,(HQ) Fox Sports
+http://149.202.202.127:8000/live/tocmelissa/melissa/1800.ts
+#EXTINF:-1,(HQ) Fox Sports 2 HD
+http://149.202.202.127:8000/live/tocmelissa/melissa/1801.ts
+#EXTINF:-1,(HQ) ESPN
+http://149.202.202.127:8000/live/tocmelissa/melissa/1796.ts
+#EXTINF:-1,(HQ) ESPN HD
+http://149.202.202.127:8000/live/tocmelissa/melissa/1798.ts
+#EXTINF:-1,(HQ) ESPN 2 HD
+http://149.202.202.127:8000/live/tocmelissa/melissa/1799.ts
+#EXTINF:-1,(HQ) ESPN 3
+http://149.202.202.127:8000/live/tocmelissa/melissa/1797.ts
+#EXTINF:-1,(HQ) Aym Sports
+http://149.202.202.127:8000/live/tocmelissa/melissa/1803.ts
+#EXTINF:-1,(HQ) Formula 1 HD
+http://149.202.202.127:8000/live/tocmelissa/melissa/1795.ts
+#EXTINF:-1,(HQ) PX HD
+http://149.202.202.127:8000/live/tocmelissa/melissa/1802.ts
+#EXTINF:-1,(HQ)  Teledeportes
+http://149.202.202.127:8000/live/tocmelissa/melissa/3424.ts
+#EXTINF:-1,(HQ) TELEDEPORTE
+http://149.202.202.127:8000/live/tocmelissa/melissa/1893.ts
+#EXTINF:-1,(HQ)  Movis Star Moto Gp
+http://149.202.202.127:8000/live/tocmelissa/melissa/3436.ts
+#EXTINF:-1,(HQ)  Movi Star F1
+http://149.202.202.127:8000/live/tocmelissa/melissa/3437.ts
+#EXTINF:-1,(HQ)  Canal  Toros
+http://149.202.202.127:8000/live/tocmelissa/melissa/3453.ts
+#EXTINF:-1,(HQ)  Canal  Liga
+http://149.202.202.127:8000/live/tocmelissa/melissa/3456.ts
+#EXTINF:-1,(HQ)  Canal  Golf
+http://149.202.202.127:8000/live/tocmelissa/melissa/3458.ts
+#EXTINF:-1,(HQ)  Canal  Futbol
+http://149.202.202.127:8000/live/tocmelissa/melissa/3459.ts
+#EXTINF:-1,(HQ)  Canal  Deportes HD
+http://149.202.202.127:8000/live/tocmelissa/melissa/3462.ts
+#EXTINF:-1,(HQ)  Barca TV
+http://149.202.202.127:8000/live/tocmelissa/melissa/3471.ts
+#EXTINF:-1,(HQ) Real Madrid TV
+http://149.202.202.127:8000/live/tocmelissa/melissa/1831.ts
+#EXTINF:-1,ASTRO SuperSport 1 (ts)
+http://149.202.202.127:8000/live/tocmelissa/melissa/2359.ts
+#EXTINF:-1,ASTRO SuperSport 2 (ts)
+http://149.202.202.127:8000/live/tocmelissa/melissa/2360.ts
+#EXTINF:-1,ASTRO SuperSport 3 (ts)
+http://149.202.202.127:8000/live/tocmelissa/melissa/2361.ts
+#EXTINF:-1,At The Races (ts)
+http://149.202.202.127:8000/live/tocmelissa/melissa/2344.ts
+#EXTINF:-1,BeinSports en Espanol (ts)
+http://149.202.202.127:8000/live/tocmelissa/melissa/2313.ts
+#EXTINF:-1,BOXnation (ts)
+http://149.202.202.127:8000/live/tocmelissa/melissa/2350.ts
+#EXTINF:-1,BT Sport 1 (ts)
+http://149.202.202.127:8000/live/tocmelissa/melissa/2357.ts
+#EXTINF:-1,BT Sport 2 (ts)
+http://149.202.202.127:8000/live/tocmelissa/melissa/2358.ts
+#EXTINF:-1,CBS Sports Network (ts)
+http://149.202.202.127:8000/live/tocmelissa/melissa/2337.ts
+#EXTINF:-1,Comcast Sports Net Bay Area (ts)
+http://149.202.202.127:8000/live/tocmelissa/melissa/2365.ts
+#EXTINF:-1,DXTV (ts)
+http://149.202.202.127:8000/live/tocmelissa/melissa/2318.ts
+#EXTINF:-1,ESPN (ts)
+http://149.202.202.127:8000/live/tocmelissa/melissa/2305.ts
+#EXTINF:-1,ESPN 2 (ts)
+http://149.202.202.127:8000/live/tocmelissa/melissa/2306.ts
+#EXTINF:-1,ESPN 2 US (ts)
+http://149.202.202.127:8000/live/tocmelissa/melissa/2324.ts
+#EXTINF:-1,ESPN 3 (ts)
+http://149.202.202.127:8000/live/tocmelissa/melissa/2307.ts
+#EXTINF:-1,ESPN US (ts)
+http://149.202.202.127:8000/live/tocmelissa/melissa/2321.ts
+#EXTINF:-1,ESPNews US (ts)
+http://149.202.202.127:8000/live/tocmelissa/melissa/2323.ts
+#EXTINF:-1,ESPNU (ts)
+http://149.202.202.127:8000/live/tocmelissa/melissa/2322.ts
+#EXTINF:-1,Eurosport 1 (ts)
+http://149.202.202.127:8000/live/tocmelissa/melissa/2346.ts
+#EXTINF:-1,Eurosport 2 (ts)
+http://149.202.202.127:8000/live/tocmelissa/melissa/2347.ts
+#EXTINF:-1,Formula 1 (ts)
+http://149.202.202.127:8000/live/tocmelissa/melissa/2311.ts
+#EXTINF:-1,Fox Sports (ts)
+http://149.202.202.127:8000/live/tocmelissa/melissa/2308.ts
+#EXTINF:-1,Fox Sports 1 US (ts)
+http://149.202.202.127:8000/live/tocmelissa/melissa/2330.ts
+#EXTINF:-1,Fox Sports 2 (ts)
+http://149.202.202.127:8000/live/tocmelissa/melissa/2309.ts
+#EXTINF:-1,Fox Sports 2 US (ts)
+http://149.202.202.127:8000/live/tocmelissa/melissa/2331.ts
+#EXTINF:-1,Fox Sports 3 (ts)
+http://149.202.202.127:8000/live/tocmelissa/melissa/2310.ts
+#EXTINF:-1,Fox Sports Arizona (ts)
+http://149.202.202.127:8000/live/tocmelissa/melissa/2369.ts
+#EXTINF:-1,Fox Sports Florida (ts)
+http://149.202.202.127:8000/live/tocmelissa/melissa/2363.ts
+#EXTINF:-1,Fox Sports Prime Ticket (ts)
+http://149.202.202.127:8000/live/tocmelissa/melissa/2372.ts
+#EXTINF:-1,Fox Sports South (ts)
+http://149.202.202.127:8000/live/tocmelissa/melissa/2366.ts
+#EXTINF:-1,Fox Sports Southwest (ts)
+http://149.202.202.127:8000/live/tocmelissa/melissa/2370.ts
+#EXTINF:-1,FOX Sports West (ts)
+http://149.202.202.127:8000/live/tocmelissa/melissa/2364.ts
+#EXTINF:-1,Golf Channel (ts)
+http://149.202.202.127:8000/live/tocmelissa/melissa/2319.ts
 #EXTINF:-1,GolTV (ts)
-http://149.202.198.149:8000/live/melissa/melissa/416.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2317.ts
 #EXTINF:-1,MASN (ts)
-http://149.202.198.149:8000/live/melissa/melissa/466.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2367.ts
 #EXTINF:-1,MAV tv (ts)
-http://149.202.198.149:8000/live/melissa/melissa/439.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2340.ts
 #EXTINF:-1,MLB EXTRA innings (ts)
-http://149.202.198.149:8000/live/melissa/melissa/432.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2333.ts
 #EXTINF:-1,MLB Network (ts)
-http://149.202.198.149:8000/live/melissa/melissa/431.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2332.ts
 #EXTINF:-1,MSG (ts)
-http://149.202.198.149:8000/live/melissa/melissa/448.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2349.ts
 #EXTINF:-1,MUTV (ts)
-http://149.202.198.149:8000/live/melissa/melissa/447.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2348.ts
+#EXTINF:-1,NBA TV (ts)
+http://149.202.202.127:8000/live/tocmelissa/melissa/2335.ts
 #EXTINF:-1,NBC Sport Network (ts)
-http://149.202.198.149:8000/live/melissa/melissa/437.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2338.ts
 #EXTINF:-1,New England Sports Network (ts)
-http://149.202.198.149:8000/live/melissa/melissa/467.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2368.ts
 #EXTINF:-1,NFL Network (ts)
-http://149.202.198.149:8000/live/melissa/melissa/433.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2334.ts
 #EXTINF:-1,NHL Network USA (ts)
-http://149.202.198.149:8000/live/melissa/melissa/435.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2336.ts
+#EXTINF:-1,Planeta Futbol (ts)
+http://149.202.202.127:8000/live/tocmelissa/melissa/2314.ts
 #EXTINF:-1,Racing UK (ts)
-http://149.202.198.149:8000/live/melissa/melissa/444.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2345.ts
 #EXTINF:-1,Setanta Sports (ts)
-http://149.202.198.149:8000/live/melissa/melissa/442.ts
-#EXTINF:-1,SKY Sports 1 (ts)
-http://149.202.198.149:8000/live/melissa/melissa/450.ts
-#EXTINF:-1,SKY Sports 2 (ts)
-http://149.202.198.149:8000/live/melissa/melissa/451.ts
-#EXTINF:-1,SKY Sports 3 (ts)
-http://149.202.198.149:8000/live/melissa/melissa/452.ts
-#EXTINF:-1,SKY Sports 4 (ts)
-http://149.202.198.149:8000/live/melissa/melissa/453.ts
-#EXTINF:-1,SKY Sports 5 (ts)
-http://149.202.198.149:8000/live/melissa/melissa/454.ts
-#EXTINF:-1,SKY Sports F1 (ts)
-http://149.202.198.149:8000/live/melissa/melissa/455.ts
-#EXTINF:-1,SKY Sports News (ts)
-http://149.202.198.149:8000/live/melissa/melissa/438.ts
-#EXTINF:-1,Sport 1 (ts)
-http://149.202.198.149:8000/live/melissa/melissa/474.ts
-#EXTINF:-1,Sport 2 (ts)
-http://149.202.198.149:8000/live/melissa/melissa/475.ts
-#EXTINF:-1,Sport 3 (ts)
-http://149.202.198.149:8000/live/melissa/melissa/476.ts
-#EXTINF:-1,Sport 4 (ts)
-http://149.202.198.149:8000/live/melissa/melissa/477.ts
-#EXTINF:-1,Sport 5 (ts)
-http://149.202.198.149:8000/live/melissa/melissa/478.ts
-#EXTINF:-1,Sport 6 (ts)
-http://149.202.198.149:8000/live/melissa/melissa/479.ts
-#EXTINF:-1,SportsNet New York (ts)
-http://149.202.198.149:8000/live/melissa/melissa/470.ts
-#EXTINF:-1,Tennis Channel (ts)
-http://149.202.198.149:8000/live/melissa/melissa/441.ts
-#EXTINF:-1,Time Warner Cable Sportsnet Dodgers (ts)
-http://149.202.198.149:8000/live/melissa/melissa/472.ts
-#EXTINF:-1,Time Warner Cable Sportsnet Lakers (ts)
-http://149.202.198.149:8000/live/melissa/melissa/473.ts
-#EXTINF:-1,TSN 1 (ts)
-http://149.202.198.149:8000/live/melissa/melissa/424.ts
-#EXTINF:-1,TSN 2 (ts)
-http://149.202.198.149:8000/live/melissa/melissa/425.ts
-#EXTINF:-1,TSN 3 (ts)
-http://149.202.198.149:8000/live/melissa/melissa/426.ts
-#EXTINF:-1,TSN 4 (ts)
-http://149.202.198.149:8000/live/melissa/melissa/427.ts
-#EXTINF:-1,TSN 5 (ts)
-http://149.202.198.149:8000/live/melissa/melissa/428.ts
-#EXTINF:-1,Ultimate Events & Sports (ts)
-http://149.202.198.149:8000/live/melissa/melissa/482.ts
-#EXTINF:-1,Yes Network (ts)
-http://149.202.198.149:8000/live/melissa/melissa/461.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2343.ts
 
 
 
@@ -1369,272 +1313,269 @@ http://iptvcanales.com/xw/pinfantiles.php?movie=188
 http://0.0.0.0:1234
 
 #EXTINF:-1,A&E (sd)
-http://149.202.198.149:8000/live/melissa/melissa/248.ts
-#EXTINF:-1,ABC 5 Puerto Rico (sd)
-http://149.202.198.149:8000/live/melissa/melissa/195.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2227.ts
 #EXTINF:-1,AMC (sd)
-http://149.202.198.149:8000/live/melissa/melissa/297.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2276.ts
 #EXTINF:-1,Animal Planet (sd)
-http://149.202.198.149:8000/live/melissa/melissa/227.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2206.ts
 #EXTINF:-1,Antena 3 (sd)
-http://149.202.198.149:8000/live/melissa/melissa/212.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2191.ts
 #EXTINF:-1,AXN (sd)
-http://149.202.198.149:8000/live/melissa/melissa/251.ts
-#EXTINF:-1,Az Mundo (sd)
-http://149.202.198.149:8000/live/melissa/melissa/198.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2230.ts
+#EXTINF:-1,Azteca Noticias (sd)
+http://149.202.202.127:8000/live/tocmelissa/melissa/2248.ts
 #EXTINF:-1,Baby TV (sd)
-http://149.202.198.149:8000/live/melissa/melissa/238.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2217.ts
 #EXTINF:-1,Bandamax (sd)
-http://149.202.198.149:8000/live/melissa/melissa/283.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2262.ts
 #EXTINF:-1,BBC Entertainment (sd)
-http://149.202.198.149:8000/live/melissa/melissa/240.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2219.ts
 #EXTINF:-1,Boomerang (sd)
-http://149.202.198.149:8000/live/melissa/melissa/235.ts
-#EXTINF:-1,Canal De Las Estrellas (sd)
-http://149.202.198.149:8000/live/melissa/melissa/199.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2214.ts
 #EXTINF:-1,Caracol Internacional (sd)
-http://149.202.198.149:8000/live/melissa/melissa/204.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2183.ts
 #EXTINF:-1,Cartoon Network (sd)
-http://149.202.198.149:8000/live/melissa/melissa/234.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2213.ts
 #EXTINF:-1,Casa Club TV (sd)
-http://149.202.198.149:8000/live/melissa/melissa/257.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2236.ts
 #EXTINF:-1,CB24 (sd)
-http://149.202.198.149:8000/live/melissa/melissa/271.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2250.ts
 #EXTINF:-1,CBeebies (sd)
-http://149.202.198.149:8000/live/melissa/melissa/236.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2215.ts
 #EXTINF:-1,Cine Dinamita (sd)
-http://149.202.198.149:8000/live/melissa/melissa/285.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2264.ts
 #EXTINF:-1,CineCanal (sd)
-http://149.202.198.149:8000/live/melissa/melissa/294.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2273.ts
 #EXTINF:-1,CineLatino (sd)
-http://149.202.198.149:8000/live/melissa/melissa/287.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2266.ts
 #EXTINF:-1,Cinemax  (sd)
-http://149.202.198.149:8000/live/melissa/melissa/295.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2274.ts
 #EXTINF:-1,CNN en Espanol (sd)
-http://149.202.198.149:8000/live/melissa/melissa/267.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2246.ts
 #EXTINF:-1,Comedy Central  (sd)
-http://149.202.198.149:8000/live/melissa/melissa/262.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2241.ts
 #EXTINF:-1,Concert Channel (sd)
-http://149.202.198.149:8000/live/melissa/melissa/281.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2260.ts
 #EXTINF:-1,Discovery en Español (sd)
-http://149.202.198.149:8000/live/melissa/melissa/219.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2198.ts
 #EXTINF:-1,Discovery Home & Health  (sd)
-http://149.202.198.149:8000/live/melissa/melissa/222.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2201.ts
 #EXTINF:-1,Discovery Kids (sd)
-http://149.202.198.149:8000/live/melissa/melissa/233.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2212.ts
 #EXTINF:-1,Discovery Theater (sd)
-http://149.202.198.149:8000/live/melissa/melissa/220.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2199.ts
 #EXTINF:-1,Discovery World (sd)
-http://149.202.198.149:8000/live/melissa/melissa/221.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2200.ts
 #EXTINF:-1,Disney Channel  (sd)
-http://149.202.198.149:8000/live/melissa/melissa/228.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2207.ts
 #EXTINF:-1,Disney Junior  (sd)
-http://149.202.198.149:8000/live/melissa/melissa/230.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2209.ts
 #EXTINF:-1,Disney XD  (sd)
-http://149.202.198.149:8000/live/melissa/melissa/229.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2208.ts
 #EXTINF:-1,Distrito Comedia (sd)
-http://149.202.198.149:8000/live/melissa/melissa/261.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2240.ts
 #EXTINF:-1,DW Latinoamerica (sd)
-http://149.202.198.149:8000/live/melissa/melissa/216.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2195.ts
 #EXTINF:-1,E! (sd)
-http://149.202.198.149:8000/live/melissa/melissa/243.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2222.ts
 #EXTINF:-1,Efekto TV (sd)
-http://149.202.198.149:8000/live/melissa/melissa/264.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2243.ts
 #EXTINF:-1,El Financiero Bloomberg (sd)
-http://149.202.198.149:8000/live/melissa/melissa/268.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2247.ts
 #EXTINF:-1,Elgourmet (sd)
-http://149.202.198.149:8000/live/melissa/melissa/256.ts
-#EXTINF:-1,Estrella TV (sd)
-http://149.202.198.149:8000/live/melissa/melissa/200.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2235.ts
 #EXTINF:-1,Eurochannel (sd)
-http://149.202.198.149:8000/live/melissa/melissa/252.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2231.ts
 #EXTINF:-1,Euronews en Espanol (sd)
-http://149.202.198.149:8000/live/melissa/melissa/272.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2251.ts
 #EXTINF:-1,Europa Europa (sd)
-http://149.202.198.149:8000/live/melissa/melissa/301.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2280.ts
 #EXTINF:-1,Film & Arts  (sd)
-http://149.202.198.149:8000/live/melissa/melissa/302.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2281.ts
 #EXTINF:-1,Film Zone (sd)
-http://149.202.198.149:8000/live/melissa/melissa/303.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2282.ts
 #EXTINF:-1,Fox (sd)
-http://149.202.198.149:8000/live/melissa/melissa/246.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2225.ts
 #EXTINF:-1,Fox 1 Este (sd)
-http://149.202.198.149:8000/live/melissa/melissa/304.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2283.ts
 #EXTINF:-1,Fox 1 Oeste (sd)
-http://149.202.198.149:8000/live/melissa/melissa/305.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2284.ts
 #EXTINF:-1,Fox Action Este (sd)
-http://149.202.198.149:8000/live/melissa/melissa/309.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2288.ts
 #EXTINF:-1,Fox Action Oeste (sd)
-http://149.202.198.149:8000/live/melissa/melissa/310.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2289.ts
 #EXTINF:-1,Fox Cinema (sd)
-http://149.202.198.149:8000/live/melissa/melissa/308.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2287.ts
 #EXTINF:-1,Fox Classics  (sd)
-http://149.202.198.149:8000/live/melissa/melissa/312.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2291.ts
 #EXTINF:-1,Fox Comedy (sd)
-http://149.202.198.149:8000/live/melissa/melissa/307.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2286.ts
 #EXTINF:-1,Fox Family (sd)
-http://149.202.198.149:8000/live/melissa/melissa/306.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2285.ts
 #EXTINF:-1,FOX Life (sd)
-http://149.202.198.149:8000/live/melissa/melissa/260.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2239.ts
 #EXTINF:-1,Fox Movies  (sd)
-http://149.202.198.149:8000/live/melissa/melissa/311.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2290.ts
 #EXTINF:-1,FX  (sd)
-http://149.202.198.149:8000/live/melissa/melissa/244.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2223.ts
 #EXTINF:-1,Galicia TV (sd)
-http://149.202.198.149:8000/live/melissa/melissa/215.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2194.ts
 #EXTINF:-1,Glitz  (sd)
-http://149.202.198.149:8000/live/melissa/melissa/259.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2238.ts
 #EXTINF:-1,Golden (sd)
-http://149.202.198.149:8000/live/melissa/melissa/288.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2267.ts
 #EXTINF:-1,Golden Edge (sd)
-http://149.202.198.149:8000/live/melissa/melissa/289.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2268.ts
 #EXTINF:-1,Golden Multiplex (sd)
-http://149.202.198.149:8000/live/melissa/melissa/290.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2269.ts
 #EXTINF:-1,Golden Premier 1 (sd)
-http://149.202.198.149:8000/live/melissa/melissa/323.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2302.ts
 #EXTINF:-1,Golden Premier 2 (sd)
-http://149.202.198.149:8000/live/melissa/melissa/324.ts
-#EXTINF:-1,History en Español (sd)
-http://149.202.198.149:8000/live/melissa/melissa/224.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2303.ts
 #EXTINF:-1,H2  (sd)
-http://149.202.198.149:8000/live/melissa/melissa/223.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2202.ts
 #EXTINF:-1,HBO  (sd)
-http://149.202.198.149:8000/live/melissa/melissa/313.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2292.ts
 #EXTINF:-1,HBO 2  (sd)
-http://149.202.198.149:8000/live/melissa/melissa/314.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2293.ts
 #EXTINF:-1,HBO Family  (sd)
-http://149.202.198.149:8000/live/melissa/melissa/317.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2296.ts
 #EXTINF:-1,HBO Plus Este (sd)
-http://149.202.198.149:8000/live/melissa/melissa/315.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2294.ts
 #EXTINF:-1,HBO Plus Oeste (sd)
-http://149.202.198.149:8000/live/melissa/melissa/316.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2295.ts
 #EXTINF:-1,HBO Signature  (sd)
-http://149.202.198.149:8000/live/melissa/melissa/318.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2297.ts
+#EXTINF:-1,History en Español (sd)
+http://149.202.202.127:8000/live/tocmelissa/melissa/2203.ts
 #EXTINF:-1,HTV (sd)
-http://149.202.198.149:8000/live/melissa/melissa/282.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2261.ts
 #EXTINF:-1,I-Sat (sd)
-http://149.202.198.149:8000/live/melissa/melissa/300.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2279.ts
 #EXTINF:-1,Investigation Discovery (sd)
-http://149.202.198.149:8000/live/melissa/melissa/249.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2228.ts
 #EXTINF:-1,K Music (sd)
-http://149.202.198.149:8000/live/melissa/melissa/280.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2259.ts
 #EXTINF:-1,Lifetime  (sd)
-http://149.202.198.149:8000/live/melissa/melissa/266.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2245.ts
 #EXTINF:-1,MAX (sd)
-http://149.202.198.149:8000/live/melissa/melissa/322.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2301.ts
 #EXTINF:-1,Max Prime Este (sd)
-http://149.202.198.149:8000/live/melissa/melissa/320.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2299.ts
 #EXTINF:-1,Max Prime Oeste (sd)
-http://149.202.198.149:8000/live/melissa/melissa/321.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2300.ts
 #EXTINF:-1,Max UP  (sd)
-http://149.202.198.149:8000/live/melissa/melissa/319.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2298.ts
 #EXTINF:-1,MTV  (sd)
-http://149.202.198.149:8000/live/melissa/melissa/276.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2255.ts
 #EXTINF:-1,MTV Hits  (sd)
-http://149.202.198.149:8000/live/melissa/melissa/277.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2256.ts
 #EXTINF:-1,Multimedios Plus (sd)
-http://149.202.198.149:8000/live/melissa/melissa/265.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2244.ts
 #EXTINF:-1,MultiPremier (sd)
-http://149.202.198.149:8000/live/melissa/melissa/286.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2265.ts
 #EXTINF:-1,MundoFox (sd)
-http://149.202.198.149:8000/live/melissa/melissa/254.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2233.ts
 #EXTINF:-1,MundoMax (sd)
-http://149.202.198.149:8000/live/melissa/melissa/253.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2232.ts
 #EXTINF:-1,NatGeo (sd)
-http://149.202.198.149:8000/live/melissa/melissa/225.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2204.ts
 #EXTINF:-1,NatGeo Wild (sd)
-http://149.202.198.149:8000/live/melissa/melissa/226.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2205.ts
 #EXTINF:-1,NBC Universo (sd)
-http://149.202.198.149:8000/live/melissa/melissa/203.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2182.ts
 #EXTINF:-1,Nick Jr (sd)
-http://149.202.198.149:8000/live/melissa/melissa/232.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2211.ts
 #EXTINF:-1,Nickelodeon (sd)
-http://149.202.198.149:8000/live/melissa/melissa/231.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2210.ts
 #EXTINF:-1,NTN 24 (sd)
-http://149.202.198.149:8000/live/melissa/melissa/270.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2249.ts
 #EXTINF:-1,Paramount Channel  (sd)
-http://149.202.198.149:8000/live/melissa/melissa/291.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2270.ts
 #EXTINF:-1,Pasiones (sd)
-http://149.202.198.149:8000/live/melissa/melissa/208.ts
-#EXTINF:-1,Punto 2 (sd)
-http://149.202.198.149:8000/live/melissa/melissa/191.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2187.ts
 #EXTINF:-1,RCN Novelas (sd)
-http://149.202.198.149:8000/live/melissa/melissa/207.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2186.ts
 #EXTINF:-1,Regional Music (sd)
-http://149.202.198.149:8000/live/melissa/melissa/284.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2263.ts
 #EXTINF:-1,RT en Espanol (sd)
-http://149.202.198.149:8000/live/melissa/melissa/273.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2252.ts
 #EXTINF:-1,Sony (sd)
-http://149.202.198.149:8000/live/melissa/melissa/239.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2218.ts
 #EXTINF:-1,SPACE (sd)
-http://149.202.198.149:8000/live/melissa/melissa/296.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2275.ts
 #EXTINF:-1,Studio Universal (sd)
-http://149.202.198.149:8000/live/melissa/melissa/298.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2277.ts
 #EXTINF:-1,Sundance Channel  (sd)
-http://149.202.198.149:8000/live/melissa/melissa/292.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2271.ts
 #EXTINF:-1,Syfy (sd)
-http://149.202.198.149:8000/live/melissa/melissa/247.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2226.ts
 #EXTINF:-1,TBS (sd)
-http://149.202.198.149:8000/live/melissa/melissa/258.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2237.ts
 #EXTINF:-1,TCM  (sd)
-http://149.202.198.149:8000/live/melissa/melissa/299.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2278.ts
 #EXTINF:-1,TeleCentro (sd)
-http://149.202.198.149:8000/live/melissa/melissa/206.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2185.ts
 #EXTINF:-1,Telemundo (sd)
-http://149.202.198.149:8000/live/melissa/melissa/209.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2188.ts
 #EXTINF:-1,Telemundo Internacional (sd)
-http://149.202.198.149:8000/live/melissa/melissa/210.ts
-#EXTINF:-1,Telemundo Los Angeles (sd)
-http://149.202.198.149:8000/live/melissa/melissa/197.ts
-#EXTINF:-1,Telemundo Puerto Rico (sd)
-http://149.202.198.149:8000/live/melissa/melissa/192.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2189.ts
 #EXTINF:-1,Teletica (sd)
-http://149.202.198.149:8000/live/melissa/melissa/205.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2184.ts
 #EXTINF:-1,TLC (sd)
-http://149.202.198.149:8000/live/melissa/melissa/250.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2229.ts
 #EXTINF:-1,Tlnovelas America (sd)
-http://149.202.198.149:8000/live/melissa/melissa/211.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2190.ts
 #EXTINF:-1,TNT  (sd)
-http://149.202.198.149:8000/live/melissa/melissa/293.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2272.ts
 #EXTINF:-1,TNT Series  (sd)
-http://149.202.198.149:8000/live/melissa/melissa/255.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2234.ts
 #EXTINF:-1,Tooncast (sd)
-http://149.202.198.149:8000/live/melissa/melissa/237.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2216.ts
 #EXTINF:-1,Travel TV (sd)
-http://149.202.198.149:8000/live/melissa/melissa/275.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2254.ts
 #EXTINF:-1,Tru TV  (sd)
-http://149.202.198.149:8000/live/melissa/melissa/263.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2242.ts
 #EXTINF:-1,TV 5 Monde (sd)
-http://149.202.198.149:8000/live/melissa/melissa/218.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2197.ts
 #EXTINF:-1,TV Globo Internacional (sd)
-http://149.202.198.149:8000/live/melissa/melissa/217.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2196.ts
 #EXTINF:-1,TVE 1 (sd)
-http://149.202.198.149:8000/live/melissa/melissa/213.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2192.ts
 #EXTINF:-1,TVE 2 (sd)
-http://149.202.198.149:8000/live/melissa/melissa/214.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2193.ts
 #EXTINF:-1,TVE 24h (sd)
-http://149.202.198.149:8000/live/melissa/melissa/274.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2253.ts
 #EXTINF:-1,Unicable (sd)
-http://149.202.198.149:8000/live/melissa/melissa/241.ts
-#EXTINF:-1,UniMas (sd)
-http://149.202.198.149:8000/live/melissa/melissa/202.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2220.ts
 #EXTINF:-1,Universal Channel (sd)
-http://149.202.198.149:8000/live/melissa/melissa/245.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2224.ts
 #EXTINF:-1,Univision (sd)
-http://149.202.198.149:8000/live/melissa/melissa/201.ts
-#EXTINF:-1,Univision Los Angeles (sd)
-http://149.202.198.149:8000/live/melissa/melissa/196.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2180.ts
 #EXTINF:-1,Univision Puerto Rico (sd)
-http://149.202.198.149:8000/live/melissa/melissa/194.ts
-#EXTINF:-1,VH1  (sd)
-http://149.202.198.149:8000/live/melissa/melissa/279.ts
-#EXTINF:-1,VH1 Classic Europe (sd)
-http://149.202.198.149:8000/live/melissa/melissa/278.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2173.ts
+#EXTINF:-1,Univision Los Angeles (sd)
+http://149.202.202.127:8000/live/tocmelissa/melissa/2175.ts
 #EXTINF:-1,Wapa America  (sd)
-http://149.202.198.149:8000/live/melissa/melissa/193.ts
+http://149.202.202.127:8000/live/tocmelissa/melissa/2172.ts
+#EXTINF:-1,Telemundo Los Angeles (sd)
+http://149.202.202.127:8000/live/tocmelissa/melissa/2176.ts
+#EXTINF:-1,Telemundo Puerto Rico (sd)
+http://149.202.202.127:8000/live/tocmelissa/melissa/2171.ts
+#EXTINF:-1,Punto 2 (sd)
+http://149.202.202.127:8000/live/tocmelissa/melissa/2170.ts
+#EXTINF:-1,UniMas (sd)
+http://149.202.202.127:8000/live/tocmelissa/melissa/2181.ts
+#EXTINF:-1,ABC 5 Puerto Rico (sd)
+http://149.202.202.127:8000/live/tocmelissa/melissa/2174.ts
+#EXTINF:-1,Estrella TV (sd)
+http://149.202.202.127:8000/live/tocmelissa/melissa/2179.ts
+#EXTINF:-1,VH1  (sd)
+http://149.202.202.127:8000/live/tocmelissa/melissa/2258.ts
+#EXTINF:-1,VH1 Classic Europe (sd)
+http://149.202.202.127:8000/live/tocmelissa/melissa/2257.ts
 #EXTINF:-1,Warner Channel (sd)
-
-
+http://149.202.202.127:8000/live/tocmelissa/melissa/2221.ts
 
 #EXTINF:-1,[COLOR lime]Musica[/COLOR]
 http://?
