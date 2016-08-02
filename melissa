@@ -45,8 +45,6 @@ http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 http://nhkwglobal-i.akamaihd.net/hls/live/222714/nhkwglobal/index_1180.m3u8
 #EXTINF:-1 channelId="-1" , RT en espa�ol
 http://rt-lh.akamaihd.net/i/ch_02@325606/index_720p_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 channelId="-1" , Cartoon Network USA
-http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
 #EXTINF:-1 channelId="1944" , ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
 #EXTINF:-1 channelId="1333" , Redbull TV
@@ -385,11 +383,6 @@ http://?
 rtmp://edge.wms28.lorini.net/canalonce/canalonce
 #EXTINF:-1,TRT Venezuela
 rtmp://edge.wms28.lorini.net/trttv/trttv
-#EXTINF:-1,Canal i  Venezuela
-rtmp://edge.wms28.lorini.net/canal-i/canal-i
-#EXTINF:-1,Vale TV  Venezuela
-rtmp://edge.wms28.lorini.net/valetv/valetv
-
 
 
 #EXTINF:-1,[COLOR lime]---Rep. Dominicana---[/COLOR]
@@ -666,6 +659,10 @@ http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/
 #EXTINF:-1,[COLOR red]--------Deportes----------------[/COLOR]
 http://0.0.0.0:1234
 
+#EXTINF:-1,Chivas TV Rec (Chivas vs Jaguares)
+http://149.202.202.127:8000/live/tocmelissa/melissa/4134.ts
+#EXTINF:-1,(HQ) Canal+ Futbol
+http://149.202.202.127:8000/live/tocmelissa/melissa/4147.ts
 #EXTINF:-1,UFC Network (HD)
 http://149.202.202.127:8000/live/tocmelissa/melissa/1833.ts
 #EXTINF:-1,UFC Network (ts)
@@ -684,7 +681,7 @@ http://149.202.202.127:8000/live/tocmelissa/melissa/1961.ts
 http://149.202.202.127:8000/live/tocmelissa/melissa/2315.ts
 #EXTINF:-1,Univision TDN (ts)
 http://149.202.202.127:8000/live/tocmelissa/melissa/2316.ts
-#EXTINF:-1,Univision Deportes (ts)
+#EXTINF:-1,Univision Deportes  (ts)
 http://149.202.202.127:8000/live/tocmelissa/melissa/2320.ts
 #EXTINF:-1,Planeta Futbol (ts)
 http://149.202.202.127:8000/live/tocmelissa/melissa/2314.ts
@@ -770,7 +767,7 @@ http://149.202.202.127:8000/live/tocmelissa/melissa/2322.ts
 http://149.202.202.127:8000/live/tocmelissa/melissa/4039.ts
 #EXTINF:-1,ESPN (S)
 http://149.202.202.127:8000/live/tocmelissa/melissa/4103.ts
-#EXTINF:-1,(HQ) ESPN
+#EXTINF:-1,(HQ) ESPN DEPORTES
 http://149.202.202.127:8000/live/tocmelissa/melissa/1796.ts
 #EXTINF:-1,ESPN 2 (HD)
 http://149.202.202.127:8000/live/tocmelissa/melissa/4040.ts
@@ -870,30 +867,6 @@ http://149.202.202.127:8000/live/tocmelissa/melissa/2327.ts
 http://149.202.202.127:8000/live/tocmelissa/melissa/2328.ts
 #EXTINF:-1,TSN 5 (ts)
 http://149.202.202.127:8000/live/tocmelissa/melissa/2329.ts
-#EXTINF:-1,Ultimate Events & Sports (ts)
-http://149.202.202.127:8000/live/tocmelissa/melissa/2383.ts
-#EXTINF:-1,ASTRO SuperSport 1 (ts)
-http://149.202.202.127:8000/live/tocmelissa/melissa/2359.ts
-#EXTINF:-1,ASTRO SuperSport 2 (ts)
-http://149.202.202.127:8000/live/tocmelissa/melissa/2360.ts
-#EXTINF:-1,ASTRO SuperSport 3 (ts)
-http://149.202.202.127:8000/live/tocmelissa/melissa/2361.ts
-#EXTINF:-1,Sport 1 (ts)
-http://149.202.202.127:8000/live/tocmelissa/melissa/2375.ts
-#EXTINF:-1,Sport 2 (ts)
-http://149.202.202.127:8000/live/tocmelissa/melissa/2376.ts
-#EXTINF:-1,Sport 3 (ts)
-http://149.202.202.127:8000/live/tocmelissa/melissa/2377.ts
-#EXTINF:-1,Sport 4 (ts)
-http://149.202.202.127:8000/live/tocmelissa/melissa/2378.ts
-#EXTINF:-1,Sport 5 (ts)
-http://149.202.202.127:8000/live/tocmelissa/melissa/2379.ts
-#EXTINF:-1,Sport 6 (ts)
-http://149.202.202.127:8000/live/tocmelissa/melissa/2380.ts
-#EXTINF:-1,Sport 7 (ts)
-http://149.202.202.127:8000/live/tocmelissa/melissa/2381.ts
-#EXTINF:-1,Sport 8 (ts)
-http://149.202.202.127:8000/live/tocmelissa/melissa/2382.ts
 
 
 
@@ -1396,7 +1369,7 @@ http://149.202.202.127:8000/live/tocmelissa/melissa/2294.ts
 http://149.202.202.127:8000/live/tocmelissa/melissa/2295.ts
 #EXTINF:-1,HBO Signature  (sd)
 http://149.202.202.127:8000/live/tocmelissa/melissa/2297.ts
-#EXTINF:-1,History en Español (sd)
+#EXTINF:-1,History Channel (sd)
 http://149.202.202.127:8000/live/tocmelissa/melissa/2203.ts
 #EXTINF:-1,HTV (sd)
 http://149.202.202.127:8000/live/tocmelissa/melissa/2261.ts
@@ -1524,14 +1497,6 @@ http://149.202.202.127:8000/live/tocmelissa/melissa/2179.ts
 http://149.202.202.127:8000/live/tocmelissa/melissa/2258.ts
 #EXTINF:-1,VH1 Classic Europe (sd)
 http://149.202.202.127:8000/live/tocmelissa/melissa/2257.ts
-#EXTINF:-1,Warner Channel (sd)
-http://149.202.202.127:8000/live/tocmelissa/melissa/2221.ts
-#EXTINF:-1,Canal De Las Estrellas (sd)
-http://149.202.202.127:8000/live/tocmelissa/melissa/2178.ts
-#EXTINF:-1,Az Mundo (sd)
-http://149.202.202.127:8000/live/tocmelissa/melissa/2177.ts
-#EXTINF:-1,Chivas TV
-http://149.202.202.127:8000/live/tocmelissa/melissa/4105.ts
 
 
 #EXTINF:-1,[COLOR lime]Musica[/COLOR]
