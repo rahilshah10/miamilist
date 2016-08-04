@@ -1,0 +1,64 @@
+#EXTM3U
+
+#EXTINF:-1 channelId="2660" tvg-logo="el-trece.png" , El Trece HD
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
+#EXTINF:-1 channelId="2660" , AZTECA 13 HD
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
+#EXTINF:-1 channelId="2690" tvg-logo="proyecto-40.png" , Proyecto 40 HD
+http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_2_av-p.m3u8
+#EXTINF:-1 channelId="2124" , Antena 3
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0 channelId="1692" tvg-logo="lasexta.png" , La Sexta
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+#EXTINF:-1 channelId="1692" tvg-logo="http://www.espai.jazztel.es/photocall/tv/images/lasexta.png" , La Sexta
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="http://www.espai.jazztel.es/photocall/tv/images/mega.png" , MEGA
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
+#EXTINF:-1 channelId="-1" , MEGA 2
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8?sd=10&rebase=on
+http://ondalatina_tv-lh.akamaihd.net/i/OndaLatinaTv_1@42007/master.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="Una voz con todos.png" , Una voz con todos
+http://urtmpkal-f.akamaihd.net/i/0queot4rb_1@327205/master.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="RT en espa�ol.png" , RT en espa�ol
+http://rt-lh.akamaihd.net/i/ch_02@325606/index_720p_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 channelId="293" tvg-logo="Efekto TV.png" , Efekto TV
+http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/master.m3u8
+#EXTINF:-1 tvg-id="RussiaToday.es" group-title="Spanish" tvg-logo="russia_today.png",Russia Today ES HD
+http://rt.ashttp14.visionip.tv/live/RT_en_Espanol-HD/chunklist.m3u8
+#EXTINF:0 tvg-name="C5N News" tvg-language="Spanish" tvg-country="AR" tvg-id="C5N News" tvg-logo="http://tvtvtv.ru/icons/logo_988.png" group-title="News",C5N News (News) (AR) (Spanish)
+http://c5n.stweb.tv:1935/c5n/live/master.m3u8
+#EXTINF:0 tvg-name="CB24" tvg-language="Spanish" tvg-country="CR" tvg-id="CB24" tvg-logo="http://cb24.tv/wp-content/uploads/2012/12/logo-slogan.png" group-title="News",CB24 (News) (CR) (Spanish)
+#EXTINF:0 tvg-name="Efekto TV" tvg-language="Spanish" tvg-country="MX" tvg-id="Efekto TV" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTarHq19HUxp67LhWWCBHSY4Iek3n0t1wM0SF9CddaI4CrIFYE-YwOm8g" group-title="News",Efekto TV (News) (MX) (Spanish)
+http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/master.m3u8
+#EXTINF:0 tvg-name="Xtremo channel" tvg-language="Spanish" tvg-country="ES" tvg-id="Xtremo channel" tvg-logo="http://dominicaninternet.com/servicios/images/xtremo_logo_player.png" group-title="News",Xtremo channel (News) (ES) (Spanish)
+http://ss6.domint.net:1948/zol_str/vzol/playlist.m3u8
+#EXTINF:0 tvg-name="Antena 3 HD" tvg-language="Spanish" tvg-country="ES" tvg-id="Antena 3 HD" tvg-logo="http://img4.wikia.nocookie.net/__cb20141014151714/logopedia/images/0/05/Logo_Antena_3_HD_Premium.png" group-title="Entertainment",Antena 3 HD (Entertainment) (ES) (Spanish)
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
+#EXTINF: -1,EL TRECE HD
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
+#EXTINF: -1,PROYECTO 40 HD
+http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_2_av-p.m3u8
+#EXTINF: -1,ANTENA 3 HD
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
+#EXTINF: -1,MEGA
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
+#EXTINF: -1,LA SEXTA
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+#EXTINF: -1,CANAL 2 OBREGON
+http://74.63.97.188:1935/gpacifico3/videogpacifico3/chunklist_w1501260201.m3u8?
+#EXTINF: -1,CANL 7 MAZATLAN
+http://74.63.97.188:1935/gpacifico4/videogpacifico4/chunklist_w1774114891.m3u8?
+#EXTINF: -1,LA SEXTA HD
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8
+#EXTINF: -1,ANTENA 3 HD
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-p.m3u8
+
+
+
+
+
+
+
+
+
+
