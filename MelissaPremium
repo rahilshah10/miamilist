@@ -9,8 +9,8 @@ http://149.202.202.127:8000/live/melissa10/melissa10/2206.ts
 http://149.202.202.127:8000/live/melissa4/melissa4/2203.ts
 #EXTINF:-1,Discovery en Español (sd)
 http://149.202.202.127:8000/live/melissa1/melissa1/2198.ts
-#EXTINF:-1,Discovery World (sd)
-http://149.202.202.127:8000/live/melissa2/melissa2/2200.ts
+#EXTINF:-1,Discovery Theater (sd)
+http://149.202.202.127:8000/live/melissa1/melissa1/2199.ts
 #EXTINF:-1,NatGeo (sd)
 http://149.202.202.127:8000/live/melissa7/melissa7/2204.ts
 #EXTINF:-1 channelId="-1" tvg-logo="400x400-logo.png" group-title="COLOMBIA" , Canal Antiestr�s
@@ -87,8 +87,8 @@ http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/.m3u8
 http://edge3.adnstream.com:81/hls/intereconomia.m3u8
 #EXTINF:-1,Fox (sd)
 http://149.202.202.127:8000/live/melissa10/melissa10/2225.ts
-#EXTINF:-1,Fox Action Este (sd)
-http://149.202.202.127:8000/live/melissa1/melissa1/2288.ts
+#EXTINF:-1,(HQ) Fox Action 
+http://149.202.202.127:8000/live/melissa1/melissa1/1775.ts
 #EXTINF:-1,HBO 2 East (a)
 http://149.202.202.127:8000/live/melissa3/melissa3/2525.ts
 #EXTINF:-1,HBO Plus Este (sd)
